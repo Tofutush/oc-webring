@@ -6,6 +6,9 @@ what we need:
 
 - the site
   - still using good ol' 11ty
+  - a main page
+  - sites page
+  - how to join page
 - the sites
   - site info we need to collect * is required
     - name*
@@ -27,6 +30,8 @@ what we need:
     - profiles, not directories of toyhouse links.
     - art directories dont count. if your character profiles only have art in them thats fine, but only an "art" tab on site, no.
     - be able to put widget on your site. im not sure about carrd and stuff but since under there ive decided on the no widget js approach it means you dont need to run js on your site to join so it should be easier
+    - both original & fan ch welcome
+    - no hate, bigotry etc. this is becoming some sort of internet amulet.
   - how to join
     - pr. makes my life easier
     - google form

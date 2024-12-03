@@ -1,5 +1,15 @@
 {
+  "name": "oc-webring",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "eleventy --serve --pathprefix=oc-webring",
+    "build": "eleventy --pathprefix=oc-webring",
+    "buildneo": "eleventy --output=_neocities",
+    "copy": "copyfiles -u 1 \"./_site/img/**/*.*\" \"./_neocities\""
+  },
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "copyfiles": "^2.4.1"
   }
 }

@@ -1,0 +1,38 @@
+name: Build Eleventy
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Use Node.js current
+        uses: actions/setup-node@v3
+        with:
+          node-version: current
+
+      - name: Install dependencies & build
+        run: |
+          npm ci
+          npm run build
+          npm run buildneo
+          npm run copy
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site
+          publish_branch: gh-pages
+
+      - name: Deploy to neocities
+        uses: bcomnes/deploy-to-neocities@v2.0.2
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_KEY }}
+          cleanup: true
+          dist_dir: _neocities
