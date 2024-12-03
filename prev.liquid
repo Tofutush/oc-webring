@@ -1,0 +1,27 @@
+---
+layout: layout.liquid
+title: Previous
+desc: Fake-redirects to the previous site
+---
+
+<script>
+    fetch('/oc-webring/_data/sites.json')
+        .then(response => response.json())
+        .then(data => {
+            getPrev(data);
+        })
+        .catch(err => console.error(err));
+    function getPrev(siteList) {
+        let url = new URLSearchParams(window.location.search);
+        let originalSite = url.get('site');
+        let prevSite;
+        for(let z = 0; z < siteList.length; z++) {
+            if(siteList[z].mainurl === originalSite) {
+                if(z === 0) prevSite = siteList[siteList.length - 1].ocurl;
+                else prevSite = siteList[z - 1].ocurl;
+                break;
+            }
+        }
+        window.location.assign(prevSite ? prevSite : '../no-such-site/');
+    }
+</script>
