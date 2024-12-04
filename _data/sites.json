@@ -11,15 +11,17 @@
     {
         "name": "百度",
         "mainurl": "https://baidu.com",
-        "ocurl": "https://toyhou.se",
+        "ocurl": "https://image.baidu.com",
         "language": "zh",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"
+        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
+        "desc": "一个搜索引擎"
     },
     {
         "name": "google",
         "mainurl": "https://google.com",
         "ocurl": "https://docs.google.com",
         "language": "en",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"
+        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
+        "desc": "A shitty company so important we're stuck with it at least for now."
     }
 ]
