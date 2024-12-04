@@ -1,5 +1,5 @@
 function fakeRedirect(mode) {
-    fetch('/oc-webring/_data/sites.json')
+    fetch('../_data/sites.json')
         .then(response => response.json()).then(siteList => {
             let url = new URLSearchParams(window.location.search);
             let originalSite = url.get('site');
