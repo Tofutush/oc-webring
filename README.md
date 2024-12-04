@@ -9,11 +9,14 @@ what we need:
   - a main page
   - sites page
   - how to join page
+    - which includes docs towards users
+  - docs of the system (towards ppl who wanna make more webrings)
 - the sites
   - site info we need to collect * is required
     - name*
     - url*
     - url directly to the ch page*
+    - lang* (en/zh)
     - desc
       - length limit tbd
     - button
@@ -32,6 +35,9 @@ what we need:
     - be able to put widget on your site. im not sure about carrd and stuff but since under there ive decided on the no widget js approach it means you dont need to run js on your site to join so it should be easier
     - both original & fan ch welcome
     - no hate, bigotry etc. this is becoming some sort of internet amulet.
+    - chinese and english sites welcome.
+      - if so then i also need i18n the main site. no problem ive been meaning to learn how to i18n
+      - should i allow more languages if ppl volunteer to help review?
   - how to join
     - pr. makes my life easier
     - google form

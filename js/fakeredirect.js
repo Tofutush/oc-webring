@@ -5,21 +5,21 @@ function fakeRedirect(mode) {
             let originalSite = url.get('site');
             let index;
             for (let z = 0; z < siteList.length; z++) {
-                if (siteList[z].mainurl === originalSite) {
+                if (siteList[z].name === originalSite) {
                     index = z;
                     break;
                 }
             }
-            if (!index) {
+            if (index === undefined) {
                 window.location.assign('/oc-webring/no-such-site/');
                 return;
             }
             switch (mode) {
                 case 'prev':
-                    window.location.assign(siteList[index === 0 ? siteList.length - 1 : z - 1].ocurl);
+                    window.location.assign(siteList[index === 0 ? siteList.length - 1 : index - 1].ocurl);
                     break;
                 case 'next':
-                    window.location.assign(siteList[index === siteList.length - 1 ? 0 : z + 1].ocurl);
+                    window.location.assign(siteList[index === siteList.length - 1 ? 0 : index + 1].ocurl);
                     break;
                 case 'rand':
                     window.location.assign(siteList[getRandomNumberButExcludeOne(0, siteList.length - 1, index)].ocurl);
