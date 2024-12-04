@@ -3,20 +3,23 @@
         "name": "The Iron Ragdoll",
         "mainurl": "https://tofutush.github.io/The-Iron-Ragdoll",
         "ocurl": "https://tofutush.github.io/The-Iron-Ragdoll/characters",
+        "language": "en",
         "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
         "desc": "A bunch of colorful people with animal ears and horns. They play around and perhaps never grow up.",
         "warnings": "strong language, cartoon violence, and occasional mature themes"
     },
     {
-        "name": "Baidu",
+        "name": "百度",
         "mainurl": "https://baidu.com",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
-        "ocurl": "https://baidu.com"
+        "ocurl": "https://toyhou.se",
+        "language": "zh",
+        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"
     },
     {
         "name": "google",
         "mainurl": "https://google.com",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
-        "ocurl": "https://docs.google.com"
+        "ocurl": "https://docs.google.com",
+        "language": "en",
+        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif"
     }
 ]
