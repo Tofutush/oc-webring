@@ -1,0 +1,212 @@
+@font-face {
+    font-family: montserrat;
+    src: url(/fonts/Montserrat.ttf);
+    src: url(/oc-webring/fonts/Montserrat.ttf);
+}
+
+@font-face {
+    font-family: montserrat;
+    font-style: italic;
+    src: url(/fonts/Montserrat-Italic.ttf);
+    src: url(/oc-webring/fonts/Montserrat-Italic.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    src: url(/fonts/MontserratAlternates-Regular.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-Regular.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    font-style: italic;
+    src: url(/fonts/MontserratAlternates-Italic.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-Italic.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    font-weight: bold;
+    src: url(/fonts/MontserratAlternates-Bold.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-Bold.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    font-weight: bold;
+    font-style: italic;
+    src: url(/fonts/MontserratAlternates-BoldItalic.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: lxgw;
+    src: url(/fonts/LXGWWenKai-Regular.ttf);
+    src: url(/oc-webring/fonts/LXGWWenKai-Regular.ttf);
+}
+
+:root {
+    --font-size: clamp(16px, 0.75rem + 0.8vw, 24px);
+    --font-size-h1: calc(var(--font-size) * 1.5);
+    --font-size-h2: calc(var(--font-size) * 1.35);
+    --font-size-h3: calc(var(--font-size) * 1.2);
+    --font-size-small: calc(var(--font-size) * 0.8);
+    --radius: 16px;
+    --text: #121212;
+    --bg: #fff9f2;
+    --c: #e56b6f;
+    --box: #0001;
+    --box-shadow: 0 0 12px 4px #0002;
+}
+
+html {
+    --s: calc(var(--font-size) * 10);
+    --c1: #fff;
+    --c2: var(--bg);
+    --_g:
+        var(--c1) 0% 5%, var(--c2) 6% 15%, var(--c1) 16% 25%, var(--c2) 26% 35%, var(--c1) 36% 45%,
+        var(--c2) 46% 55%, var(--c1) 56% 65%, var(--c2) 66% 75%, var(--c1) 76% 85%, var(--c2) 86% 95%,
+        #0000 96%;
+    background:
+        radial-gradient(50% 50% at 100% 0, var(--_g)),
+        radial-gradient(50% 50% at 0 100%, var(--_g)),
+        radial-gradient(50% 50%, var(--_g)),
+        radial-gradient(50% 50%, var(--_g)) calc(var(--s)/2) calc(var(--s)/2) var(--c1);
+    background-size: var(--s) var(--s);
+}
+
+body {
+    font-family: montserrat, lxgw;
+    font-size: var(--font-size);
+    color: var(--text);
+    hyphens: auto;
+    margin: 0;
+}
+
+h1,
+h2,
+h3 {
+    font-family: montserrat-alternate;
+    line-height: 2;
+}
+
+h1 {
+    font-size: var(--font-size-h1);
+    margin-bottom: .75em;
+    margin-top: 1.25em;
+}
+
+h2 {
+    font-size: var(--font-size-h2);
+}
+
+h3 {
+    font-size: var(--font-size-h3);
+}
+
+a {
+    color: var(--c);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: var(--text);
+    line-height: 2;
+    text-align: justify;
+    text-indent: 2em;
+}
+
+ul {
+    color: var(--text);
+    font-size: var(--font-size);
+    list-style: disc;
+    padding-inline-start: 3em;
+}
+
+ul li {
+    line-height: 2;
+    margin: .5em 0;
+}
+
+#wrapper {
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.box {
+    box-shadow: var(--box-shadow);
+    border-radius: var(--radius);
+    padding: 2em;
+    background-color: var(--bg);
+}
+
+#banner {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 250%;
+    margin: 0;
+}
+
+#banner h1 a {
+    color: var(--c);
+}
+
+#banner h2 {
+    margin: 0;
+    animation: tilt 3s infinite ease-in-out;
+}
+
+.nav {
+    background-color: var(--c);
+    padding: 1em;
+    display: flex;
+    gap: 2em;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.nav a {
+    color: var(--bg);
+}
+
+#footer {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+@keyframes tilt {
+
+    0%,
+    100% {
+        transform: rotate(3deg);
+    }
+
+    50% {
+        transform: rotate(-3deg);
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    p {
+        text-align: left;
+        text-indent: 0;
+    }
+
+    ul {
+        padding-inline-start: 1em;
+    }
+}
