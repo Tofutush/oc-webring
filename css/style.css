@@ -1,48 +1,41 @@
 @font-face {
     font-family: montserrat;
-    src: url(/fonts/Montserrat.ttf);
-    src: url(/oc-webring/fonts/Montserrat.ttf);
+    src: url(/fonts/Montserrat.ttf), url(/oc-webring/fonts/Montserrat.ttf);
 }
 
 @font-face {
     font-family: montserrat;
     font-style: italic;
-    src: url(/fonts/Montserrat-Italic.ttf);
-    src: url(/oc-webring/fonts/Montserrat-Italic.ttf);
+    src: url(/fonts/Montserrat-Italic.ttf), url(/oc-webring/fonts/Montserrat-Italic.ttf);
 }
 
 @font-face {
     font-family: montserrat-alternate;
-    src: url(/fonts/MontserratAlternates-Regular.ttf);
-    src: url(/oc-webring/fonts/MontserratAlternates-Regular.ttf);
+    src: url(/fonts/MontserratAlternates-Regular.ttf), url(/oc-webring/fonts/MontserratAlternates-Regular.ttf);
 }
 
 @font-face {
     font-family: montserrat-alternate;
     font-style: italic;
-    src: url(/fonts/MontserratAlternates-Italic.ttf);
-    src: url(/oc-webring/fonts/MontserratAlternates-Italic.ttf);
+    src: url(/fonts/MontserratAlternates-Italic.ttf), url(/oc-webring/fonts/MontserratAlternates-Italic.ttf);
 }
 
 @font-face {
     font-family: montserrat-alternate;
     font-weight: bold;
-    src: url(/fonts/MontserratAlternates-Bold.ttf);
-    src: url(/oc-webring/fonts/MontserratAlternates-Bold.ttf);
+    src: url(/fonts/MontserratAlternates-Bold.ttf), url(/oc-webring/fonts/MontserratAlternates-Bold.ttf);
 }
 
 @font-face {
     font-family: montserrat-alternate;
     font-weight: bold;
     font-style: italic;
-    src: url(/fonts/MontserratAlternates-BoldItalic.ttf);
-    src: url(/oc-webring/fonts/MontserratAlternates-BoldItalic.ttf);
+    src: url(/fonts/MontserratAlternates-BoldItalic.ttf), url(/oc-webring/fonts/MontserratAlternates-BoldItalic.ttf);
 }
 
 @font-face {
     font-family: lxgw;
-    src: url(/fonts/LXGWWenKai-Regular.ttf);
-    src: url(/oc-webring/fonts/LXGWWenKai-Regular.ttf);
+    src: url(/fonts/LXGWWenKai-Regular.ttf), url(/oc-webring/fonts/LXGWWenKai-Regular.ttf);
 }
 
 :root {
