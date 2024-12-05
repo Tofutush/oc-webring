@@ -1,0 +1,74 @@
+@font-face {
+    font-family: montserrat;
+    src: url(/fonts/Montserrat.ttf);
+    src: url(/oc-webring/fonts/Montserrat.ttf);
+}
+
+@font-face {
+    font-family: montserrat;
+    font-style: italic;
+    src: url(/fonts/Montserrat-Italic.ttf);
+    src: url(/oc-webring/fonts/Montserrat-Italic.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    src: url(/fonts/MontserratAlternates-Regular.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-Regular.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    font-style: italic;
+    src: url(/fonts/MontserratAlternates-Italic.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-Italic.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    font-weight: bold;
+    src: url(/fonts/MontserratAlternates-Bold.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-Bold.ttf);
+}
+
+@font-face {
+    font-family: montserrat-alternate;
+    font-weight: bold;
+    font-style: italic;
+    src: url(/fonts/MontserratAlternates-BoldItalic.ttf);
+    src: url(/oc-webring/fonts/MontserratAlternates-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: lxgw;
+    src: url(/fonts/LXGWWenKai-Regular.ttf);
+    src: url(/oc-webring/fonts/LXGWWenKai-Regular.ttf);
+}
+
+body {
+    --font-size: clamp(16px, 0.75rem + 0.8vw, 24px);
+    --font-size-h1: calc(var(--font-size) * 1.5);
+    --font-size-h2: calc(var(--font-size) * 1.35);
+    --font-size-h3: calc(var(--font-size) * 1.2);
+    --font-size-small: calc(var(--font-size) * 0.8);
+    font-family: montserrat, lxgw;
+    font-size: var(--font-size);
+    background-color: var(--bg);
+    color: var(--text);
+    hyphens: auto;
+    margin: 0;
+}
+
+body.dark {
+    --text: #fff9f2;
+    --bg: #121212;
+    --c: #f4979a;
+    --box: #fff8;
+}
+
+body.light {
+	--text: #121212;
+	--bg: #fff9f2;
+	--c: #e56b6f;
+	--box: #0001;
+}
