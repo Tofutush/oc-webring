@@ -66,6 +66,7 @@ html {
         radial-gradient(50% 50%, var(--_g)),
         radial-gradient(50% 50%, var(--_g)) calc(var(--s)/2) calc(var(--s)/2) var(--c1);
     background-size: var(--s) var(--s);
+    background-attachment: fixed;
 }
 
 body {
@@ -126,7 +127,7 @@ ul li {
 }
 
 #wrapper {
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -136,7 +137,7 @@ ul li {
 .box {
     box-shadow: var(--box-shadow);
     border-radius: var(--radius);
-    padding: 2em;
+    padding: 2em 3em;
     background-color: var(--bg);
 }
 
