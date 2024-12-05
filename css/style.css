@@ -44,7 +44,7 @@
     --font-size-h2: calc(var(--font-size) * 1.35);
     --font-size-h3: calc(var(--font-size) * 1.2);
     --font-size-small: calc(var(--font-size) * 0.8);
-    --radius: 16px;
+    --radius: 12px;
     --text: #121212;
     --bg: #fff9f2;
     --c: #e56b6f;
@@ -66,6 +66,7 @@ html {
         radial-gradient(50% 50%, var(--_g)),
         radial-gradient(50% 50%, var(--_g)) calc(var(--s)/2) calc(var(--s)/2) var(--c1);
     background-size: var(--s) var(--s);
+    background-attachment: fixed;
 }
 
 body {
@@ -126,7 +127,7 @@ ul li {
 }
 
 #wrapper {
-    max-width: 800px;
+    max-width: 900px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -136,7 +137,7 @@ ul li {
 .box {
     box-shadow: var(--box-shadow);
     border-radius: var(--radius);
-    padding: 2em;
+    padding: 2em 3em;
     background-color: var(--bg);
 }
 
@@ -179,6 +180,12 @@ ul li {
 #footer {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+}
+
+#listing {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
 }
 
 @keyframes tilt {
