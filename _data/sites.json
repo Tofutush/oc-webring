@@ -4,7 +4,6 @@
         "mainurl": "https://tofutush.github.io/The-Iron-Ragdoll",
         "ocurl": "https://tofutush.github.io/The-Iron-Ragdoll/characters",
         "language": "en",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
         "desc": "A bunch of colorful people with animal ears and horns. They play around and perhaps never grow up.",
         "warnings": "strong language, cartoon violence, and occasional mature themes"
     },
@@ -13,15 +12,13 @@
         "mainurl": "https://baidu.com",
         "ocurl": "https://image.baidu.com",
         "language": "zh",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
         "desc": "一个搜索引擎"
     },
     {
-        "name": "google",
-        "mainurl": "https://google.com",
-        "ocurl": "https://docs.google.com",
+        "name": "Neocities",
+        "mainurl": "https://neocities.org",
+        "ocurl": "https://neocities.org/browse",
         "language": "en",
-        "button": "https://tofutush.github.io/The-Iron-Ragdoll/img/bg/88x31.gif",
-        "desc": "A shitty company so important we're stuck with it at least for now."
+        "desc": "Neocities"
     }
 ]

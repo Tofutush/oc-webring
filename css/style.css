@@ -44,7 +44,7 @@
     --font-size-h2: calc(var(--font-size) * 1.35);
     --font-size-h3: calc(var(--font-size) * 1.2);
     --font-size-small: calc(var(--font-size) * 0.8);
-    --radius: 16px;
+    --radius: 12px;
     --text: #121212;
     --bg: #fff9f2;
     --c: #e56b6f;
@@ -180,6 +180,12 @@ ul li {
 #footer {
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
+}
+
+#listing {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
 }
 
 @keyframes tilt {
