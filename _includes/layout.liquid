@@ -11,12 +11,30 @@
     <meta property="og:image" content="/icon.ico">
     <meta property="og:site_name" content="OC Webring">
     <meta property="og:description" content="{{ desc }}">
-    <link rel="stylesheet" href="/css/style.css"/>
+    <link rel="stylesheet" href="/css/style.css" />
     <title>{% if page.url != '/' %}{{ title }} | {% endif %}OC Webring</title>
 </head>
 
-<body class="light">
-    {{ content }}
+<body>
+    <div id="wrapper">
+        <div id="banner" class="box">
+            <h1><a href="/">OC Webring</a></h1>
+        <h2>{% if tiltText %}{{ tiltText }}{% else %}Crazy OC people assemble!{% endif %}</h2>
+        </div>
+        <div id="nav" class="nav box">
+            <a href="/">Home</a>
+            <a href="/about/">About</a>
+            <a href="/list/">Listing</a>
+            <a href="/join/">Join!</a>
+        </div>
+        <div id="main" class="box">
+            {{ content }}
+        </div>
+        <div id="footer" class="nav box">
+            <a href="/changelog/">Changelog</a>
+            <a href="/sitemap/">Sitemap</a>
+        </div>
+    </div>
 </body>
 
 </html>

@@ -1,3 +1,8 @@
+---
+layout: layout.liquid
+title: README
+---
+
 # crazy oc ppl assemble
 
 ok lets get this thing rolling
