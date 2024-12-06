@@ -137,7 +137,7 @@ ul li {
 .box {
     box-shadow: var(--box-shadow);
     border-radius: var(--radius);
-    padding: 2em 3em;
+    padding: 1em 2em;
     background-color: var(--bg);
 }
 
