@@ -126,6 +126,11 @@ ul li {
     margin: .5em 0;
 }
 
+code {
+    font-family: consolas;
+	overflow-x: auto;
+}
+
 #wrapper {
     max-width: 900px;
     margin: auto;
