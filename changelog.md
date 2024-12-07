@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-07
+
+- Wrote some draft content.
+
 ## 2024-12-05
 
 - Finished a draft of the layout.
