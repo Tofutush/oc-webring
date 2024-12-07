@@ -1,0 +1,12 @@
+---
+layout: layout.liquid
+title: Sitemap
+lang: en
+---
+<style>a { color: var(--text); }</style>
+<h1>Sitemap</h1>
+<ul>
+{% for page in collections.all %}
+    <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+{% endfor %}
+</ul>

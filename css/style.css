@@ -80,7 +80,7 @@ body {
 h1,
 h2,
 h3 {
-    font-family: montserrat-alternate;
+    font-family: montserrat-alternate, lxgw;
     line-height: 2;
 }
 
@@ -128,7 +128,7 @@ ul li {
 
 code {
     font-family: consolas;
-	overflow-x: auto;
+    overflow-x: auto;
 }
 
 #wrapper {
@@ -144,6 +144,13 @@ code {
     border-radius: var(--radius);
     padding: 1em 2em;
     background-color: var(--bg);
+    position: relative;
+}
+
+#lang {
+    position: absolute;
+    top: 2em;
+    right: 2em;
 }
 
 #banner {
@@ -191,6 +198,27 @@ code {
     display: flex;
     flex-direction: column;
     gap: 2em;
+}
+
+pre {
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 1rem;
+    background-color: var(--box);
+    color: var(--text);
+    font-size: var(--font-size);
+    border-radius: 12px;
+    user-select: all;
+}
+
+pre code {
+    background-color: transparent;
+}
+
+::selection {
+    background-color: var(--c);
+    color: var(--bg);
 }
 
 @keyframes tilt {

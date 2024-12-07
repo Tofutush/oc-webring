@@ -1,9 +1,10 @@
 ---
 layout: layout.liquid
-title: Sitemap
+title: 内容图
+lang: zh
 ---
 <style>a { color: var(--text); }</style>
-<h1>Sitemap</h1>
+<h1>内容图</h1>
 <ul>
 {% for page in collections.all %}
     <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>

@@ -1,5 +1,6 @@
 ---
 layout: layout.liquid
+lang: en
 title: About
 ---
 
@@ -13,7 +14,7 @@ OC is short for **original character**. They're characters created by yourself.
 
 They could be characters in a comic/novel/game project you're working on, or fan characters of some franchise, or just characters existing on their own. They could be this *one* imaginary friend of yours, or hundreds of characters inside a vast universe. They can have cool designs and a bunch of drawings, or having only written descriptions that showcase their personality. They can have a bunch of stuff surrounding them that everyone could read, or mostly exist in your head.
 
-Every character is a unique creation born out of love by their creator(s). (Unless they're some sci-fi lab-made clone. Then they're ontologically not unique.) Even if they bear similarities to an existing character from a franchise you've seen, that does not mean the creator copied that character. Remember this please.
+Every character is a unique creation born out of love by their creator(s). (Unless they're some sci-fi lab-made clone. Then they're ontologically not unique.) Even if they bear similarities to an existing character or person you've seen, that does not mean the creator copied that character. Remember this please.
 
 ## What is a webring
 

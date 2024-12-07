@@ -12,28 +12,37 @@
     <meta property="og:site_name" content="OC Webring">
     <meta property="og:description" content="{{ desc }}">
     <link rel="stylesheet" href="/css/style.css" />
-    <title>{% if page.url != '/' %}{{ title }} | {% endif %}OC Webring</title>
+    <title>{% if page.url != '/' %}{{ title }} | {% endif %}{% if page.lang == 'en' %}OC Webring{% else %}OC 网站连环{% endif %}</title>
 </head>
 
 <body>
     <div id="wrapper">
         <div id="banner" class="box">
-            <h1><a href="/">OC Webring</a></h1>
+            <h1><a href="{% if page.lang == 'en' %}/{% else %}/zh/{% endif %}">{% if page.lang == 'en' %}OC Webring{% else %}OC 网站连环{% endif %}</a></h1>
         <h2>{% if tiltText %}{{ tiltText }}{% else %}Crazy OC people assemble!{% endif %}</h2>
         </div>
         <div id="nav" class="nav box">
-            <a href="/">Home</a>
-            <a href="/about/">About</a>
-            <a href="/listing/">Listing</a>
-            <a href="/join/">Join!</a>
+        <a href="{% if page.lang == 'en' %}/{% else %}/zh/{% endif %}">{% if page.lang == 'en' %}Home{% else %}主页{% endif %}</a>
+            <a href="{{ "/about/" | locale_url }}">{% if page.lang == 'en' %}About{% else %}关于{% endif %}</a>
+            <a href="{{ "/listing/" | locale_url }}">{% if page.lang == 'en' %}Listing{% else %}列表{% endif %}</a>
+            <a href="{{ "/join/" | locale_url }}">{% if page.lang == 'en' %}Join!{% else %}加入！{% endif %}</a>
         </div>
         <div id="main" class="box">
+            <div id="lang">
+                {% if page.url == '/' or page.url == '/zh/' %}
+                    <a href="/zh/">中文</a> | <a href="/">English</a>
+                {% elsif page.url == '/changelog/' or page.url == '/README/' or page.url == '/no-such-site/' %}
+                    <a href="/zh/">中文主页</a>
+                {% else %}
+                    <a href="{{ page.url | locale_url: "zh" }}">中文</a> | <a href="{{ page.url | locale_url: "en" }}">English</a>
+                {% endif %}
+            </div>
             {{ content }}
         </div>
         <div id="footer" class="nav box">
-            <a href="/sitemap/">Sitemap</a>
-            <a href="/changelog/">Changelog</a>
-            <a href="/docs/">Documentation</a>
+            <a href="{{ "/sitemap/" | locale_url }}">{% if page.lang == 'en' %}Sitemap{% else %}网站地图{% endif %}</a>
+            <a href="/changelog">{% if page.lang == 'en' %}Changelog{% else %}更新日志（英文）{% endif %}</a>
+            <a href="{{ "/docs/" | locale_url }}">{% if page.lang == 'en' %}Documentation{% else %}文档{% endif %}</a>
         </div>
     </div>
 </body>

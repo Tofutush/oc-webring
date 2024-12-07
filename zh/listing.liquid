@@ -1,0 +1,16 @@
+---
+layout: layout.liquid
+title: 列表
+lang: zh
+---
+
+<h1>网站列表！</h1>
+<div id="listing">
+{% for site in sites %}
+    <div class="box">
+        <h2>{{ site.name }}</h2>
+        <p><a href="{{ site.mainurl }}">Main page</a> / <a href="{{ site.ocurl }}">OC page</a></p>
+        <p>{{ site.desc }}</p>
+    </div>
+{% endfor %}
+</div>
