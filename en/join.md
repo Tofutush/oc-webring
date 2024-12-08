@@ -13,7 +13,6 @@ I'm so glad you wanna join! Please read the rules before doing so:
 ## Rules
 
 - Your website has to be customizable enough for you to add the navigation links. As long as the website allows you to link your own links, you can do it! If you're not sure, just join anyways and we'll see.
-  - That actually includes a lot of sites. MSPFA character logs are also welcome!
 - Have at least 1 OC on your website.
   - If you have exactly 1 OC, please make sure it's not just a self-introduction of yourself.
 - Character info has to be hosted on your site itself. Which means, a collection of Toyhouse links does not count. And if all you have is an art gallery that doesn't count either.
@@ -27,9 +26,13 @@ You can either straight up open a pull request in the github repo, or fill out a
 
 ### Open a PR
 
-Edit [this file](https://github.com/Tofutush/oc-webring/blob/main/_data/sites.json) in the Github repo to include all the required info.
+If you know JSON, you can edit [this file](https://github.com/Tofutush/oc-webring/blob/main/_data/sites.json) in the Github repo. The template is in the README file.
 
 ### Form
+
+Fill out this form:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScoA00ADtbuLFsfY9MOCebgei40PBo3zckfIOVyzQyjCY3-GA/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 After you've submitted either the PR or the form, you can add the widget to your site.
 
@@ -48,4 +51,12 @@ Full widget code with classes:
 </div>
 ```
 
-Replace YOUR_SITE_NAME *exactly* as you wrote it, spaces and all.
+If you can't put the widget exactly like that, then including these three links and the button works too:
+
+```html
+<a href="https://tofutush.github.io/oc-webring/prev/?site=YOUR_SITE_NAME">Previous</a>
+<a href="https://tofutush.github.io/oc-webring/rand/?site=YOUR_SITE_NAME">Random</a>
+<a href="https://tofutush.github.io/oc-webring/next/?site=YOUR_SITE_NAME">Next</a>
+```
+
+Replace YOUR_SITE_NAME *exactly* as you wrote it, spaces and all!

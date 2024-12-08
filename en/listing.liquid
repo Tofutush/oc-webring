@@ -9,8 +9,21 @@ lang: en
 {% for site in sites %}
     <div class="box">
         <h2>{{ site.name }}</h2>
+        <div class="author">
+            {% if site.authorUrl %}
+                <a href="{{ authorUrl }}">{{ site.author }}</a>
+            {% else %}
+                {{ authorUrl }}
+            {% endif %}
+        </div>
         <p><a href="{{ site.mainurl }}">Main page</a> / <a href="{{ site.ocurl }}">OC page</a></p>
         <p>{{ site.desc }}</p>
+        {% if site.featured %}
+            <div class="box">
+                <h3>Featured character: <a href="{{ site.featured.url }}">{{ site.featured.name }}</a></h3>
+                <p>{{ site.featured.desc }}</p>
+            </div>
+        {% endif %}
     </div>
 {% endfor %}
 </div>
