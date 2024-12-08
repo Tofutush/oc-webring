@@ -144,13 +144,10 @@ code {
     border-radius: var(--radius);
     padding: 1em 2em;
     background-color: var(--bg);
-    position: relative;
 }
 
 #lang {
-    position: absolute;
-    top: 2em;
-    right: 2em;
+    float: right;
 }
 
 #banner {
