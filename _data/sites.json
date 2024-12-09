@@ -39,46 +39,5 @@
             "desc": "Integral Circle Structure",
             "img": "numbersstory-kolo.png"
         }
-    },
-    {
-        "name": "name of website",
-        "author": "your name",
-        "authorUrl": "(Optional) URL of your personal website, social media, linktree, or stuff",
-        "mainUrl": "url of the main page",
-        "chUrl": "url straight to the character page",
-        "otherUrls": {
-            "display text": "url",
-            "sjdkfjsdf": "aaa"
-        },
-        "lang": "zh",
-        "desc": "(Optional) Short description of your characters, world, and/or project",
-        "tags": [
-            "tag",
-            "another tag",
-            "long tag",
-            "too many tags",
-            "too many tags",
-            "too many tags",
-            "too many tags",
-            "too many tags",
-            "too many tags",
-            "too many tags",
-            "too many tags"
-        ],
-        "button": "tir.gif",
-        "cw": "(Optional) Content warnings. Like is it 18+? Does it have flashy lights? Sensitive topics?"
-    },
-    {
-        "name": "Neocities",
-        "author": "nep",
-        "mainurl": "https://neocities.org",
-        "ocurl": "https://neocities.org/browse",
-        "langu": "en",
-        "desc": "Neocities",
-        "featured": {
-            "name": "jasos",
-            "url": "sdssd",
-            "desc": "ajsdkfsdk"
-        }
     }
 ]
