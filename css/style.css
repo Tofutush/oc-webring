@@ -10,24 +10,24 @@
 }
 
 @font-face {
-    font-family: montserrat-alternate;
+    font-family: montserrat alternates;
     src: url(/fonts/MontserratAlternates-Regular.ttf), url(/oc-webring/fonts/MontserratAlternates-Regular.ttf);
 }
 
 @font-face {
-    font-family: montserrat-alternate;
+    font-family: montserrat alternates;
     font-style: italic;
     src: url(/fonts/MontserratAlternates-Italic.ttf), url(/oc-webring/fonts/MontserratAlternates-Italic.ttf);
 }
 
 @font-face {
-    font-family: montserrat-alternate;
+    font-family: montserrat alternates;
     font-weight: bold;
     src: url(/fonts/MontserratAlternates-Bold.ttf), url(/oc-webring/fonts/MontserratAlternates-Bold.ttf);
 }
 
 @font-face {
-    font-family: montserrat-alternate;
+    font-family: montserrat alternates;
     font-weight: bold;
     font-style: italic;
     src: url(/fonts/MontserratAlternates-BoldItalic.ttf), url(/oc-webring/fonts/MontserratAlternates-BoldItalic.ttf);
@@ -80,7 +80,7 @@ body {
 h1,
 h2,
 h3 {
-    font-family: montserrat-alternate, lxgw;
+    font-family: montserrat alternates, lxgw;
     line-height: 2;
 }
 
@@ -218,6 +218,23 @@ pre code {
     background-color: transparent;
 }
 
+p.no-indent {
+    text-indent: 0;
+    text-align: left;
+}
+
+.tags {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+}
+
+.tags>div {
+    background-color: var(--box);
+    border-radius: 6px;
+    padding: 4px 6px;
+}
+
 .bounce {
     transition: transform .3s cubic-bezier(0, 1, 0, 1.5);
 }
@@ -227,16 +244,25 @@ pre code {
 }
 
 .button {
-    float: right;
-    margin: 1em 0 1em 1em;
+    margin: 1em 0;
+    display: flex;
+    justify-content: center;
 }
 
 .icon {
     width: 6em;
     height: 6em;
     object-fit: contain;
-    margin: 1em 1em 1em 0;
+}
+
+.float-right {
+    float: right;
+    margin: 1em 0 1em 1em;
+}
+
+.float-left {
     float: left;
+    margin: 1em 1em 1em 0;
 }
 
 ::selection {
@@ -245,6 +271,7 @@ pre code {
 }
 
 @keyframes tilt {
+
     0%,
     100% {
         transform: rotate(3deg);

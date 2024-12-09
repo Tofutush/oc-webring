@@ -24,6 +24,7 @@ Make sure to delete comments and stuff since JSON throws a tantrum at them. Also
   "tags": [
     "(Optional) Tags like genre and stuff"
   ],
+  "icon": "(Optional) an icon, preferrably square but as long as it's not too long or too thin it should be fine. Will be changed after I downloaded it to reflect the local path instead.",
   "button": "(Optional) URL of a 88x31 button. Will be changed after I downloaded it to reflect the local path instead.",
   "cw": "(Optional) Content warnings. Like is it 18+? Does it have flashy lights? Sensitive topics?",
   "featured": { // optional: a featured character. Name and URL are required *if* you wanna fill this.

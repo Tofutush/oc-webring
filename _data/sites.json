@@ -8,7 +8,7 @@
         "button": "tir.gif",
         "icon": "tir.png",
         "lang": "en",
-        "desc": "A bunch of colorful people with animal ears and horns. They play around, solve mysteries, spy on each other, and perhaps never grow up.",
+        "desc": "A bunch of colorful people with animal ears and horns. They play around, solve mysteries, spy on each other, live in a borderline-dystopian world much like our own, and perhaps never grow up.",
         "tags": [
             "Mystery",
             "Espionage"
@@ -18,21 +18,48 @@
             "name": "Sparky",
             "url": "https://tofutush.github.io/The-Iron-Ragdoll/characters/sparky",
             "img": "tir-sparky.png",
-            "desc": "Silly little foodie gal who always gets herself in the middle of mysteries and conspiracies!"
+            "desc": "Silly little foodie gal who always gets herself in the middle of mysteries and conspiracies. Grows up to be a bodyguard of the chairman of Starcorp."
         }
     },
     {
-        "name": "百度",
-        "mainurl": "https://baidu.com",
-        "ocurl": "https://image.baidu.com",
-        "langu": "zh",
-        "desc": "一个搜索引擎"
+        "name": "name of website",
+        "author": "your name",
+        "authorUrl": "(Optional) URL of your personal website, social media, linktree, or stuff",
+        "mainUrl": "url of the main page",
+        "chUrl": "url straight to the character page",
+        "otherUrls": {
+            "display text": "url",
+            "sjdkfjsdf": "aaa"
+        },
+        "lang": "zh",
+        "desc": "(Optional) Short description of your characters, world, and/or project",
+        "tags": [
+            "tag",
+            "another tag",
+            "long tag",
+            "too many tags",
+            "too many tags",
+            "too many tags",
+            "too many tags",
+            "too many tags",
+            "too many tags",
+            "too many tags",
+            "too many tags"
+        ],
+        "button": "tir.gif",
+        "cw": "(Optional) Content warnings. Like is it 18+? Does it have flashy lights? Sensitive topics?"
     },
     {
         "name": "Neocities",
+        "author": "nep",
         "mainurl": "https://neocities.org",
         "ocurl": "https://neocities.org/browse",
         "langu": "en",
-        "desc": "Neocities"
+        "desc": "Neocities",
+        "featured": {
+            "name": "jasos",
+            "url": "sdssd",
+            "desc": "ajsdkfsdk"
+        }
     }
 ]
