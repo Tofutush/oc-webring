@@ -7,9 +7,10 @@ module.exports = async function (eleventyConfig) {
 		defaultLanguage: 'en'
 	});
 	eleventyConfig.addPassthroughCopy('_data');
+	eleventyConfig.addPassthroughCopy('fonts');
+	eleventyConfig.addPassthroughCopy('img');
 	eleventyConfig.addPassthroughCopy('css');
 	eleventyConfig.addPassthroughCopy('js');
-	eleventyConfig.addPassthroughCopy('fonts');
 	eleventyConfig.addTransform("htmlmin", async function (content) {
 		if ((this.page.outputPath || "").endsWith(".html")) {
 			let minified = await minify(content, {

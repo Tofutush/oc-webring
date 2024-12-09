@@ -19,7 +19,7 @@
     <div id="wrapper">
         <div id="banner" class="box">
             <h1><a href="{% if page.lang == 'en' %}/{% else %}/zh/{% endif %}">{% if page.lang == 'en' %}OC Webring{% else %}OC 网站连环{% endif %}</a></h1>
-        <h2>{% if tiltText %}{{ tiltText }}{% else %}Crazy OC people assemble!{% endif %}</h2>
+        <h2>{% if tiltText %}{{ tiltText }}{% elsif page.lang == 'en' %}Crazy OC people assemble!{% else %}疯狂 OC 人，一起来吧！{% endif %}</h2>
         </div>
         <div id="nav" class="nav box">
         <a href="{% if page.lang == 'en' %}/{% else %}/zh/{% endif %}">{% if page.lang == 'en' %}Home{% else %}主页{% endif %}</a>

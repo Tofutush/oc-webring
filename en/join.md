@@ -38,18 +38,47 @@ After you've submitted either the PR or the form, you can add the widget to your
 
 ## Widget
 
-Full widget code with classes:
+### With button
+
+### Without button
 
 ```html
 <div id="oc-webring-widget">
-    <div id="oc-webring-widget-title">OC Webring</div>
-    <div>
+    <div id="oc-webring-title">OC Webring</div>
+    <div id="oc-webring-controls">
         <a href="https://tofutush.github.io/oc-webring/prev/?site=YOUR_SITE_NAME">Previous</a>
         <a href="https://tofutush.github.io/oc-webring/rand/?site=YOUR_SITE_NAME">Random</a>
         <a href="https://tofutush.github.io/oc-webring/next/?site=YOUR_SITE_NAME">Next</a>
     </div>
 </div>
 ```
+
+Replace YOUR_SITE_NAME *exactly* as you wrote it, spaces and all!
+
+You can add the following CSS to your site too -- or customize it however you like.
+
+```css
+#oc-webring-widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  width: fit-content;
+  gap: 1em;
+  border: 4px solid #e56b6f;
+  padding: 1em;
+  border-radius: 12px;
+}
+#oc-webring-title {
+  font-weight: bold;
+}
+#oc-webring-controls {
+  display: flex;
+  gap: 1em;
+}
+```
+
+### Links
 
 If you can't put the widget exactly like that, then including these three links and the button works too:
 
@@ -58,5 +87,3 @@ If you can't put the widget exactly like that, then including these three links 
 <a href="https://tofutush.github.io/oc-webring/rand/?site=YOUR_SITE_NAME">Random</a>
 <a href="https://tofutush.github.io/oc-webring/next/?site=YOUR_SITE_NAME">Next</a>
 ```
-
-Replace YOUR_SITE_NAME *exactly* as you wrote it, spaces and all!

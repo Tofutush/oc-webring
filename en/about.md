@@ -26,7 +26,7 @@ A webring can be general-purposed, where any website can join; or be focused on 
 
 Webrings are a nice way to pile sites with similar topics and people with similar interests together, so that they're easier to discover. Imagine, if you like OCs, and you're reading this really cool OC website, thinking to yourself, "boy I wish I could find more websites like this!" And then you find that the website you're on is in an OC webring. Now you have discovered all those OC sites in that ring!
 
-[Ready to join now?](/join/)
+[Ready to join now?](/en/join/)
 
 ## What is mine and what isn't
 

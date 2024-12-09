@@ -131,6 +131,10 @@ code {
     overflow-x: auto;
 }
 
+iframe {
+    width: 100%;
+}
+
 #wrapper {
     max-width: 900px;
     margin: auto;
@@ -148,6 +152,7 @@ code {
 
 #lang {
     float: right;
+    margin: 2em 0 1em 1em;
 }
 
 #banner {
@@ -213,13 +218,33 @@ pre code {
     background-color: transparent;
 }
 
+.bounce {
+    transition: transform .3s cubic-bezier(0, 1, 0, 1.5);
+}
+
+.bounce:hover {
+    transform: scale(2);
+}
+
+.button {
+    float: right;
+    margin: 1em 0 1em 1em;
+}
+
+.icon {
+    width: 6em;
+    height: 6em;
+    object-fit: contain;
+    margin: 1em 1em 1em 0;
+    float: left;
+}
+
 ::selection {
     background-color: var(--c);
     color: var(--bg);
 }
 
 @keyframes tilt {
-
     0%,
     100% {
         transform: rotate(3deg);

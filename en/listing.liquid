@@ -8,20 +8,29 @@ lang: en
 <div id="listing">
 {% for site in sites %}
     <div class="box">
+        {% if site.icon %}
+            <img class="icon bounce" alt="{{ site.name }}" src="/img/icons/{{ site.icon }}"/>
+        {% endif %}
+        {% if site.button %}
+            <div class="button">
+                <img class="bounce" alt="{{ site.name | append: ' button' }}" src="/img/buttons/{{ site.button }}"/>
+            </div>
+        {% endif %}
         <h2>{{ site.name }}</h2>
-        <div class="author">
+        <p>
             {% if site.authorUrl %}
-                <a href="{{ authorUrl }}">{{ site.author }}</a>
+                <a href="{{ site.authorUrl }}">{{ site.author }}</a>
             {% else %}
-                {{ authorUrl }}
+                {{ site.author }}
             {% endif %}
-        </div>
+        </p>
         <p><a href="{{ site.mainurl }}">Main page</a> / <a href="{{ site.ocurl }}">OC page</a></p>
         <p>{{ site.desc }}</p>
         {% if site.featured %}
             <div class="box">
+                {% if site.featured.img %}<img class="icon bounce" alt="{{ site.featured.name }}" src="/img/ch/{{ site.featured.img }}"/>{% endif %}
                 <h3>Featured character: <a href="{{ site.featured.url }}">{{ site.featured.name }}</a></h3>
-                <p>{{ site.featured.desc }}</p>
+                {% if site.featured.desc %}<p>{{ site.featured.desc }}</p>{% endif %}
             </div>
         {% endif %}
     </div>

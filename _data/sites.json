@@ -2,11 +2,13 @@
     {
         "name": "The Iron Ragdoll",
         "author": "Tofutush",
+        "authorUrl": "https://toyhou.se/Tofutush",
         "mainUrl": "https://tofutush.github.io/The-Iron-Ragdoll",
         "chUrl": "https://tofutush.github.io/The-Iron-Ragdoll/characters",
         "button": "tir.gif",
+        "icon": "tir.png",
         "lang": "en",
-        "desc": "A bunch of colorful people with animal ears and horns. They play around and perhaps never grow up.",
+        "desc": "A bunch of colorful people with animal ears and horns. They play around, solve mysteries, spy on each other, and perhaps never grow up.",
         "tags": [
             "Mystery",
             "Espionage"
@@ -15,8 +17,8 @@
         "featured": {
             "name": "Sparky",
             "url": "https://tofutush.github.io/The-Iron-Ragdoll/characters/sparky",
-            "desc": "Silly little foodie gal who always gets herself in the middle of mysteries and conspiracies!",
-            "img": "sparky.png"
+            "img": "tir-sparky.png",
+            "desc": "Silly little foodie gal who always gets herself in the middle of mysteries and conspiracies!"
         }
     },
     {
