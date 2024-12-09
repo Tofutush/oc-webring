@@ -10,7 +10,6 @@ title: Changelog
 - More draft content.
 - Listing page layout.
 - Beta opened.
-  - Added Numbers Story.
 
 ## 2024-12-08
 
