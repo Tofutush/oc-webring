@@ -15,13 +15,12 @@ lang: en
         <h2>{{ site.name }}</h2>
         <h3 class="no-indent" style="font-weight: bold"><a href="{{ site.mainurl }}">Main page</a> | <a href="{{ site.ocurl }}">OC page</a></h3>
         <p class="no-indent">By {% if site.authorUrl %}<a href="{{ site.authorUrl }}">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}</p>
-        {% if site.tags %}
-            <div class="tags">
-                {% for tag in site.tags %}
-                    <div>{{ tag }}</div>
-                {% endfor %}
-            </div>
-        {% endif %}
+        <div class="tags">
+            <div>{% if site.lang == 'en' %}English{% else %}中文{% endif %}</div>
+            {% for tag in site.tags %}
+                <div>{{ tag }}</div>
+            {% endfor %}
+        </div>
         {% if site.cw %}<p><span style="font-weight: bold;">Content warning:</span> {{ site.cw }}</p>{% endif %}
         <p>{{ site.desc }}</p>
         {% if site.featured %}
@@ -32,9 +31,11 @@ lang: en
             </div>
         {% endif %}
         {% if site.otherUrls %}
-            {% for url in otherUrls %}
-                {% if forLoop.index != 0 %} | {% endif %}<a href="url[1]">{{ url[0] }}</a>
-            {% endfor %}
+            <div class="tags other-urls">
+                {% for url in site.otherUrls %}
+                    <a href="{{ url[1] }}">{{ url[0] }}</a>
+                {% endfor %}
+            </div>
         {% endif %}
         {% if site.button %}
             <div class="button">

@@ -5,6 +5,9 @@
         "authorUrl": "https://toyhou.se/Tofutush",
         "mainUrl": "https://tofutush.github.io/The-Iron-Ragdoll",
         "chUrl": "https://tofutush.github.io/The-Iron-Ragdoll/characters",
+        "otherUrls": {
+            "test": "test"
+        },
         "button": "tir.gif",
         "icon": "tir.png",
         "lang": "en",

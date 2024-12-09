@@ -5,6 +5,12 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-09
+
+- More draft content.
+- Listing page layout.
+- Beta opened.
+
 ## 2024-12-08
 
 - More draft content.

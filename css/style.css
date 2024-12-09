@@ -227,12 +227,17 @@ p.no-indent {
     display: flex;
     gap: 1em;
     flex-wrap: wrap;
+    margin: 1em 0;
 }
 
 .tags>div {
     background-color: var(--box);
     border-radius: 6px;
     padding: 4px 6px;
+}
+
+.other-urls {
+    justify-content: center;
 }
 
 .bounce {
