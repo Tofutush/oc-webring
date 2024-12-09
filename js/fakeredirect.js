@@ -10,21 +10,19 @@ function fakeRedirect(mode) {
                     break;
                 }
             }
-            console.log(index, originalSite);
-            return;
             if (index === undefined) {
                 window.location.assign('/oc-webring/no-such-site/');
                 return;
             }
             switch (mode) {
                 case 'prev':
-                    window.location.assign(siteList[index === 0 ? siteList.length - 1 : index - 1].ocurl);
+                    window.location.assign(siteList[index === 0 ? siteList.length - 1 : index - 1].chUrl);
                     break;
                 case 'next':
-                    window.location.assign(siteList[index === siteList.length - 1 ? 0 : index + 1].ocurl);
+                    window.location.assign(siteList[index === siteList.length - 1 ? 0 : index + 1].chUrl);
                     break;
                 case 'rand':
-                    window.location.assign(siteList[getRandomNumberButExcludeOne(0, siteList.length - 1, index)].ocurl);
+                    window.location.assign(siteList[getRandomNumberButExcludeOne(0, siteList.length - 1, index)].chUrl);
                     break;
                 default:
                     throw new Error(`redirect mode ${mode} not found`);
