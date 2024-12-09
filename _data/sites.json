@@ -25,6 +25,22 @@
         }
     },
     {
+        "name": "Numbers Story",
+        "author": "Kolo",
+        "mainUrl": "https://numbersstory.com/",
+        "chUrl": "https://characters.numbersstory.com/characters",
+        "lang": "en",
+        "icon": "numbersstory.png",
+        "button": "numbersstory.png",
+        "cw": "Sensitive Topics; full warning here: <a href=\"https://characters.numbersstory.com/\">https://characters.numbersstory.com/</a>",
+        "featured": {
+            "name": "Kolo",
+            "url": "https://characters.numbersstory.com/chara/mag/kolo",
+            "desc": "Integral Circle Structure",
+            "img": "numbersstory-kolo.png"
+        }
+    },
+    {
         "name": "name of website",
         "author": "your name",
         "authorUrl": "(Optional) URL of your personal website, social media, linktree, or stuff",

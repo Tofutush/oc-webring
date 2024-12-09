@@ -10,6 +10,8 @@ function fakeRedirect(mode) {
                     break;
                 }
             }
+            console.log(index, originalSite);
+            return;
             if (index === undefined) {
                 window.location.assign('/oc-webring/no-such-site/');
                 return;
