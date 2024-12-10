@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-10
+
+- Updated webring widget a little bit.
+- Added Number Story to the ring.
+
 ## 2024-12-09
 
 - More draft content.
