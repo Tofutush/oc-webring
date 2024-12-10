@@ -44,7 +44,7 @@ After you've submitted either the PR or the form, you can add the widget to your
 
 ```html
 <div id="oc-webring-widget">
-    <div id="oc-webring-title"><a href="tofutush.github.io/oc-webring">OC Webring</a></div>
+    <div id="oc-webring-title"><a href="https://tofutush.github.io/oc-webring">OC Webring</a></div>
     <div id="oc-webring-controls">
         <a href="https://tofutush.github.io/oc-webring/prev/?site=YOUR_SITE_NAME">Previous</a>
         <a href="https://tofutush.github.io/oc-webring/rand/?site=YOUR_SITE_NAME">Random</a>
