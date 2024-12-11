@@ -252,6 +252,7 @@ p.no-indent {
     margin: 1em 0;
     display: flex;
     justify-content: center;
+    gap: 1em;
 }
 
 .icon {

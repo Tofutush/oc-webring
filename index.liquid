@@ -6,8 +6,13 @@ title: Home
 
 <p>WIP. <a href="https://github.com/Tofutush/oc-webring">Repo</a>. <a href="README">README</a>. <a href="changelog">Changelog</a>.</p>
 
-{% include "widget", site: "The Iron Ragdoll" %}
-{% include "widget", site: "百度" %}
-{% include "widget", site: "google" %}
+<p>uuurrrggghhh i hate designing homepages... i gotta draaaaw stuuuuufffff and my tablet broke :(</p>
+<p>heeeeyyy i got an idea lets put everyones button here</p>
 
-<p>啊数据库发动机啊收款方aksdjaskdja sf</p>
+<div class="button">
+{% for site in sites %}
+    {% if site.button %}
+        <a href="{{ site.chUrl }}"><img class="bounce" alt="{{ site.name | append: ' button' }}" src="/img/buttons/{{ site.button }}"/></a>
+    {% endif %}
+{% endfor %}
+</div>

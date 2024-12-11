@@ -21,8 +21,8 @@ lang: en
                 <div>{{ tag }}</div>
             {% endfor %}
         </div>
+        {% if site.desc %}<p>{{ site.desc }}</p>{% endif %}
         {% if site.cw %}<p><span style="font-weight: bold;">Content warning:</span> {{ site.cw }}</p>{% endif %}
-        <p>{{ site.desc }}</p>
         {% if site.featured %}
             <div class="box">
                 {% if site.featured.img %}<img class="icon bounce float-left" alt="{{ site.featured.name }}" src="/img/ch/{{ site.featured.img }}"/>{% endif %}
