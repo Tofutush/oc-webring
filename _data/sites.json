@@ -6,7 +6,7 @@
         "mainUrl": "https://tofutush.github.io/The-Iron-Ragdoll",
         "chUrl": "https://tofutush.github.io/The-Iron-Ragdoll/characters",
         "otherUrls": {
-            "test": "test"
+            "World overview": "https://tofutush.github.io/The-Iron-Ragdoll/world/overview"
         },
         "button": "tir.gif",
         "icon": "tir.png",
@@ -32,12 +32,30 @@
         "lang": "en",
         "icon": "numbersstory.png",
         "button": "numbersstory.png",
-        "cw": "Sensitive Topics; full warning here: <a href=\"https://characters.numbersstory.com/\">https://characters.numbersstory.com/</a>",
+        "cw": "Sensitive Topics; full warning here: <a href=\"https://characters.numbersstory.com/\">link</a>",
         "featured": {
             "name": "Kolo",
             "url": "https://characters.numbersstory.com/chara/mag/kolo",
             "desc": "Integral Circle Structure",
             "img": "numbersstory-kolo.png"
+        }
+    },
+    {
+        "name": "aineop",
+        "author": "Ain",
+        "authorUrl": "https://aineop.neocities.org/",
+        "mainUrl": "https://aineop.neocities.org/",
+        "chUrl": "https://aineop.neocities.org/characters",
+        "lang": "en",
+        "icon": "aincretop.png",
+        "desc": "An all over the place mix of fun little furry characters. I've got everything from a serious overarching mafia plot to evil demigods to perfectly normal college students starting a band.",
+        "button": "aincretop.png",
+        "cw": "General sensitive topics. Some uncomfortable tidbits are sprinkled throughout the character pages. October's suicide, that murder Lincoln did, ...whatever Reba has going on....",
+        "featured": {
+            "name": "Reba Winter",
+            "url": "https://aineop.neocities.org/characters/reba",
+            "desc": "A cynical teenage girl, hardened by the unforgiving streets of Snowstorm, Reba runs half the town with her brother Axel.",
+            "img": "aincretop-reba.png"
         }
     }
 ]
