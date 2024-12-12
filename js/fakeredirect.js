@@ -5,7 +5,7 @@ function fakeRedirect(mode) {
             let originalSite = url.get('site');
             let index;
             for (let z = 0; z < siteList.length; z++) {
-                if (siteList[z].name === originalSite) {
+                if (siteList[z].name.toLowerCase() === originalSite.toLowerCase()) {
                     index = z;
                     break;
                 }
