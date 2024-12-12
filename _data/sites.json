@@ -87,5 +87,26 @@
         ],
         "button": "pokeau.gif",
         "cw": "18+ primarily for webmaster comfort. Other warnings per character"
+    },
+    {
+        "name": "Enter the Sevenfold",
+        "author": "ORION ☆ OVERDRIVE",
+        "authorUrl": "https://orion-overdrive.carrd.co",
+        "mainUrl": "https://enter-the-sevenfold.neocities.org",
+        "chUrl": "https://enter-the-sevenfold.neocities.org/ocs",
+        "lang": "en",
+        "icon": "sevenfold.png",
+        "desc": "Forever and an age ago, seven worlds banded together to defeat a common foe. Now, in the middle of an age of peace, strife sinks its claws in the populations, new threats rear their ugly heads, and a familiar, ancient evil threatens the worlds once more. Will the worlds come together as before and face their perils as one, or will they each fall to their own folly?",
+        "tags": [
+            "Science fantasy",
+            "Magipunk"
+        ],
+        "button": "sevenfold.png",
+        "featured": {
+            "name": "Keyshia Fields",
+            "url": "https://enter-the-sevenfold.neocities.org/ocs/keyshia-fields",
+            "desc": "A former captive of the Fae realm that now seeks to right her mistakes and make up for lost time.",
+            "img": "sevenfold-keyshia.png"
+        }
     }
 ]

@@ -10,6 +10,7 @@ title: Changelog
 - Added aineop.
 - Added DPTR.
 - Added Pokeau.
+- Added Enter the Sevenfold.
 
 ## 2024-12-10
 
