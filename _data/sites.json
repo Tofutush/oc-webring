@@ -57,5 +57,35 @@
             "desc": "A cynical teenage girl, hardened by the unforgiving streets of Snowstorm, Reba runs half the town with her brother Axel.",
             "img": "aincretop-reba.png"
         }
+    },
+    {
+        "name": "DPTR",
+        "author": "august",
+        "authorUrl": "https://toyhou.se/roseeater",
+        "mainUrl": "https://dptr.nekoweb.org/",
+        "chUrl": "https://dptr.nekoweb.org/",
+        "lang": "en",
+        "tags": [
+            "Slice of life"
+        ],
+        "button": "dptr.gif",
+        "featured": {
+            "name": "Mortimer",
+            "url": "https://dptr.nekoweb.org/mortimer.html"
+        }
+    },
+    {
+        "name": "Pokeau",
+        "author": "Zin",
+        "mainUrl": "https://pokeau.com",
+        "chUrl": "https://pokeau.com/characters/",
+        "lang": "en",
+        "desc": "Originally just an auverse of pokemon, that's grown into much much more.",
+        "tags": [
+            "Friendship",
+            "Family"
+        ],
+        "button": "pokeau.gif",
+        "cw": "18+ primarily for webmaster comfort. Other warnings per character"
     }
 ]

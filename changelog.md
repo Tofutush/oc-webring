@@ -5,6 +5,12 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-12
+
+- Added aineop.
+- Added DPTR.
+- Added Pokeau.
+
 ## 2024-12-10
 
 - Updated webring widget a little bit.
