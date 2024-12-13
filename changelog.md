@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-13
+
+- Added Rabbit Gambit.
+
 ## 2024-12-12
 
 - Added aineop.
