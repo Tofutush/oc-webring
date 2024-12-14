@@ -236,6 +236,10 @@ p.no-indent {
     padding: 4px 6px;
 }
 
+.tags>.important {
+    border: 2px solid var(--text);
+}
+
 .other-urls {
     justify-content: center;
 }

@@ -12,7 +12,7 @@ title: Home
 <div class="button">
 {% for site in sites %}
     {% if site.button %}
-        <a href="{{ site.chUrl }}"><img class="bounce" alt="{{ site.name | append: ' button' }}" src="/img/buttons/{{ site.button }}"/></a>
+        <a href="/en/listing/#{{ site.name | slugify }}"><img class="bounce" alt="{{ site.name | append: ' button' }}" src="/img/buttons/{{ site.button }}"/></a>
     {% endif %}
 {% endfor %}
 </div>
