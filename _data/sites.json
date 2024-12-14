@@ -11,6 +11,7 @@
         "button": "tir.gif",
         "icon": "tir.png",
         "lang": "en",
+        "mobile": "mostly",
         "desc": "A bunch of colorful people with animal ears and horns. They play around, solve mysteries, spy on each other, live in a borderline-dystopian world much like our own, and perhaps never grow up.",
         "tags": [
             "Mystery",
@@ -30,6 +31,7 @@
         "mainUrl": "https://numbersstory.com/",
         "chUrl": "https://characters.numbersstory.com/characters",
         "lang": "en",
+        "mobile": "mostly",
         "icon": "numbersstory.png",
         "button": "numbersstory.png",
         "cw": "Sensitive Topics; full warning here: <a href=\"https://characters.numbersstory.com/\">link</a>",
@@ -65,6 +67,7 @@
         "mainUrl": "https://dptr.nekoweb.org/",
         "chUrl": "https://dptr.nekoweb.org/",
         "lang": "en",
+        "mobile": "mostly",
         "tags": [
             "Slice of life"
         ],
@@ -107,6 +110,27 @@
             "url": "https://enter-the-sevenfold.neocities.org/ocs/keyshia-fields",
             "desc": "A former captive of the Fae realm that now seeks to right her mistakes and make up for lost time.",
             "img": "sevenfold-keyshia.png"
+        }
+    },
+    {
+        "name": "Rabbit Gambit",
+        "author": "Mira",
+        "mainUrl": "https://rabbitgambit.neocities.org/",
+        "chUrl": "https://rabbitgambit.neocities.org/characters",
+        "lang": "en",
+        "icon": "rabbitgambit.png",
+        "desc": "The story of two fucked up, mutually obsessed girls stuck working together in a criminal organization, Agnes and Fei. Agnes, a higher-up in the organization plans to destroy it in an act of revenge while Fei, a soldier working under her, discovers her plans and tries to stop her. however due to her lower position, there is little she can do and she only ends up trapping herself working with Agnes, helping her with her plans as well as anything else she asks of her.",
+        "tags": [
+            "Drama",
+            "GL"
+        ],
+        "button": "rabbitgambit.png",
+        "cw": "Sensitive topics like violence, toxic relationships, abuse, suicide and implied SA are all commonly found on the site and in the story.",
+        "featured": {
+            "name": "Yun Fei（云菲）",
+            "url": "https://rabbitgambit.neocities.org/fei",
+            "desc": "Rabbit Gambit's protagonist, Fei is a newer but skilled member in the organization. She's very good at following set plans but when acting on her own she tends to act impulsively. Despite her attempts to seem cool and distant, she is an emotional wreck and a disaster.",
+            "img": "rabbitgambit-fei.png"
         }
     }
 ]
