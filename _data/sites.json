@@ -132,5 +132,31 @@
             "desc": "Rabbit Gambit's protagonist, Fei is a newer but skilled member in the organization. She's very good at following set plans but when acting on her own she tends to act impulsively. Despite her attempts to seem cool and distant, she is an emotional wreck and a disaster.",
             "img": "rabbitgambit-fei.png"
         }
+    },
+    {
+        "name": "Mother Goose Library",
+        "author": "Historia-Q",
+        "authorUrl": "https://historiakq.carrd.co/#",
+        "mainUrl": "https://mothergooselibrary.miraheze.org/wiki/Library_front_desk",
+        "chUrl": "https://mothergooselibrary.miraheze.org/wiki/Category:Characters",
+        "otherUrls": {
+            "Web portal": "https://matcportal.carrd.co/"
+        },
+        "lang": "en",
+        "mobile": "kinda",
+        "icon": "mothergooselibrary.png",
+        "desc": "A game about a baby dragon (Mimosa) destined to save a nursery rhyme-themed world from a mouse (Dock), who strives to freeze it over.",
+        "tags": [
+            "Action-adventure",
+            "Fantasy",
+            "Gamemaker"
+        ],
+        "cw": "Mild violence and death",
+        "featured": {
+            "name": "Mimosa",
+            "url": "https://mothergooselibrary.miraheze.org/wiki/Mimosa",
+            "desc": "The hero of the story. A baby dragon who wounded up in Timesea who happened to have eaten a strange, star-shaped berry.",
+            "img": "mothergooselibrary-mimosa.webp"
+        }
     }
 ]
