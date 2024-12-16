@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-16
+
+- Added Mother Goose Library.
+
 ## 2024-12-13
 
 - Added Rabbit Gambit.
