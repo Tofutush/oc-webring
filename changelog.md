@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2024-12-18
+
+- Added The Takeoverse.
+- Added A Pawn's Creations.
+
 ## 2024-12-16
 
 - Added Mother Goose Library.
