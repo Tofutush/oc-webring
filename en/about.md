@@ -16,6 +16,8 @@ They could be characters in a comic/novel/game project you're working on, or fan
 
 Every character is a unique creation born out of love by their creator(s). (Unless they're some sci-fi lab-made clone. Then they're ontologically not unique.) Even if they bear similarities to an existing character or person you've seen, that does not mean the creator copied that character. Remember this please.
 
+We love our OCs and we want the best for them, so that's why we ~~deliberately put them through hell and give them a bunch of trauma~~ spend most of our waking hours thinking about them. You should go make some too. It's fun!
+
 ## What is a webring
 
 A webring is a ring of websites. Duh.

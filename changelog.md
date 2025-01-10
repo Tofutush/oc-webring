@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-01-10
+
+- Completed [zh/listing](/zh/listing/) and [zh/about](/zh/about/).
+
 ## 2024-12-18
 
 - Added The Takeoverse.

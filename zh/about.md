@@ -1,43 +1,33 @@
 ---
 layout: layout.liquid
-title: 关于
 lang: zh
+title: 简介
 ---
 
-# 关于
+# 简介
 
 给 OC 人的网站连环！
 
-## OC 是啥，做 OC 干啥？
+## OC 是啥，为啥要养 OC？
 
-OC，全称“origigal character”，原创角色。是你原创的角色。
+OC 是“原创角色”（original character）的简称。他们是你自己创建的角色。
 
-后面待会儿再写。
+他们可能是你的一个漫画、小说或游戏作品里的角色，或是什么东西的同人角色，或者就是单纯的角色；可能是单独一个幻想中的朋友，或者一个巨型世界观里成百上千个角色；可能有漂亮的设计和很多图片，或者是文字设；可能你做了很多别人可以看的东西，也可能大部分都在你自己脑袋里。
 
-They could be characters in a comic/novel/game project you're working on, or fan characters of some franchise, or just characters existing on their own. They could be this *one* imaginary friend of yours, or hundreds of characters inside a vast universe. They can have cool designs and a bunch of drawings, or having only written descriptions that showcase their personality. They can have a bunch of stuff surrounding them that everyone could read, or mostly exist in your head.
+每个 OC 都是 OC 妈妈独一无二的创作成果。（除非 ta 是一个实验室克隆人。那就字面意义上不独一无二了。）即使他们可能与现有角色有相似之处，也不意味着他们就是抄来的。人话：勿 ky。
 
-Every character is a unique creation born out of love by their creator(s). (Unless they're some sci-fi lab-made clone. Then they're ontologically not unique.) Even if they bear similarities to an existing character from a franchise you've seen, that does not mean the creator copied that character. Remember this please.
+我们爱我们的 OC 宝宝，所以我们~~把他们写得超级悲惨~~脑子无时无刻不围着他们转。来做 OC 吧。可好玩哩。
 
-## What is a webring
+## 网站连环是啥
 
-A webring is a ring of websites. Duh.
+网站连环就是网站连成的环啊。
 
-Think of a bunch of websites standing in a circle holding hands. The hand that connects them together would be the "prev" and "next" links on each site that people can click around. And also "random," yeah, that too.
+想象一下一堆网站站成一圈，拉着手。这些“手”就是每个网站上的“上一个”和“下一个”按钮，人家就可以点击这些按钮去到不同的网站。还有“随机”。
 
-A webring can be general-purposed, where any website can join; or be focused on a specific topic, like OCs for this one.
+一个网站连环可以是通行的，任何网站都可以加，或者有一个主题，比如这里的主题是 OC。
 
-Webrings are a nice way to pile sites with similar topics and people with similar interests together, so that they're easier to discover. Imagine, if you like OCs, and you're reading this really cool OC website, thinking to yourself, "boy I wish I could find more websites like this!" And then you find that the website you're on is in an OC webring. Now you have discovered all those OC sites in that ring!
+网站连环能把一堆相似的网站连到一起，这样让人们更容易找到。想象一下，你喜欢 OC，然后你看到了一个很棒的 OC 网站，你想，“要是我能看到更多的 OC 网站就好了！”然后你发现那个 OC 网站在一个 OC 环里。好耶，现在你可以去看环里所有的网站了！
 
-[Ready to join now?](/join/)
+[加入我们的狂欢吧！](/zh/join/)
 
-## What is mine and what isn't
-
-Most content on this site is made by myself. What isn't:
-
-- I use 11ty as a static site generator.
-- Some code is inspired by (read: copied from) StackOverflow, W3C, and Grepper answers.
-- The hosting is provided by either Github Pages or Neocities, depending on where you are.
-  - The widget code, though, always points you to Github Pages.
-- The text and background colors are from Cohost's color scheme.
-- The swirly background is from CSS-Patterns.
-- 中文字体用的是[霞鹜文楷 v1.501](https://github.com/lxgw/LxgwWenKai)。
+## [什么是我的什么不是](/en/about#what-is-mine-and-what-isnt)
