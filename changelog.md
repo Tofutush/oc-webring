@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2025-01-24
+
+- Added Mustard Grass.
+- Added Mormoroi.
+
 ## 2025-01-10
 
 - Completed [zh/listing](/zh/listing/) and [zh/about](/zh/about/).

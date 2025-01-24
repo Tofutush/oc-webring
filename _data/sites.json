@@ -205,5 +205,33 @@
             "desc": "The original creator of the universe, who's worn out of the worlds they exist in and beyond—that this universe seems to be the only place they can truly exist in.",
             "img": "apc-kias.png"
         }
+    },
+    {
+        "name": "MustardGrass",
+        "author": "Mustard",
+        "mainUrl": "https://mustardgrass.neocities.org/",
+        "chUrl": "https://mustardgrass.neocities.org/OCs!/worlds",
+        "lang": "en",
+        "cw": "Contains auto-playing music."
+    },
+    {
+        "name": "Mormoroi",
+        "author": "Strix",
+        "authorUrl": "https://mormoroi.com/",
+        "mainUrl": "https://mormoroi.com/",
+        "chUrl": "https://mormoroi.com/ocs/",
+        "icon": "mormoroi.png",
+        "desc": "I have mostly fandom OCs featured on my page (anime, comics, video games), but I also have characters from games I've made, and I write a dark fantasy webnovel with original species, worldbuilding, and complex layered relationships between a ton more characters!",
+        "lang": "en",
+        "mobile": "mostly",
+        "tags": [
+            "Fantasy",
+            "Science fiction",
+            "Anime",
+            "Superhero",
+            "Video games"
+        ],
+        "button": "mormoroi.png",
+        "cw": "18+, variable content tags for certain topics on the necessary pages"
     }
 ]

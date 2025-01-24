@@ -1,0 +1,19 @@
+,
+    {
+        "name": "pawpyrus",
+        "author": "pyrus",
+        "mainUrl": "https://pawpyrus.nekoweb.org/",
+        "chUrl": "https://pawpyrus.nekoweb.org/shrines/ocs.html",
+        "lang": "en",
+        "desc": "Arai Qwynn & Jayn Hyde (much to Jayn's despair) are two individuals inextricably linked to each other throughout every imaginable universe. It's simply my job to discover and explore each universe they inhabit.",
+        "tags": [
+            "Magical girls",
+            "Urban fantasy",
+            "Alternate universes"
+        ],
+        "featured": {
+            "name": "Arai Qwynn",
+            "url": "https://pawpyrus.nekoweb.org/shrines/jayrai/Shrine.html",
+            
+        }
+    }
