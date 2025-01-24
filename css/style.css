@@ -70,7 +70,7 @@ html {
 }
 
 body {
-    font-family: montserrat, lxgw;
+    font-family: montserrat, lxgw, Arial, Helvetica, sans-serif;
     font-size: var(--font-size);
     color: var(--text);
     hyphens: auto;
@@ -80,7 +80,7 @@ body {
 h1,
 h2,
 h3 {
-    font-family: montserrat alternates, lxgw;
+    font-family: montserrat alternates, lxgw, Arial, Helvetica, sans-serif;
     line-height: 2;
 }
 
