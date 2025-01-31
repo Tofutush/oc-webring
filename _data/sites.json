@@ -236,6 +236,27 @@
         "cw": "18+, variable content tags for certain topics on the necessary pages"
     },
     {
+        "name": "pawpyrus",
+        "author": "pyrus",
+        "mainUrl": "https://pawpyrus.art/",
+        "chUrl": "https://pawpyrus.art/hub.html?z=/subpages/shrines/ocs.html",
+        "lang": "en",
+        "desc": "Arai Qwynn & Jayn Hyde (much to Jayn's despair) are two individuals inextricably linked to each other throughout every imaginable universe. It's simply my job to discover and explore each universe they inhabit.",
+        "tags": [
+            "Magical girls",
+            "Urban fantasy",
+            "Alternate universes"
+        ],
+        "button": "pawpyrus.gif",
+        "cw": "18+",
+        "featured": {
+            "name": "Arai Qwynn",
+            "url": "https://pawpyrus.art/jayrai/index.html",
+            "desc": "Arai Qwynn was born colorblind. When he sees Jayn Hyde for the first time in junior year of high school, his world fills with color. He makes it his mission to ensure that Jayn never leaves his sight.",
+            "img": "pawpyrus-arai.png"
+        }
+    },
+    {
         "name": "Wildcat's Website",
         "author": "Wildcat",
         "mainUrl": "https://bibliohound.neocities.org/",

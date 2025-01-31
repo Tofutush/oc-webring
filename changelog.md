@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2025-01-31
+
+- Added Pawpyrus.
+- Added Bibliohound.
+
 ## 2025-01-24
 
 - Added Mustard Grass.
