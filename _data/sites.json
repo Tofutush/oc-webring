@@ -233,5 +233,23 @@
         ],
         "button": "mormoroi.png",
         "cw": "18+, variable content tags for certain topics on the necessary pages"
+    },
+    {
+        "name": "Wildcat's Website",
+        "author": "Wildcat",
+        "mainUrl": "https://bibliohound.neocities.org/",
+        "chUrl": "https://bibliohound.neocities.org/characters/",
+        "otherUrls": {
+            "stories": "https://bibliohound.neocities.org/stories/"
+        },
+        "lang": "en",
+        "desc": "I post OCs and story projects. These usually are set in the past and cover heavy themes.",
+        "tags": [
+            "Historical fiction",
+            "Furry fiction",
+            "Literary fiction"
+        ],
+        "cw": "Sensitive and heavy topics.",
+        "button": "bibliohound.png"
     }
 ]
