@@ -110,8 +110,6 @@ a:hover {
 p {
     color: var(--text);
     line-height: 2;
-    text-align: justify;
-    text-indent: 2em;
 }
 
 ul {
@@ -294,11 +292,6 @@ p.no-indent {
 }
 
 @media only screen and (max-width: 480px) {
-    p {
-        text-align: left;
-        text-indent: 0;
-    }
-
     ul {
         padding-inline-start: 1em;
     }
