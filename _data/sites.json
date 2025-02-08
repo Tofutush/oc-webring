@@ -213,7 +213,8 @@
         "mainUrl": "https://mustardgrass.neocities.org/",
         "chUrl": "https://mustardgrass.neocities.org/OCs!/worlds",
         "lang": "en",
-        "cw": "Contains auto-playing music."
+        "cw": "Contains auto-playing music.",
+        "button": "mustardgrass.gif"
     },
     {
         "name": "Mormoroi",
@@ -282,6 +283,7 @@
         "lang": "en",
         "mobile": "mostly",
         "icon": "mechagic.webp",
+        "button": "mechagic.webp",
         "featured": {
             "name": "Static Musings",
             "url": "https://mechagic.party/creations/oc_wiki/static_musings/",

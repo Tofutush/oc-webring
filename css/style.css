@@ -258,6 +258,10 @@ p.no-indent {
     gap: 1em;
 }
 
+.button img {
+    height: 31px;
+}
+
 .icon {
     width: 6em;
     height: 6em;
