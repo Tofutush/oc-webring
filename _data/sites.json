@@ -273,5 +273,20 @@
         ],
         "cw": "Sensitive and heavy topics.",
         "button": "bibliohound.png"
+    },
+    {
+        "name": "Mechagic's Fun Party",
+        "author": "Mechagic",
+        "mainUrl": "https://mechagic.party/",
+        "chUrl": "https://mechagic.party/creations/oc_wiki/",
+        "lang": "en",
+        "mobile": "mostly",
+        "icon": "mechagic.webp",
+        "featured": {
+            "name": "Static Musings",
+            "url": "https://mechagic.party/creations/oc_wiki/static_musings/",
+            "desc": "Bro got a job when it was only 2 weeks old, send help",
+            "img": "mechagic static musings.webp"
+        }
     }
 ]
