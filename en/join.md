@@ -20,6 +20,7 @@ I'm so glad you wanna join! Please read the rules before doing so:
 - No hateful content on any part of your site (not just the character part). This is becoming some sort of internet amulet.
 - If your site features artwork not made by you, make sure you have permission to use it, and properly credit the original artist according to their permissions. Same goes for AI art, mark it clearly.
 - Both Chinese and English sites are welcome. I just have to be able to understand what's written on there to make sure there's nothing against the rules. So a little bit of other languages is fine, but the main language has to be one of these two. IDK if I'm open to people speaking more languages to help though. I'll think about it.
+- And finally, it should go without saying that I have the right to refuse any entry if it makes me uncomfortable. This hasn't happened yet and I hope it wont!
 
 ## How to join
 
@@ -38,10 +39,6 @@ Fill out this form:
 After you've submitted either the PR or the form, you can add the widget to your site.
 
 ## Widget
-
-### With button
-
-### Without button
 
 ```html
 <div id="oc-webring-widget">
