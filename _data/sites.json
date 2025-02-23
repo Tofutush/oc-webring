@@ -306,5 +306,33 @@
             "desc": "A 200 year old drunken maniacal skeleton with a short temper. Sounds like the perfect guy to give a deadly weapon!",
             "img": "vidknight-ragnor.png"
         }
+    },
+    {
+        "name": "ZENOSLOTS",
+        "author": "ZENO (and co.)",
+        "authorUrl": "https://zenoslots.net/blog",
+        "mainUrl": "https://zenoslots.net/",
+        "chUrl": "https://zenoslots.net/characters",
+        "otherUrls": {
+            "Projects": "https://zenoslots.net/projects"
+        },
+        "lang": "en",
+        "icon": "zenoslots.gif",
+        "desc": "A multimedia OC universe of characters cursed with misfortune and always seem to have the worst possible scenario happen to them. Primarily RPGMaker game works.",
+        "tags": [
+            "Cute",
+            "RPGMaker",
+            "LGBTQ+",
+            "Dark comedy"
+        ],
+        "button": "zenoslots.png",
+        "mobile": "mostly",
+        "cw": "Character profiles may contain sensitive topics such as death. Stories marked with individual content warnings.",
+        "featured": {
+            "name": "Valentine",
+            "url": "https://zenoslots.net/CHARACTERS/valentine",
+            "desc": "A florist who's side hobby is serial murder. Unfortunately, he's roommates with the same detective on his case. Just as unfortunately, they're both stupid.",
+            "img": "zenoslots-valentine.png"
+        }
     }
 ]
