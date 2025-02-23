@@ -290,5 +290,21 @@
             "desc": "Bro got a job when it was only 2 weeks old, send help",
             "img": "mechagic static musings.webp"
         }
+    },
+    {
+        "name": "Another Digital Webspace",
+        "author": "Vidknight",
+        "mainUrl": "https://vidknight.neocities.org/",
+        "chUrl": "https://vidknight.neocities.org/Originalcharacters",
+        "icon": "vidknight.png",
+        "desc": "Not really any world or story just a bunch of characters I created, and have interact with each other every now and then.",
+        "button": "vidknight.png",
+        "lang": "en",
+        "featured": {
+            "name": "Ragnor",
+            "url": "https://vidknight.neocities.org/Ragnorinfo",
+            "desc": "A 200 year old drunken maniacal skeleton with a short temper. Sounds like the perfect guy to give a deadly weapon!",
+            "img": "vidknight-ragnor.png"
+        }
     }
 ]
