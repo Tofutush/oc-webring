@@ -6,6 +6,7 @@ import MarkdownItAnchor from "markdown-it-anchor";
 import pinyin from 'chinese-to-pinyin';
 
 export default function (eleventyConfig) {
+    eleventyConfig.setQuietMode(true);
     const slug = s => pinyin(s.toString().trim().toLowerCase(), { removeTone: true, keepRest: true }).replace(/\s+/g, '-').replace(/-+/g, '-');
     const mdIt = MarkdownIt({
         html: true,

@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "eleventy --serve --pathprefix=oc-webring",
+    "serve": "eleventy --serve --incremental --pathprefix=oc-webring",
     "build": "eleventy --pathprefix=oc-webring",
     "buildneo": "eleventy --output=_neocities",
     "copy": "copyfiles -u 1 \"./_site/img/**/*.*\" \"./_neocities\""
