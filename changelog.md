@@ -5,6 +5,12 @@ title: Changelog
 
 # Changelog
 
+## 2025-03-24
+
+- Added Draggian Universe;
+- Added Speevtheteev's Corner;
+- Added st0rmscribbles;
+
 ## 2025-01-31
 
 - Added Pawpyrus.
