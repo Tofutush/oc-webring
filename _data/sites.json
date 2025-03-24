@@ -366,5 +366,16 @@
             "desc": "A friendly TV head who lost his memories after falling into water. He woke up in an unfamiliar world with no memory of how or when he got a TV put on his head. Aster goes on a journey with his friend Ashley to recover his lost memories and discover who he used to be.",
             "img": "speev-aster.png"
         }
+    },
+    {
+        "name": "st0rmscribbles",
+        "author": "Bailey / Jay",
+        "authorUrl": "https://lockheart.love/",
+        "mainUrl": "https://st0rmscribbles.netlify.app",
+        "chUrl": "https://st0rmscribbles.netlify.app/characters",
+        "icon": "lockheartlove.png",
+        "desc": "My site mainly contains OCs made for fun, with various levels of story in mind - most have personalities and aesthetics, but no distinct stories. It's the simple art site of a simple artist (with a simple-shaped mascot)!",
+        "button": "lockheartlove.png",
+        "mobile": "kinda"
     }
 ]
