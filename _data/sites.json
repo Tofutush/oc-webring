@@ -334,5 +334,37 @@
             "desc": "A florist who's side hobby is serial murder. Unfortunately, he's roommates with the same detective on his case. Just as unfortunately, they're both stupid.",
             "img": "zenoslots-valentine.png"
         }
+    },
+    {
+        "name": "Draggian Universe",
+        "author": "Enforcer",
+        "mainUrl": "https://draggianuniverse.neocities.org",
+        "chUrl": "https://draggianuniverse.neocities.org/whatverse",
+        "mobile": "kinda",
+        "otherUrls": {
+            "World page": "https://draggianuniverse.neocities.org/WorldPage",
+            "Fanfics": "https://draggianuniverse.neocities.org/fanfic"
+        }
+    },
+    {
+        "name": "Speevtheteevs Corner",
+        "author": "Speev",
+        "mainUrl": "https://speevtheteev.neocities.org/",
+        "chUrl": "https://speevtheteev.neocities.org/ocs",
+        "icon": "speev.gif",
+        "desc": "My page has a collection of TV head and human OCs for a world called TV Where My Head Should Be! Set in a world where a mysterious TV head species called Televi began appearing in the 2050s.",
+        "button": "speev.gif",
+        "tags": [
+            "Science fiction",
+            "Adventure",
+            "Mystery"
+        ],
+        "cw": "Violence, death.",
+        "featured": {
+            "name": "Aster",
+            "url": "https://speevtheteev.neocities.org/aster2090",
+            "desc": "A friendly TV head who lost his memories after falling into water. He woke up in an unfamiliar world with no memory of how or when he got a TV put on his head. Aster goes on a journey with his friend Ashley to recover his lost memories and discover who he used to be.",
+            "img": "speev-aster.png"
+        }
     }
 ]
