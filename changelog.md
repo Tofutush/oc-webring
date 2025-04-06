@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-04-06
+
+- Added Wunjo The Ork;
+
 ## 2025-03-24
 
 - Added Draggian Universe;

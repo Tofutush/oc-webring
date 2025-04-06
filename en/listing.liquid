@@ -16,7 +16,7 @@ lang: en
         <h3 class="no-indent" style="font-weight: bold"><a href="{{ site.mainUrl }}">Main page</a> | <a href="{{ site.chUrl }}">OC page</a></h3>
         <p class="no-indent">By {% if site.authorUrl %}<a href="{{ site.authorUrl }}">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}</p>
         <div class="tags">
-            <div class="important">{% if site.lang == 'en' %}English{% else %}中文{% endif %}</div>
+            <div class="important">{% if site.lang == 'zh' %}中文{% else %}English{% endif %}</div>
             <div class="important">{% if site.mobile == 'yes' %}Mobile-friendly{% elsif site.mobile == 'mostly' %}Pretty mobile-friendly{% elsif site.mobile == 'kinda' %}Kind of mobile-friendly{% else %}NOT mobile-friendly{% endif %}</div>
             {% for tag in site.tags %}
                 <div>{{ tag }}</div>
