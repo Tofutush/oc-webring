@@ -340,6 +340,7 @@
         "mainUrl": "https://draggianuniverse.neocities.org",
         "chUrl": "https://draggianuniverse.neocities.org/whatverse",
         "mobile": "kinda",
+        "lang": "en",
         "otherUrls": {
             "World page": "https://draggianuniverse.neocities.org/WorldPage",
             "Fanfics": "https://draggianuniverse.neocities.org/fanfic"
@@ -352,6 +353,7 @@
         "chUrl": "https://speevtheteev.neocities.org/ocs",
         "icon": "speev.gif",
         "desc": "My page has a collection of TV head and human OCs for a world called TV Where My Head Should Be! Set in a world where a mysterious TV head species called Televi began appearing in the 2050s.",
+        "lang": "en",
         "button": "speev.gif",
         "tags": [
             "Science fiction",
@@ -373,8 +375,22 @@
         "mainUrl": "https://st0rmscribbles.netlify.app",
         "chUrl": "https://st0rmscribbles.netlify.app/characters",
         "icon": "lockheartlove.png",
+        "lang": "en",
         "desc": "My site mainly contains OCs made for fun, with various levels of story in mind - most have personalities and aesthetics, but no distinct stories. It's the simple art site of a simple artist (with a simple-shaped mascot)!",
         "button": "lockheartlove.png",
         "mobile": "kinda"
+    },
+    {
+        "name": "Wunjo The Ork",
+        "author": "wunjotheork",
+        "mainUrl": "https://wunjotheork.neocities.org/",
+        "chUrl": "https://wunjotheork.neocities.org/characters",
+        "lang": "en",
+        "cw": "Contains some mature themes",
+        "button": "wto.png",
+        "tags": [
+            "Fantasy",
+            "Cyberpunk"
+        ]
     }
 ]
