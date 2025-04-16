@@ -392,5 +392,44 @@
             "Fantasy",
             "Cyberpunk"
         ]
+    },
+    {
+        "name": "The Divine Comedy",
+        "author": "Comedy",
+        "authorUrl": "https://toyhou.se/comedyroses",
+        "mainUrl": "https://comedyroses.neocities.org",
+        "chUrl": "https://comedyroses.neocities.org/characters",
+        "icon": "comedy.png",
+        "desc": "All I feel are roses. It's broadly about how you can fall out of love with reality, but through friends, can learn to love it again. Follows an unnamed protagonist who constructs her own void out of hatred for the real world, and her childhood friend's search to free her from her torment.",
+        "tags": [
+            "Drama",
+            "Romance",
+            "Horror"
+        ],
+        "button": "comedy.png",
+        "cw": "Vague mentions of depression.",
+        "featured": {
+            "name": "Her",
+            "url": "https://comedyroses.neocities.org/characters",
+            "desc": "A pure control freak, She is a sensitive, impulsive and hopelessly romantic cryptid with powers that rival that of a god.",
+            "img": "comedy her.jpeg"
+        }
+    },
+    {
+        "name": "TreySpace",
+        "author": "Trey",
+        "chUrl": "https://lycantreyski.neocities.org/OCS/ocs",
+        "mainUrl": "https://lycantreyski.neocities.org/",
+        "mobile": "mostly",
+        "icon": "trey.png",
+        "desc": "I'm currently working on several projects including but not limited to a RPGMaker game and a webcomic!",
+        "button": "trey.gif",
+        "cw": "Cartoon violence and swearing for my other stories, but monochromes contains heavy topics such as death, illustrated violence, body horror, mentions of self-harm, suicide, verbal and emotional abuse, child abuse and neglect.",
+        "featured": {
+            "name": "Paige Bell",
+            "url": "https://lycantreyski.neocities.org/OCS/paige",
+            "desc": "Paige is a wise-cracking college dropout whose entire life revolves around art.",
+            "img": "trey paige.png"
+        }
     }
 ]
