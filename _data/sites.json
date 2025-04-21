@@ -343,7 +343,21 @@
         "lang": "en",
         "otherUrls": {
             "World page": "https://draggianuniverse.neocities.org/WorldPage",
-            "Fanfics": "https://draggianuniverse.neocities.org/fanfic"
+            "Fanfics": "https://draggianuniverse.neocities.org/fanfic",
+            "All OCs across worlds": "https://draggianuniverse.neocities.org/misc_ocs/allocs"
+        },
+        "desc": "Started out as a heavily altered Neopets AU; now an original OC world now focused on the cultural effects of aliens adopting human culture, weird science, technology, and un-pretty trauma recovery. Also an AU of the Pokemon world focused on neurodivergent life, love, and emo band references. As of 2022, the latter is more frequently updated.",
+        "tags": [
+            "Slice of life",
+            "Urban fantasy"
+        ],
+        "button": "du.gif",
+        "cw": "Some sensitive topics (mental illness, fantasy violence, unhealthy relationships), content warnings are provided on individual character pages.",
+        "featured": {
+            "name": "Xyra",
+            "url": "https://draggianuniverse.neocities.org/Xyra",
+            "desc": "The CEO of Limina, Dragga's largest tech company. She's very interested in the dimensional rift and provides and controls information and funding to both WHAT and the Pulklita metro area. Her wife might be a demon from the other side of the rift. She's totally not evil; the rift is totally under control. It'll be harnessed for energy to make life better for everyone! [citation needed]",
+            "img": "du-xyra.png"
         }
     },
     {
