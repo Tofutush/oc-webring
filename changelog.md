@@ -9,6 +9,7 @@ title: Changelog
 
 - Updated Draggian Universe;
 - Updated Mother Goose Library;
+- Added Freakzone;
 
 ## 2025-04-16
 

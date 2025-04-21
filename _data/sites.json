@@ -446,5 +446,25 @@
             "desc": "Paige is a wise-cracking college dropout whose entire life revolves around art.",
             "img": "trey paige.png"
         }
+    },
+    {
+        "name": ".::+f r 3 a k z 0 n e+::. (Freakzone)",
+        "author": "Bizette",
+        "authorUrl": "https://fr3akz0ne.com/",
+        "mainUrl": "https://fr3akz0ne.com/index_2.html",
+        "chUrl": "https://fr3akz0ne.com/Characters/ocs.html",
+        "desc": "My project's a love letter to occultism and mysticism, alternative music, and anarchy. &lt;3",
+        "button": "freakzone.gif",
+        "tags": [
+            "Supernatural",
+            "Thriller",
+            "Music",
+            "Romance",
+            "Drama",
+            "Action"
+        ],
+        "otherUrls": {
+            "Dreamwidth": "https://porcelainlamb.dreamwidth.org/"
+        }
     }
 ]
