@@ -16,7 +16,7 @@ I'm so glad you wanna join! Please read the rules before doing so:
 - Have at least 1 OC on your website.
   - If you have exactly 1 OC, please make sure it's not just a self-introduction of yourself.
 - Both original characters and fan characters are welcome. [See here](/en/about/) for my speech-like paragraph on what I consider an OC. if you're still not sure, just join anyways!
-- Character info has to be hosted on your site itself. Which means, a collection of Toyhouse or Artfight links does not count.
+- Character info has to be hosted on your site itself. Which means, a collection of Toyhouse or Artfight links does not count. And if all you have is an art gallery that doesn't count either.
 - No hateful content on any part of your site (not just the character part). This is becoming some sort of internet amulet.
 - If your site features artwork not made by you, make sure you have permission to use it, and properly credit the original artist according to their permissions. Same goes for AI art, mark it clearly.
 - Both Chinese and English sites are welcome. I just have to be able to understand what's written on there to make sure there's nothing against the rules. So a little bit of other languages is fine, but the main language has to be one of these two. IDK if I'm open to people speaking more languages to help though. I'll think about it.
