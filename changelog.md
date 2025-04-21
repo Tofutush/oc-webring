@@ -8,6 +8,7 @@ title: Changelog
 ## 2025-04-21
 
 - Updated Draggian Universe;
+- Updated Mother Goose Library;
 
 ## 2025-04-16
 
