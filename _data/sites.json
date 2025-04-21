@@ -135,17 +135,18 @@
     },
     {
         "name": "Mother Goose Library",
-        "author": "Historia-Q",
-        "authorUrl": "https://historiakq.carrd.co/#",
+        "author": "ToraQ",
+        "authorUrl": "https://tora-q.carrd.co/",
         "mainUrl": "https://mothergooselibrary.miraheze.org/wiki/Library_front_desk",
         "chUrl": "https://mothergooselibrary.miraheze.org/wiki/Category:Characters",
         "otherUrls": {
             "Web portal": "https://matcportal.carrd.co/"
         },
+        "button": "mgl.gif",
         "lang": "en",
         "mobile": "kinda",
         "icon": "mothergooselibrary.png",
-        "desc": "A game about a baby dragon (Mimosa) destined to save a nursery rhyme-themed world from a mouse (Dock), who strives to freeze it over.",
+        "desc": "The official wiki of Mimosa and the Clocktower, a game about the titular baby dragon destined to save a nursery rhyme-themed world from a mouse (Dock), who strives to freeze it over.",
         "tags": [
             "Action-adventure",
             "Fantasy",
@@ -155,7 +156,7 @@
         "featured": {
             "name": "Mimosa",
             "url": "https://mothergooselibrary.miraheze.org/wiki/Mimosa",
-            "desc": "The hero of the story. A baby dragon who wounded up in Timesea who happened to have eaten a strange, star-shaped berry.",
+            "desc": "The main protagonist of Mimosa and the Clocktower. A baby dragon who wounded up in Timesea who happened to have eaten a strange, star-shaped berry.",
             "img": "mothergooselibrary-mimosa.webp"
         }
     },
@@ -343,7 +344,21 @@
         "lang": "en",
         "otherUrls": {
             "World page": "https://draggianuniverse.neocities.org/WorldPage",
-            "Fanfics": "https://draggianuniverse.neocities.org/fanfic"
+            "Fanfics": "https://draggianuniverse.neocities.org/fanfic",
+            "All OCs across worlds": "https://draggianuniverse.neocities.org/misc_ocs/allocs"
+        },
+        "desc": "Started out as a heavily altered Neopets AU; now an original OC world now focused on the cultural effects of aliens adopting human culture, weird science, technology, and un-pretty trauma recovery. Also an AU of the Pokemon world focused on neurodivergent life, love, and emo band references. As of 2022, the latter is more frequently updated.",
+        "tags": [
+            "Slice of life",
+            "Urban fantasy"
+        ],
+        "button": "du.gif",
+        "cw": "Some sensitive topics (mental illness, fantasy violence, unhealthy relationships), content warnings are provided on individual character pages.",
+        "featured": {
+            "name": "Xyra",
+            "url": "https://draggianuniverse.neocities.org/Xyra",
+            "desc": "The CEO of Limina, Dragga's largest tech company. She's very interested in the dimensional rift and provides and controls information and funding to both WHAT and the Pulklita metro area. Her wife might be a demon from the other side of the rift. She's totally not evil; the rift is totally under control. It'll be harnessed for energy to make life better for everyone! [citation needed]",
+            "img": "du-xyra.png"
         }
     },
     {
@@ -430,6 +445,26 @@
             "url": "https://lycantreyski.neocities.org/OCS/paige",
             "desc": "Paige is a wise-cracking college dropout whose entire life revolves around art.",
             "img": "trey paige.png"
+        }
+    },
+    {
+        "name": ".::+f r 3 a k z 0 n e+::.",
+        "author": "Bizette",
+        "authorUrl": "https://fr3akz0ne.com/",
+        "mainUrl": "https://fr3akz0ne.com/index_2.html",
+        "chUrl": "https://fr3akz0ne.com/Characters/ocs.html",
+        "desc": "My project's a love letter to occultism and mysticism, alternative music, and anarchy. &lt;3\n\n(Webmasters note: title reads Freakzone.)",
+        "button": "freakzone.gif",
+        "tags": [
+            "Supernatural",
+            "Thriller",
+            "Music",
+            "Romance",
+            "Drama",
+            "Action"
+        ],
+        "otherUrls": {
+            "Dreamwidth": "https://porcelainlamb.dreamwidth.org/"
         }
     }
 ]
