@@ -466,5 +466,26 @@
         "otherUrls": {
             "Dreamwidth": "https://porcelainlamb.dreamwidth.org/"
         }
+    },
+    {
+        "name": "Odette's Eternia Nest",
+        "author": "Dottie",
+        "mainUrl": "https://odetteeternia.neocities.org/",
+        "chUrl": "https://odetteeternia.neocities.org/characters/characters",
+        "button": "odetteeternia.gif",
+        "icon": "oe.webp",
+        "desc": "In a tragic world shaped by magic and tradition, Song of The Clipped Swan focuses on a princess whose destiny was sealed at birth. However, her pre-decided destiny is tested by the unpredictable nature of love.",
+        "tags": [
+            "Romance",
+            "Fantasy"
+        ],
+        "cw": "Sensitive topics focusing on fertility, poverty, manipulation, isolation.",
+        "mobile": "kinda",
+        "featured": {
+            "name": "Cedric",
+            "url": "https://odetteeternia.neocities.org/characters/cedric",
+            "desc": "A cunning half-dragon mercenary who doesn’t walk away from a challenge. For the majority of his life, he watched as other people dictated his life. No longer will he let people control his fate.",
+            "img": "oe-cedric.webp"
+        }
     }
 ]
