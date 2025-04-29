@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-04-29
+
+- Added Odette's Eternia Nest;
+
 ## 2025-04-21
 
 - Updated Draggian Universe;
