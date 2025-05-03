@@ -488,4 +488,16 @@
             "img": "oe-cedric.webp"
         }
     }
+    {
+  "name": "Tapeykatt's Website",
+  "author": "Nicolas Perez",
+  "authorUrl": "https://linktr.ee/nicolasperezroblox",
+  "mainUrl": "https://tapeykatt.neocities.org",
+  "chUrl": "https://tapeykatt.neocities.org/oc",
+  "neoUrl": "https://neocities.org/site/tapeykatt",
+  "lang": "en",
+  "desc": "A silly and techy world of anthropomorphic animals (and also humans). From a serious bussiness lady, to a geeky teenage blue cat!",
+  "button": "https://tapeykatt.neocities.org/button.gif",
+  }
+}
 ]
