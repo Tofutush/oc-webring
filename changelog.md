@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-05-05
+
+- Added Tapeykatt;
+
 ## 2025-04-29
 
 - Added Odette's Eternia Nest;
