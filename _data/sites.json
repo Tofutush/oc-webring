@@ -497,5 +497,25 @@
         "lang": "en",
         "desc": "A silly and techy world of anthropomorphic animals (and also humans). From a serious bussiness lady, to a geeky teenage blue cat!",
         "button": "tapeykatt.gif"
+    },
+    {
+        "name": "aid's small corner",
+        "author": "Aid",
+        "authorUrl": "https://aid.uwu.ai/",
+        "mainUrl": "https://zhongvie.neocities.org",
+        "chUrl": "https://zhongvie.neocities.org/ocs",
+        "icon": "aid.png",
+        "desc": "A collection of various OCs made across the years, there's no real theme but they're just my beloved blorbos.",
+        "tags": [
+            "Fandom",
+            "Non-human"
+        ],
+        "button": "aid.png",
+        "featured": {
+            "name": "Sylvie",
+            "url": "https://zhongvie.neocities.org/OCs/sylvie",
+            "desc": "A Genshin OC, a dendro god centric around the study of finding your own identity and of the struggle of godhood. Rock kisser.",
+            "img": "aid-sylvie.png"
+        }
     }
 ]
