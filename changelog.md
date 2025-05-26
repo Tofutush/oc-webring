@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-05-26
+
+- Added allydaonline;
+
 ## 2025-05-17
 
 - Added Aid's Small Corner;
