@@ -531,5 +531,27 @@
             "url": "https://allyda.neocities.org/ocs.main/amy",
             "desc": "Weird freak of a girl, brunette with brown eyes, very pale (in an \"anemic canadian\" way, not an \"oh im so sickly and beautiful\" way), alcoholic bisexual"
         }
+    },
+    {
+        "name": "TheNitpickyCat's Website",
+        "author": "TheNitpickyCat",
+        "mainUrl": "https://thenitpickycat.neocities.org/",
+        "chUrl": "https://thenitpickycat.neocities.org/characters",
+        "otherUrls": {
+            "videos": "https://thenitpickycat.neocities.org/videos"
+        },
+        "icon": "nitpickycat.jpg",
+        "desc": "Anthropomorphic characters, different species being a nitpicky cat, a shy dog, an extrovert rabbit, a smart raccoon and an amusing squirrel.",
+        "tags": [
+            "Anthro",
+            "Furry"
+        ],
+        "button": "nitpickycat.gif",
+        "featured": {
+            "name": "Benny",
+            "url": "https://thenitpickycat.neocities.org/characters/rabbit",
+            "desc": "A brown rabbit wearing a red bandana. He's very extrovert and energetic who loves playing baseball in a team called \"The Jackalopes\".",
+            "img": "nitpickycat-benny.png"
+        }
     }
 ]
