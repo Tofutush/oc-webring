@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-06-12
+
+- Added nitpickycat;
+
 ## 2025-05-26
 
 - Added allydaonline;
