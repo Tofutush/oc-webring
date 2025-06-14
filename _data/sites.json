@@ -496,12 +496,12 @@
         "chUrl": "https://tapeykatt.neocities.org/oc",
         "lang": "en",
         "desc": "A silly and techy world of anthropomorphic animals (and also humans). From a serious CEO, to a geeky teenage blue cat!",
-        "tags": [ 
-            "Anthro", 
+        "tags": [
+            "Anthro",
             "Furry",
             "Devs"
-        ], 
-        "icon": "https://tapeykatt.neocities.org/apple-touch-icon.png",
+        ],
+        "icon": "tapeykatt.png",
         "button": "tapeykatt.gif"
     },
     {
