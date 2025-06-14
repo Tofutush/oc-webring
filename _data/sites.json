@@ -495,7 +495,13 @@
         "mainUrl": "https://tapeykatt.neocities.org",
         "chUrl": "https://tapeykatt.neocities.org/oc",
         "lang": "en",
-        "desc": "A silly and techy world of anthropomorphic animals (and also humans). From a serious bussiness lady, to a geeky teenage blue cat!",
+        "desc": "A silly and techy world of anthropomorphic animals (and also humans). From a serious CEO, to a geeky teenage blue cat!",
+        "tags": [
+            "Anthro",
+            "Furry",
+            "Devs"
+        ],
+        "icon": "tapeykatt.png",
         "button": "tapeykatt.gif"
     },
     {
