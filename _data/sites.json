@@ -559,5 +559,41 @@
             "desc": "A brown rabbit wearing a red bandana. He's very extrovert and energetic who loves playing baseball in a team called \"The Jackalopes\".",
             "img": "nitpickycat-benny.png"
         }
+    },
+    {
+        "name": "Merino's Website",
+        "author": "merino",
+        "mainUrl": "https://guppypup.neocities.org/",
+        "chUrl": "https://guppypup.neocities.org/OCs/Gallery",
+        "desc": "Most of my OCs are for dnd/pathfinder or roleplaying purposes; or both! I am currently trying to get better at writing as well :P",
+        "tags": [
+            "DND",
+            "Pathfinder"
+        ],
+        "cw": "16+, contains swearing"
+    },
+    {
+        "name": "The Wondrous Web-Surfer!",
+        "author": "Dynaknights",
+        "mainUrl": "https://web-surfer.neocities.org/",
+        "chUrl": "https://web-surfer.neocities.org/Cast",
+        "otherUrls": {
+            "World description": "https://web-surfer.neocities.org/Earth256B"
+        },
+        "desc": "Within the secluded universe of Earth-256-B, humanity has (surprisingly) persisted, despite the odds, into the far-flung future of the late 2990s. However, not all is well. Ville-de-Nouvelle-Yorke has been experiencing a severe increase in superpowered crime and self-proclaimed superheroes supposed to protect the city only care if it increases their fame! A guy named Virgil Voltspun gets bitten by a spider as a preteen and gains superpowers, so he decides to step in. However, he gets a lot more than he bargained for.",
+        "tags": [
+            "Superhero",
+            "Science fiction",
+            "Science fantasy"
+        ],
+        "icon": "websurfer.png",
+        "button": "websurfer.png",
+        "cw": "Extreme violence, sensitive topics, swearing, arthropods, etc. More are listed on the Index page.",
+        "featured": {
+            "name": "Virgil Voltspun",
+            "url": "https://web-surfer.neocities.org/cast/VirgilVoltspun",
+            "desc": "A grouchy thirty-something that got bitten by a spider when he was twelve, gained superpowers from it, and immediately decided it would be a FANTASTIC idea to save people and beat up criminals for a living! He could finally put his extreme hyperfixations surrounding supers in general to good use and he could be like his role models: the Avengers!\n\nYears later, he's emotionally constipated and regretting his life decisions trying to balance school, work, bills, being a vigilante, mending his nonexistent social life, the list goes on and on.",
+            "img": "websurfer-virgil.png"
+        }
     }
 ]
