@@ -526,19 +526,6 @@
         }
     },
     {
-        "name": "allydaonline",
-        "author": "allyda",
-        "mainUrl": "https://allyda.neocities.org/",
-        "chUrl": "https://allyda.neocities.org/ocs",
-        "desc": "My ocs are my babies to me I love them so much. Main characters are Amy, Paige, Stella, April, and Valerie. Amy is a depressed canadian alcoholic, Paige is a bipolar hello kitty girl, Stella is a music producer and professional stalker, April is a music producer and professional lolita girl (THE J FASHION STYLE NOT THE BOOK), and Val is a stoner. I love my freaks they suffer lots.",
-        "cw": "Warning box on character directory page; contains an extremely flashy sprinkle star shower covering every page except for the landing.",
-        "featured": {
-            "name": "Amy Clark",
-            "url": "https://allyda.neocities.org/ocs.main/amy",
-            "desc": "Weird freak of a girl, brunette with brown eyes, very pale (in an \"anemic canadian\" way, not an \"oh im so sickly and beautiful\" way), alcoholic bisexual"
-        }
-    },
-    {
         "name": "TheNitpickyCat's Website",
         "author": "TheNitpickyCat",
         "mainUrl": "https://thenitpickycat.neocities.org/",
@@ -595,5 +582,39 @@
             "desc": "A grouchy thirty-something that got bitten by a spider when he was twelve, gained superpowers from it, and immediately decided it would be a FANTASTIC idea to save people and beat up criminals for a living! He could finally put his extreme hyperfixations surrounding supers in general to good use and he could be like his role models: the Avengers!\n\nYears later, he's emotionally constipated and regretting his life decisions trying to balance school, work, bills, being a vigilante, mending his nonexistent social life, the list goes on and on.",
             "img": "websurfer-virgil.png"
         }
+    },
+    {
+        "name": "zealsify's room",
+        "author": "jonah",
+        "mainUrl": "https://zealsify.neocities.org/vagabondsyndrome",
+        "chUrl": "https://zealsify.neocities.org/oclist",
+        "mobile": "mostly"
+    },
+    {
+        "name": "YOU WILL BE SAFE",
+        "author": "E",
+        "mainUrl": "https://youwillbesafe.neocities.org/sanctuary",
+        "chUrl": "https://youwillbesafe.neocities.org/ocs",
+        "button": "ywbs.gif",
+        "cw": "Slightly unsettling images on character page."
+    },
+    {
+        "name": "jesterwave",
+        "author": "Artemis",
+        "mainUrl": "https://jesterwave.neocities.org/",
+        "chUrl": "https://jesterwave.neocities.org/oc/oc_index",
+        "otherUrls": {
+            "OC Worlds": "https://jesterwave.neocities.org/oc/oc_portal"
+        },
+        "icon": "jesterwave.png",
+        "desc": "A collection of characters and worlds that have been living in my head for over 10 years now. Each world is vastly different from one another, but I gravitate towards magical and paranormal themes, as well as exploring characters and their relationships to one another.",
+        "tags": [
+            "Paranormal",
+            "Cartoon",
+            "Superpowers"
+        ],
+        "button": "jesterwave.gif",
+        "cw": "Bright Colors, Glitchy Imagery, Themes of Unreality (on some pages; will be clearly marked)",
+        "mobile": "mostly"
     }
 ]

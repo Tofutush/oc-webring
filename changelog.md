@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2025-07-11
+
+- Added zealsify's room, YOU WILL BE SAFE, jesterwave;
+- Removed allydaonline;
+
 ## 2025-06-18
 
 - Added Merino's Website and TWWS;
