@@ -616,5 +616,16 @@
         "button": "jesterwave.gif",
         "cw": "Bright Colors, Glitchy Imagery, Themes of Unreality (on some pages; will be clearly marked)",
         "mobile": "mostly"
+    },
+    {
+        "name": "Kayzowl OC Directory",
+        "author": "kaz",
+        "authorUrl": "https://bsky.app/profile/kayzowl.bsky.social",
+        "mainUrl": "https://kayzowl.neocities.org/",
+        "chUrl": "https://kayzowl.neocities.org/ocs",
+        "mobile": "mostly",
+        "icon": "kaz.png",
+        "desc": "My frontpage is a fake newspaper with \"articles\" taken from different worlds and stories and characters, but I have so many and they're all pretty wide-ranging. I love stories about found family and identity.",
+        "cw": "Abuse, kidnapping, murder, things like that? Nothing graphic tho, and not on the main page"
     }
 ]
