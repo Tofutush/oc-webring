@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-07-26
+
+- Added Kayzowl OC Directory;
+
 ## 2025-07-11
 
 - Added zealsify's room, YOU WILL BE SAFE, jesterwave;
