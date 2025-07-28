@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-07-28
+
+- Added Luci An Insanity, Roxy's Dungeon, The Moon Palace;
+
 ## 2025-07-26
 
 - Added Kayzowl OC Directory;

@@ -650,5 +650,20 @@
             "desc": "Singer wowie",
             "img": "roxy alyssa.jpg"
         }
+    },
+    {
+        "name": "The Moon Palace",
+        "author": "Mavis DeLuna",
+        "mainUrl": "https://mavisdeluna.art",
+        "chUrl": "https://mavisdeluna.art/ocs/",
+        "tags": [
+            "Romance",
+            "Yumejoshi",
+            "Fantasy",
+            "Queer"
+        ],
+        "mobile": "kinda",
+        "button": "moonpalace.gif",
+        "cw": "Sensitive topics, depictions of mental illness, cartoon/anime violence, blood, mature themes"
     }
 ]
