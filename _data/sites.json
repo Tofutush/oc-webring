@@ -633,6 +633,22 @@
         "author": "An",
         "mainUrl": "https://lucianinsanity.neocities.org/",
         "chUrl": "https://lucianinsanity.neocities.org/Writing/wiki/Home",
-        "cw": "Dark themes, nudity, NSFW"
+        "cw": "Dark themes, nudity, NSFW",
+        "mobile": "kinda"
+    },
+    {
+        "name": "Roxys dungeon ",
+        "author": "Roxy",
+        "mainUrl": "https://rowanissuperepik.neocities.org/",
+        "chUrl": "https://rowanissuperepik.neocities.org/Hype!%202006/ReadHype2006",
+        "icon": "roxy.png",
+        "desc": "I have three main projects (hype2006: 5 main characters, as well as many side characters, prettygutz: 4 main characters, circus of suffering: 6 main characters) as well as many other ocs and whatnot. Hype2006 is my main focus, having a webcomic with two chapters as of right now, but many more planned/in the making. Alyssa is my favorite oc ive had and has been for many years lol",
+        "cw": "Sensitive topics, flashing lights.",
+        "featured": {
+            "name": "Alyssa Thorne",
+            "url": "https://rowanissuperepik.neocities.org/Alyssa",
+            "desc": "Singer wowie",
+            "img": "roxy alyssa.jpg"
+        }
     }
 ]
