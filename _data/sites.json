@@ -627,5 +627,12 @@
         "icon": "kaz.png",
         "desc": "My frontpage is a fake newspaper with \"articles\" taken from different worlds and stories and characters, but I have so many and they're all pretty wide-ranging. I love stories about found family and identity.",
         "cw": "Abuse, kidnapping, murder, things like that? Nothing graphic tho, and not on the main page"
+    },
+    {
+        "name": "Luci An Insanity",
+        "author": "An",
+        "mainUrl": "https://lucianinsanity.neocities.org/",
+        "chUrl": "https://lucianinsanity.neocities.org/Writing/wiki/Home",
+        "cw": "Dark themes, nudity, NSFW"
     }
 ]
