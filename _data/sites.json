@@ -627,5 +627,43 @@
         "icon": "kaz.png",
         "desc": "My frontpage is a fake newspaper with \"articles\" taken from different worlds and stories and characters, but I have so many and they're all pretty wide-ranging. I love stories about found family and identity.",
         "cw": "Abuse, kidnapping, murder, things like that? Nothing graphic tho, and not on the main page"
+    },
+    {
+        "name": "Luci An Insanity",
+        "author": "An",
+        "mainUrl": "https://lucianinsanity.neocities.org/",
+        "chUrl": "https://lucianinsanity.neocities.org/Writing/wiki/Home",
+        "cw": "Dark themes, nudity, NSFW",
+        "mobile": "kinda"
+    },
+    {
+        "name": "Roxys dungeon ",
+        "author": "Roxy",
+        "mainUrl": "https://rowanissuperepik.neocities.org/",
+        "chUrl": "https://rowanissuperepik.neocities.org/Hype!%202006/ReadHype2006",
+        "icon": "roxy.png",
+        "desc": "I have three main projects (hype2006: 5 main characters, as well as many side characters, prettygutz: 4 main characters, circus of suffering: 6 main characters) as well as many other ocs and whatnot. Hype2006 is my main focus, having a webcomic with two chapters as of right now, but many more planned/in the making. Alyssa is my favorite oc ive had and has been for many years lol",
+        "cw": "Sensitive topics, flashing lights.",
+        "featured": {
+            "name": "Alyssa Thorne",
+            "url": "https://rowanissuperepik.neocities.org/Alyssa",
+            "desc": "Singer wowie",
+            "img": "roxy alyssa.jpg"
+        }
+    },
+    {
+        "name": "The Moon Palace",
+        "author": "Mavis DeLuna",
+        "mainUrl": "https://mavisdeluna.art",
+        "chUrl": "https://mavisdeluna.art/ocs/",
+        "tags": [
+            "Romance",
+            "Yumejoshi",
+            "Fantasy",
+            "Queer"
+        ],
+        "mobile": "kinda",
+        "button": "moonpalace.gif",
+        "cw": "Sensitive topics, depictions of mental illness, cartoon/anime violence, blood, mature themes"
     }
 ]
