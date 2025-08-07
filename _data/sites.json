@@ -634,7 +634,8 @@
         "mainUrl": "https://lucianinsanity.neocities.org/",
         "chUrl": "https://lucianinsanity.neocities.org/Writing/wiki/Home",
         "cw": "Dark themes, nudity, NSFW",
-        "mobile": "kinda"
+        "mobile": "kinda",
+        "icon": "lucian.png"
     },
     {
         "name": "Roxys dungeon ",
