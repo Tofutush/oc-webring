@@ -502,7 +502,13 @@
             "Devs"
         ],
         "icon": "tapeykatt.png",
-        "button": "tapeykatt.gif"
+        "button": "tapeykatt.gif",
+        "featured": {
+            "name": "Rodrigo D'Vrenno",
+            "url": "https://tapeykatt.neocities.org/oc/tapey-cat",
+            "desc": "A silly cat who loves playing games, drawing, and most of all, mess up with his tech stuff. He's an expert on coding and cybersecurity, and is also Samantha's #1 collaborator.",
+            "img": "tapeykatt-ridrigo.png"
+        }
     },
     {
         "name": "aid's small corner",
