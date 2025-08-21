@@ -503,7 +503,6 @@
         ],
         "icon": "tapeykatt.png",
         "button": "tapeykatt.gif",
-        "mobile": "kinda",
         "featured": {
             "name": "Rodrigo D'Vrenno",
             "url": "https://tapeykatt.neocities.org/oc/tapey-cat",
@@ -537,6 +536,7 @@
         "author": "TheNitpickyCat",
         "mainUrl": "https://thenitpickycat.neocities.org/",
         "chUrl": "https://thenitpickycat.neocities.org/characters",
+        "mobile": "kinda",
         "otherUrls": {
             "videos": "https://thenitpickycat.neocities.org/videos"
         },
