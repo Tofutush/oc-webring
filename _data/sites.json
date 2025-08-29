@@ -673,5 +673,63 @@
         "mobile": "kinda",
         "button": "moonpalace.gif",
         "cw": "Sensitive topics, depictions of mental illness, cartoon/anime violence, blood, mature themes"
+    },
+    {
+        "name": "Maritime Shadiness",
+        "author": "Ansehelm",
+        "authorUrl": "https://onlywonder.net",
+        "mainUrl": "https://maritimeshadiness.onlywonder.net/",
+        "chUrl": "https://maritimeshadiness.onlywonder.net/characters",
+        "icon": "maritimeshadiness.png",
+        "desc": "A world building / character making project that focuses on Captain Asu Naji and the rest of the crew of merchant ship The East",
+        "button": "maritimeshadiness.png",
+        "cw": "Sensitive topcs: full warning on homepage",
+        "mobile": "mostly",
+        "featured": {
+            "name": "Captain Asu Naji",
+            "url": "https://maritimeshadiness.onlywonder.net/characters/asu",
+            "desc": "Captain of merchant ship The East.",
+            "img": "maritimeshadiness-asu.png"
+        }
+    },
+    {
+        "name": "Lazer-Bunny",
+        "author": "Lazer",
+        "mainUrl": "https://lazer-bunny.neocities.org/",
+        "chUrl": "https://lazer-bunny.neocities.org/Characters/Directory",
+        "icon": "lazer.png",
+        "desc": "A handful of disconnected worlds and stories that I hope to make games about one day.",
+        "tags": [
+            "Fantasy",
+            "RPGMaker"
+        ],
+        "button": "lazer.gif",
+        "cw": "Some mentions of violence, body horror, and death",
+        "mobile": "kinda",
+        "featured": {
+            "name": "Charlotte",
+            "url": "https://lazer-bunny.neocities.org/Characters/Charlotte",
+            "desc": "A cat-girl and failed magic student hoping to prove she can use dark magic for good purposes.",
+            "img": "lazer-charlotte.png"
+        }
+    },
+    {
+        "name": "avedo-storyhub",
+        "author": "Junie :3",
+        "mainUrl": "https://avedo-storyhub.neocities.org/",
+        "chUrl": "https://avedo-storyhub.neocities.org/ocs/",
+        "tags": [
+            "Furry",
+            "Alternative",
+            "Multifandom"
+        ],
+        "cw": "Not mobile friendly (I actually think it's okay — Tofutush), generally PG-13 (individual warnings apply)",
+        "mobile": "mostly",
+        "featured": {
+            "name": "Providence (the dog)",
+            "url": "https://avedo-storyhub.neocities.org/ocs/sonas/providence",
+            "desc": "My main fursona",
+            "img": "avedo-providence.png"
+        }
     }
 ]
