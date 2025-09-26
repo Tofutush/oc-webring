@@ -731,5 +731,30 @@
             "desc": "My main fursona",
             "img": "avedo-providence.png"
         }
+    },
+    {
+        "name": "P A R A K I B A R A",
+        "author": "Kiba",
+        "mainUrl": "https://parakibara.neocities.org/",
+        "chUrl": "https://parakibara.neocities.org/ocs",
+        "button": "parakibara.png"
+    },
+    {
+        "name": "Rosenmaven's Dream Garden",
+        "author": "Amelia AKA Maven",
+        "mainUrl": "https://rosenmaven.neocities.org/",
+        "chUrl": "https://rosenmaven.neocities.org/characters",
+        "tags": [
+            "Fantasy",
+            "TTRPG"
+        ]
+    },
+    {
+        "name": "thekittyburger’s website",
+        "author": "thekittyburger",
+        "mainUrl": "https://thekittyburger.neocities.org/",
+        "chUrl": "https://thekittyburger.neocities.org/ocs",
+        "button": "thekittyburger.png",
+        "cw": "Whump is mentioned, cannibalism (mostly in the vampire sense), human experimentation, grief, mental health (so just sensitive topics I think?)"
     }
 ]
