@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-09-25
+
+- Added PARAKIBARA, Rosenmaven, thekittyburger;
+
 ## 2025-07-28
 
 - Added Luci An Insanity, Roxy's Dungeon, The Moon Palace;
