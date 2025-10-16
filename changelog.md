@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-10-16
+
+- Added soursweet, FRAMMYJAMMY, creepbella;
+
 ## 2025-09-25
 
 - Added PARAKIBARA, Rosenmaven, thekittyburger;

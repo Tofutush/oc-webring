@@ -756,5 +756,48 @@
         "chUrl": "https://thekittyburger.neocities.org/ocs",
         "button": "thekittyburger.png",
         "cw": "Whump is mentioned, cannibalism (mostly in the vampire sense), human experimentation, grief, mental health (so just sensitive topics I think?)"
+    },
+    {
+        "name": "soursweet",
+        "author": "samuel",
+        "mainUrl": "https://soursweet.neocities.org/",
+        "chUrl": "https://soursweet.neocities.org/ocs"
+    },
+    {
+        "name": "FRAMMYJAMMY",
+        "author": "Nori Jammy",
+        "authorUrl": "https://frammyjammy.neocities.org/",
+        "mainUrl": "https://frammyjammy.neocities.org/suzu-and-jack/",
+        "chUrl": "https://frammyjammy.neocities.org/suzu-and-jack/characters",
+        "otherUrls": {
+            "About": "https://frammyjammy.neocities.org/suzu-and-jack/about"
+        },
+        "desc": "Suzu and Jack follows the tumultuous relationship between 10-year-old Suzu Fallon and his emotionally distant, alcoholic father, Jack. Showing what it's like to grow up neurodivergent in Appalachia.",
+        "icon": "jammy.png",
+        "tags": [
+            "Dark comedy",
+            "Dramedy",
+            "psychological horror"
+        ],
+        "button": "jammy.png",
+        "cw": "Rating: TV-14 through TV-MA. Suzu and Jack contains depictions of child abuse, domestic violence, neglect, alcoholism, bullying, abnormal childhood psychology, and verbal abuse. Viewer discretion is advised. (More warnings on-site.)",
+        "mobile": "kinda",
+        "featured": {
+            "name": "Suzu Fallon",
+            "url": "https://frammyjammy.neocities.org/suzu-and-jack/characters-suzu",
+            "desc": "Suzu is a bright yet bratty and defiant nine-year-old boy with untreated ADHD, navigating a turbulent life in the lonely, culturally isolated mountains of Appalachia. Though docile and loving toward smaller creatures like insects, he has inherited a mean streak from his father, and struggles with impulsive acts of violence.",
+            "img": "jammy-suzu.png"
+        }
+    },
+    {
+        "name": "creepbella",
+        "author": "bella",
+        "mainUrl": "https://creepbella.neocities.org",
+        "chUrl": "https://creepbella.neocities.org/athena",
+        "cw": "Contains swearing, mentions of addiction",
+        "featured": {
+            "name": "Eleanor",
+            "url": "https://creepbella.neocities.org/eleanor"
+        }
     }
 ]
