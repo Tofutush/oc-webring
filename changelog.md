@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-10-26
+
+- Added Valentinely;
+
 ## 2025-10-16
 
 - Added soursweet, FRAMMYJAMMY, creepbella;
