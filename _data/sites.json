@@ -799,5 +799,14 @@
             "name": "Eleanor",
             "url": "https://creepbella.neocities.org/eleanor"
         }
+    },
+    {
+        "name": "Valentinely",
+        "author": "lapin",
+        "mainUrl": "https://www.valentinely.cc",
+        "chUrl": "https://www.valentinely.cc/ocs",
+        "icon": "valentinely.png",
+        "button": "valentinely.png",
+        "cw": "Sensitive topics. The site does not label specific warnings. Low-contrast text."
     }
 ]
