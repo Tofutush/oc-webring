@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2025-10-30
+
+- Added fiercefreesia;
+
 ## 2025-10-26
 
 - Added Valentinely;
