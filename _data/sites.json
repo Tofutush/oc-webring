@@ -808,5 +808,23 @@
         "icon": "valentinely.png",
         "button": "valentinely.png",
         "cw": "Sensitive topics. The site does not label specific warnings. Low-contrast text."
+    },
+    {
+        "name": "fiercefreesia",
+        "author": "Tori",
+        "mainUrl": "https://fiercefreesia.neocities.org/",
+        "chUrl": "https://fiercefreesia.neocities.org/Originalcharacters/ocsdirectory",
+        "desc": "For now, I have my characters for InnoSINt up. InnoSINt is a medieval fantasy story; some of the story's cast can use magic and swords, and some are of the fae race or demonic.",
+        "tags": [
+            "Fantasy",
+            "Medieval fantasy"
+        ],
+        "cw": "Violence and partial nudity",
+        "mobile": "mostly",
+        "featured": {
+            "name": "Cloe",
+            "url": "https://fiercefreesia.neocities.org/Originalcharacters/InnoSINtOCs/InnoSINtMainPage",
+            "img": "ff-cloe.jpg"
+        }
     }
 ]
