@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2025-11-30
+
+- Added Gates of Heaven, GearsElectric, Etilias-Corner, Gloomy Unicorn Castle, The Void in the Pocket of the Web;
+    - I'm going to pretend this is a surge in popularity instead of just me forgetting to check the submissions;
+
 ## 2025-10-30
 
 - Added fiercefreesia;
