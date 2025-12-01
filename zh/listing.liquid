@@ -12,8 +12,8 @@ lang: zh
             <img class="icon bounce float-right" alt="{{ site.name }}" src="/img/icons/{{ site.icon }}"/>
         {% endif %}
         <h2 id="{{ site.name | slugify }}">{{ site.name }}</h2>
-        <h3 class="no-indent" style="font-weight: bold"><a href="{{ site.mainUrl }}">主页</a> | <a href="{{ site.chUrl }}">角色页</a></h3>
-        <p class="no-indent">By {% if site.authorUrl %}<a href="{{ site.authorUrl }}">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}</p>
+        <h3 class="no-indent" style="font-weight: bold"><a target="_blank" href="{{ site.mainUrl }}">主页</a> | <a target="_blank" href="{{ site.chUrl }}">角色页</a></h3>
+        <p class="no-indent">By {% if site.authorUrl %}<a target="_blank" href="{{ site.authorUrl }}">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}</p>
         <div class="tags">
             <div class="important">{% if site.lang == 'en' %}English{% else %}中文{% endif %}</div>
             <div class="important">{% if site.mobile == 'yes' %}完全移动兼容{% elsif site.mobile == 'mostly' %}差不多移动兼容{% elsif site.mobile == 'kinda' %}有点移动兼容{% else %}不移动兼容{% endif %}</div>
@@ -26,14 +26,14 @@ lang: zh
         {% if site.featured %}
             <div class="box">
                 {% if site.featured.img %}<img class="icon bounce float-left" alt="{{ site.featured.name }}" src="/img/ch/{{ site.featured.img }}"/>{% endif %}
-                <h3>精选角色：<a href="{{ site.featured.url }}">{{ site.featured.name }}</a></h3>
+                <h3>精选角色：<a target="_blank" href="{{ site.featured.url }}">{{ site.featured.name }}</a></h3>
                 {% if site.featured.desc %}<p>{{ site.featured.desc }}</p>{% endif %}
             </div>
         {% endif %}
         {% if site.otherUrls %}
             <div class="tags other-urls">
                 {% for url in site.otherUrls %}
-                    <a href="{{ url[1] }}">{{ url[0] }}</a>
+                    <a target="_blank" href="{{ url[1] }}">{{ url[0] }}</a>
                 {% endfor %}
             </div>
         {% endif %}
