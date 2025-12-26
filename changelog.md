@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2025-12-26
+
+- Updated 1 URL;
+- Added DemonicPedigree, Valkyria's Hideout;
+
 ## 2025-11-30
 
 - Added Gates of Heaven, GearsElectric, Etilias-Corner, Gloomy Unicorn Castle, The Void in the Pocket of the Web;
