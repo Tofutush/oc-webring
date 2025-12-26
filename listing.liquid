@@ -1,47 +1,25 @@
 ---
 layout: layout.liquid
 title: Listing
-lang: en
+pagination:
+  data: sites
+  size: 10
+permalink: "/page-{{ pagination.pageNumber | plus: 1 }}/"
 ---
 
 <h1>Listing!</h1>
+<div id="pagination-nav">
+    {% for page in pagination.pages %}
+        <a href="{{ pagination.hrefs[ forloop.index0 ] }}"{% if page.url == pagination.hrefs[ forloop.index0 ] %} aria-current="page"{% endif %}>{{ forloop.index }}</a>
+    {% endfor %}
+</div>
 <div id="listing">
-{% for site in sites %}
-    <div class="box">
-        {% if site.icon %}
-            <img class="icon bounce float-right" alt="{{ site.name }}" src="/img/icons/{{ site.icon }}"/>
-        {% endif %}
-        <h2 id="{{ site.name | slugify }}">{{ site.name }}</h2>
-        <h3 class="no-indent" style="font-weight: bold"><a target="_blank" href="{{ site.mainUrl }}">Main page</a> | <a target="_blank" href="{{ site.chUrl }}">OC page</a></h3>
-        <p class="no-indent">By {% if site.authorUrl %}<a target="_blank" href="{{ site.authorUrl }}">{{ site.author }}</a>{% else %}{{ site.author }}{% endif %}</p>
-        <div class="tags">
-            <div class="important">{% if site.lang == 'zh' %}中文{% else %}English{% endif %}</div>
-            <div class="important">{% if site.mobile == 'yes' %}Mobile-friendly{% elsif site.mobile == 'mostly' %}Pretty mobile-friendly{% elsif site.mobile == 'kinda' %}Kind of mobile-friendly{% else %}NOT mobile-friendly{% endif %}</div>
-            {% for tag in site.tags %}
-                <div>{{ tag }}</div>
-            {% endfor %}
-        </div>
-        {% if site.desc %}<p>{{ site.desc }}</p>{% endif %}
-        {% if site.cw %}<p><span style="font-weight: bold;">Content warning:</span> {{ site.cw }}</p>{% endif %}
-        {% if site.featured %}
-            <div class="box">
-                {% if site.featured.img %}<img class="icon bounce float-left" alt="{{ site.featured.name }}" src="/img/ch/{{ site.featured.img }}"/>{% endif %}
-                <h3>Featured character: <a target="_blank" href="{{ site.featured.url }}">{{ site.featured.name }}</a></h3>
-                {% if site.featured.desc %}<p>{{ site.featured.desc }}</p>{% endif %}
-            </div>
-        {% endif %}
-        {% if site.otherUrls %}
-            <div class="tags other-urls">
-                {% for url in site.otherUrls %}
-                    <a target="_blank" href="{{ url[1] }}">{{ url[0] }}</a>
-                {% endfor %}
-            </div>
-        {% endif %}
-        {% if site.button %}
-            <div class="button">
-                <img class="bounce" alt="{{ site.name | append: ' button' }}" src="/img/buttons/{{ site.button }}"/>
-            </div>
-        {% endif %}
-    </div>
-{% endfor %}
+    {% for site in pagination.items %}
+        {% include 'sitebox', site: site %}
+    {% endfor %}
+</div>
+<div id="pagination-nav">
+    {% for page in pagination.pages %}
+        <a href="{{ pagination.hrefs[ forloop.index0 ] }}"{% if page.url == pagination.hrefs[ forloop.index0 ] %} aria-current="page"{% endif %}>{{ forloop.index }}</a>
+    {% endfor %}
 </div>
