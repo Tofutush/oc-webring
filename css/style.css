@@ -148,11 +148,6 @@ iframe {
     background-color: var(--bg);
 }
 
-#lang {
-    float: right;
-    margin: 2em 0 1em 1em;
-}
-
 #banner {
     border-top-right-radius: 0;
     border-top-left-radius: 0;
