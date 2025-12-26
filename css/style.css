@@ -148,6 +148,21 @@ iframe {
     background-color: var(--bg);
 }
 
+.pagination-nav {
+    display: flex;
+    justify-content: center;
+    margin: 1em;
+    font-size: var(--font-size-h2);
+
+    &>a {
+        padding: .5em 1em;
+    }
+
+    &>a[aria-current] {
+        text-decoration: underline;
+    }
+}
+
 #banner {
     border-top-right-radius: 0;
     border-top-left-radius: 0;

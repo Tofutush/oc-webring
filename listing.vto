@@ -1,16 +1,17 @@
 ---
 layout: layout.vto
-title: Listing
 pagination:
   data: sites
   size: 10
   addAllPagesToCollections: true
 permalink: "/page-{{ pagination.pageNumber + 1 }}/"
+eleventyComputed:
+  title: "Page {{ pagination.pageNumber + 1 }}"
 ---
 
-<h1>Listing!</h1>
+<h1>Listing - Page {{ pagination.pageNumber + 1 }}!</h1>
 <div class="pagination-nav">
-    {{ for index, page of pagination.pages }}
+    {{ for index, p of pagination.pages }}
         <a href="{{ pagination.hrefs[index] }}"{{ if page.url == pagination.hrefs[index] }} aria-current="page"{{ /if }}>{{ index + 1 }}</a>
     {{ /for }}
 </div>
@@ -20,7 +21,7 @@ permalink: "/page-{{ pagination.pageNumber + 1 }}/"
     {{ /for }}
 </div>
 <div class="pagination-nav">
-    {{ for index, page of pagination.pages }}
+    {{ for index, p of pagination.pages }}
         <a href="{{ pagination.hrefs[index] }}"{{ if page.url == pagination.hrefs[index] }} aria-current="page"{{ /if }}>{{ index + 1 }}</a>
     {{ /for }}
 </div>
