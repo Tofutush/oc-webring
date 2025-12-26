@@ -1,0 +1,24 @@
+---
+layout: layout.vto
+pagination:
+  data: tagData
+  size: 1
+  alias: tag
+  addAllPagesToCollections: true
+permalink: "/tag/{{ tag |> slugify }}/"
+eleventyComputed:
+  title: "Sites tagged {{ tag }}"
+---
+
+<h1>Sites tagged {{ tag }}</h1>
+<div id="listing">
+    {{ for site of sites.filter(s => s.tags?.includes(tag)) }}
+        {{ include "sitebox.vto" { site: site } }}
+    {{ /for }}
+</div>
+<h2>Explore tags</h2>
+<div class="pagination-nav">
+    {{ for t of tagData }}
+        <a href="/tag/{{ t |> slugify }}"{{ if tag == t }}aria-current="page"{{ /if }}>{{ t }}</a></li>
+    {{ /for }}
+</div>

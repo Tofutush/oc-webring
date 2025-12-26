@@ -88,6 +88,7 @@ h1 {
     font-size: var(--font-size-h1);
     margin-bottom: .75em;
     margin-top: 1.25em;
+    text-align: center;
 }
 
 h2 {
@@ -151,8 +152,9 @@ iframe {
 .pagination-nav {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin: 1em;
-    font-size: var(--font-size-h2);
+    line-height: 2;
 
     &>a {
         padding: .5em 1em;

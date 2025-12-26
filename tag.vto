@@ -1,0 +1,10 @@
+---
+layout: layout.vto
+title: Tags
+---
+<h1>Tags</h1>
+<ul>
+    {{ for t of tagData }}
+        <li><a href="/tag/{{ t |> slugify }}">{{ t }}</a></li>
+    {{ /for }}
+</ul>
