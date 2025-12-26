@@ -2,12 +2,12 @@
     {{ if site.icon }}
         <img class="icon bounce float-right" alt="{{ site.name }}" src="/img/icons/{{ site.icon }}"/>
     {{ /if }}
-    <h2 id="{{ site.name | slugify }}">{{ site.name }}</h2>
+    <h2 id="{{ site.name |> slugify }}">{{ site.name }}</h2>
     <h3 class="no-indent" style="font-weight: bold"><a target="_blank" href="{{ site.mainUrl }}">Main page</a> | <a target="_blank" href="{{ site.chUrl }}">OC page</a></h3>
     <p class="no-indent">By {{ if site.authorUrl }}<a target="_blank" href="{{ site.authorUrl }}">{{ site.author }}</a>{{ else }}{{ site.author }}{{ /if }}</p>
     <div class="tags">
-        <div class="important">{{ if site.lang == 'zh' }}中文{{ else }}English{{ /if }}</div>
-        <div class="important">{{ if site.mobile == 'yes' }}Mobile-friendly{{ else if site.mobile == 'mostly' }}Pretty mobile-friendly{{ else if site.mobile == 'kinda' }}Kind of mobile-friendly{{ else }}NOT mobile-friendly{{ /if }}</div>
+        <div class="important">{{ site.lang == 'zh' ? '中文' : 'English' }}</div>
+        <div class="important">{{ site.mobile == 'yes' ? 'Mobile-friendly' : (site.mobile == 'mostly' ? 'Pretty mobile-friendly' : (site.mobile == 'kinda' ? 'Kind of mobile-friendly' : 'Not mobile-friendly')) }}</div>
         {{ for tag of site.tags }}
             <div>{{ tag }}</div>
         {{ /for }}
