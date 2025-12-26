@@ -6,10 +6,9 @@
     <h3 class="no-indent" style="font-weight: bold"><a target="_blank" href="{{ site.mainUrl }}">Main page</a> | <a target="_blank" href="{{ site.chUrl }}">OC page</a></h3>
     <p class="no-indent">By {{ if site.authorUrl }}<a target="_blank" href="{{ site.authorUrl }}">{{ site.author }}</a>{{ else }}{{ site.author }}{{ /if }}</p>
     <div class="tags">
-        <div class="important">{{ site.lang == 'zh' ? '中文' : 'English' }}</div>
         <div class="important">{{ site.mobile == 'yes' ? 'Mobile-friendly' : (site.mobile == 'mostly' ? 'Pretty mobile-friendly' : (site.mobile == 'kinda' ? 'Kind of mobile-friendly' : 'Not mobile-friendly')) }}</div>
         {{ for tag of site.tags }}
-            <div>{{ tag }}</div>
+            <div><a style="color: var(--text)" href="/tag/{{ tag |> slugify }}/">{{ tag }}</a></div>
         {{ /for }}
     </div>
     {{ if site.desc }}<p>{{ site.desc }}</p>{{ /if }}
@@ -23,8 +22,8 @@
     {{ /if }}
     {{ if site.otherUrls }}
         <div class="tags other-urls">
-            {{ for url of site.otherUrls }}
-                <a target="_blank" href="{{ url[1] }}">{{ url[0] }}</a>
+            {{ for name, url of site.otherUrls }}
+                <a target="_blank" href="{{ url }}">{{ name }}</a>
             {{ /for }}
         </div>
     {{ /if }}
