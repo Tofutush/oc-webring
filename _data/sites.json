@@ -279,15 +279,15 @@
     {
         "name": "Mechagic's Fun Party",
         "author": "Mechagic",
-        "mainUrl": "https://mechagic.party/",
-        "chUrl": "https://mechagic.party/creations/oc_wiki/",
+        "mainUrl": "https://mechagic.pages.gay/",
+        "chUrl": "https://mechagic.pages.gay/creations/oc_wiki/",
         "lang": "en",
         "mobile": "mostly",
         "icon": "mechagic.webp",
         "button": "mechagic.webp",
         "featured": {
             "name": "Static Musings",
-            "url": "https://mechagic.party/creations/oc_wiki/static_musings/",
+            "url": "https://mechagic.pages.gay/creations/oc_wiki/static_musings/",
             "desc": "Bro got a job when it was only 2 weeks old, send help",
             "img": "mechagic static musings.webp"
         }
@@ -907,5 +907,41 @@
         ],
         "button": "void.png",
         "cw": "18+, Contains topics surrounding death, suicide, and NSFW. Most Content will have tropes and TW on the projects themselves."
+    },
+    {
+        "name": "DemonicPedigree",
+        "author": "Mari",
+        "mainUrl": "https://demonicpedigree.com/",
+        "chUrl": "https://demonicpedigree.com/ocs",
+        "icon": "dp-clover.webp",
+        "desc": "My OCs live in a modern fantasy world inspired by the Howl's Moving Castle novel, Harvest Moon, and every fantasy world I wish I could move to. The main story is a fantasy romance between a human veterinarian and a mysterious wizard. I hope to publish it one day.",
+        "tags": [
+            "Cottagecore",
+            "Fantasy",
+            "Romance",
+            "Modern fantasy",
+            "Pagan"
+        ],
+        "button": "dp.gif",
+        "mobile": "kinda"
+    },
+    {
+        "name": "Valkyria's Hideout",
+        "author": "Valery",
+        "mainUrl": "https://valkyrias-hideout-art.neocities.org/",
+        "chUrl": "https://valkyrias-hideout-art.neocities.org/my-ocs",
+        "desc": "A main OC, a Dragon Ball Super OC, and a MegaManX OC",
+        "tags": [
+            "Art",
+            "Hobby"
+        ],
+        "button": "valery.png",
+        "cw": "Pink blood and moving backgrounds",
+        "featured": {
+            "name": "Nightrave",
+            "url": "https://valkyrias-hideout-art.neocities.org/ocs/nightrave",
+            "desc": "Female hunter reploid",
+            "img": "valery-nightrave.png"
+        }
     }
 ]
