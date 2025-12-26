@@ -5,6 +5,6 @@ title: Tags
 <h1>Tags</h1>
 <ul>
     {{ for t of tagData }}
-        <li><a href="/tag/{{ t |> slugify }}">{{ t }}</a> ({{ sites.filter(s => s.tags?.includes(t)).length }} sites)</li>
+        <li><a href="/tag/{{ t |> slugify }}">{{ t }}</a> ({{ sites.filter(s => s.tags?.includes(t)).length }} site{{ sites.filter(s => s.tags?.includes(t)).length == 1 ? '' : 's' }})</li>
     {{ /for }}
 </ul>

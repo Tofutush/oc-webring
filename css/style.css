@@ -153,11 +153,11 @@ iframe {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 1em;
+    margin: 1em 0;
     line-height: 2;
 
     &>a {
-        padding: .5em 1em;
+        padding: .2em .5em
     }
 
     &>a[aria-current] {
