@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: layout.vto
 title: No Such Site
 desc: The site is not registered in our file!
 tiltText: Oops, site not found!

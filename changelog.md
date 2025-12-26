@@ -1,5 +1,5 @@
 ---
-layout: layout.liquid
+layout: layout.vto
 title: Changelog
 ---
 

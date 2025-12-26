@@ -1,0 +1,15 @@
+---
+layout: layout.vto
+desc: A webring for OC makers!
+title: Home
+---
+
+<h1>OC Webring</h1>
+
+<div class="button">
+    {{ for site of sites }}
+        {{ if site.button }}
+            <img class="bounce" alt="{{ site.name + ' button' }}" src="/img/buttons/{{ site.button }}"/>
+        {{ /if }}
+    {{ /for }}
+</div>

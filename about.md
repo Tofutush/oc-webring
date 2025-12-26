@@ -1,6 +1,5 @@
 ---
-layout: layout.liquid
-lang: en
+layout: layout.vto
 title: About
 ---
 

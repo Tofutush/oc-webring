@@ -1,7 +1,6 @@
 ---
-layout: layout.liquid
+layout: layout.vto
 title: Join!
-lang: en
 ---
 
 # Join

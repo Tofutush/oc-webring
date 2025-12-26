@@ -1,0 +1,36 @@
+<div class="box">
+    {{ if site.icon }}
+        <img class="icon bounce float-right" alt="{{ site.name }}" src="/img/icons/{{ site.icon }}"/>
+    {{ /if }}
+    <h2 id="{{ site.name | slugify }}">{{ site.name }}</h2>
+    <h3 class="no-indent" style="font-weight: bold"><a target="_blank" href="{{ site.mainUrl }}">Main page</a> | <a target="_blank" href="{{ site.chUrl }}">OC page</a></h3>
+    <p class="no-indent">By {{ if site.authorUrl }}<a target="_blank" href="{{ site.authorUrl }}">{{ site.author }}</a>{{ else }}{{ site.author }}{{ /if }}</p>
+    <div class="tags">
+        <div class="important">{{ if site.lang == 'zh' }}中文{{ else }}English{{ /if }}</div>
+        <div class="important">{{ if site.mobile == 'yes' }}Mobile-friendly{{ else if site.mobile == 'mostly' }}Pretty mobile-friendly{{ else if site.mobile == 'kinda' }}Kind of mobile-friendly{{ else }}NOT mobile-friendly{{ /if }}</div>
+        {{ for tag of site.tags }}
+            <div>{{ tag }}</div>
+        {{ /for }}
+    </div>
+    {{ if site.desc }}<p>{{ site.desc }}</p>{{ /if }}
+    {{ if site.cw }}<p><span style="font-weight: bold;">Content warning:</span> {{ site.cw }}</p>{{ /if }}
+    {{ if site.featured }}
+        <div class="box">
+            {{ if site.featured.img }}<img class="icon bounce float-left" alt="{{ site.featured.name }}" src="/img/ch/{{ site.featured.img }}"/>{{ /if }}
+            <h3>Featured character: <a target="_blank" href="{{ site.featured.url }}">{{ site.featured.name }}</a></h3>
+            {{ if site.featured.desc }}<p>{{ site.featured.desc }}</p>{{ /if }}
+        </div>
+    {{ /if }}
+    {{ if site.otherUrls }}
+        <div class="tags other-urls">
+            {{ for url of site.otherUrls }}
+                <a target="_blank" href="{{ url[1] }}">{{ url[0] }}</a>
+            {{ /for }}
+        </div>
+    {{ /if }}
+    {{ if site.button }}
+        <div class="button">
+            <img class="bounce" alt="{{ site.name + ' button' }}" src="/img/buttons/{{ site.button }}"/>
+        </div>
+    {{ /if }}
+</div>

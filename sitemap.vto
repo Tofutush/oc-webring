@@ -1,0 +1,11 @@
+---
+layout: layout.vto
+title: Sitemap
+---
+<style>a { color: var(--text); }</style>
+<h1>Sitemap</h1>
+<ul>
+    {{ for page of collections.all }}
+        <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+    {{ /for }}
+</ul>
