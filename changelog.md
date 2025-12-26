@@ -9,6 +9,10 @@ title: Changelog
 
 - Updated 1 URL;
 - Added DemonicPedigree, Valkyria's Hideout;
+- Added pagination;
+- Added tags;
+- Removed `/zh/` links because no one was joining;
+    - [Here](https://paracosm.pages.casa)'s a really good collection of Chinese OC sites though;
 
 ## 2025-11-30
 
