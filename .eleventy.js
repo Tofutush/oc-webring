@@ -1,9 +1,9 @@
-import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
-import { EleventyI18nPlugin } from "@11ty/eleventy";
+import { EleventyHtmlBasePlugin, EleventyI18nPlugin } from "@11ty/eleventy";
+import pinyin from 'chinese-to-pinyin';
+import { VentoPlugin } from 'eleventy-plugin-vento';
 import { minify } from 'html-minifier-terser';
 import MarkdownIt from 'markdown-it';
 import MarkdownItAnchor from "markdown-it-anchor";
-import pinyin from 'chinese-to-pinyin';
 
 export default function (eleventyConfig) {
     eleventyConfig.setQuietMode(true);
@@ -24,6 +24,7 @@ export default function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy('css');
     eleventyConfig.addPassthroughCopy('js');
     eleventyConfig.addFilter('slug', slug);
+    eleventyConfig.addPlugin(VentoPlugin);
     eleventyConfig.addTransform("htmlmin", async function (content) {
         if ((this.page.outputPath || "").endsWith(".html")) {
             let minified = await minify(content, {
@@ -36,4 +37,8 @@ export default function (eleventyConfig) {
         // If not an HTML output, return content as-is
         return content;
     });
+    return {
+        markdownTemplateEngine: 'vto',
+        htmlTemplateEngine: 'vto'
+    }
 }
