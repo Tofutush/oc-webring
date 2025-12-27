@@ -943,5 +943,28 @@
             "desc": "Female hunter reploid",
             "img": "valery-nightrave.png"
         }
+    },
+    {
+        "name": "the hallway of Michael the cabinet",
+        "author": "michael wsmrkov",
+        "mainUrl": "https://baggebo-the-goober.neocities.org",
+        "chUrl": "https://baggebo-the-goober.neocities.org/paraland/characters",
+        "otherUrls": {
+            "Projects": "https://baggebo-the-goober.neocities.org/projects"
+        },
+        "icon": "mich.jpg",
+        "desc": "This is PARALAND (paraland/PARALAND, not Paraland). It used to be a childhood magical girl project but is now about four girls trying to exterminate paranormal creatures to earn money in the country of Hong Kong. I still need to update a lot of stuff, so if lore changes, don't be surprised.",
+        "tags": [
+            "Paranormal",
+            "Horror",
+            "Alternative",
+            "Action"
+        ],
+        "cw": "Full warning available here: <a href=\"https://baggebo-the-goober.neocities.org/paraland/warning\">link</a>",
+        "featured": {
+            "name": "Ayra",
+            "url": "https://baggebo-the-goober.neocities.org/paraland/ayra",
+            "desc": "Ayra is an absolute menace. I want to punt her into a wall (she is 13 and did nothing to me)."
+        }
     }
 ]
