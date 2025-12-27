@@ -18,6 +18,7 @@ eleventyComputed:
 </div>
 <h2>Explore tags</h2>
 <div class="pagination-nav">
+    <a href="/tag/">(All)</a>
     {{ for t of tagData }}
         <a href="/tag/{{ t |> slugify }}"{{ if tag == t }}aria-current="page"{{ /if }}>{{ t }}</a></li>
     {{ /for }}

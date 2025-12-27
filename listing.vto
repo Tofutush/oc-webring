@@ -4,9 +4,9 @@ pagination:
   data: sites
   size: 10
   addAllPagesToCollections: true
-permalink: "/page-{{ pagination.pageNumber + 1 }}/"
+permalink: "/listing/{{ pagination.pageNumber == 0 ? '' : pagination.pageNumber + 1 }}/"
 eleventyComputed:
-  title: "Page {{ pagination.pageNumber + 1 }}"
+  title: "Listing - Page {{ pagination.pageNumber + 1 }}"
 ---
 
 <h1>Listing - Page {{ pagination.pageNumber + 1 }}!</h1>
