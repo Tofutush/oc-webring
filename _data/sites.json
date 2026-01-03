@@ -164,8 +164,8 @@
     {
         "name": "Welcome to the Takeoverse!",
         "author": "Lia Amanata",
-        "mainUrl": "https://takeoverse.neocities.org/",
-        "chUrl": "https://takeoverse.neocities.org/chara",
+        "mainUrl": "https://takeoverse.nekoweb.org/",
+        "chUrl": "https://takeoverse.nekoweb.org/chara",
         "lang": "en",
         "mobile": "kinda",
         "desc": "The storyline follows a supervillain team going by the name \"the World-Takeover-ers\" as they attempt to take over the world, except (a) they are incompetent, and (b) by the time the team makes their debut, the world is now crawling around with sentient objects, superpowers, man-eating monsters, and eldritch abominations. Sure does make taking over the world a lot more challenging huh.",
@@ -181,7 +181,7 @@
         "cw": "Violence, gore, body horror, drugs, and various brands of horror... Assume any bad thing other than $ex-related things will happen somewhere in there.",
         "featured": {
             "name": "Gondo",
-            "url": "https://takeoverse.neocities.org/chara/wto/gondo",
+            "url": "https://takeoverse.nekoweb.org/chara/wto/gondo",
             "desc": "(Self-proclaimed) ALIEN SPACE GENERAL, founder and leader of the World-Takeover-ers, and the future EVIL OVERLORD of Planet Earth. (That is, if he can overcome his own crippling incompetence first.)",
             "img": "takeoverse-gondo.jpg"
         }
