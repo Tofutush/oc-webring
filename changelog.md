@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2026-01-03
+
+- Updated 1 URL;
+
 ## 2025-12-27
 
 - Added the hallway of Michael the cabinet;
