@@ -8,6 +8,7 @@ title: Changelog
 ## 2026-01-03
 
 - Updated 1 URL;
+- Added Upon the Starry Sky, Observed;
 
 ## 2025-12-27
 
