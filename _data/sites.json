@@ -600,11 +600,15 @@
     },
     {
         "name": "YOU WILL BE SAFE",
-        "author": "E",
+        "author": "Ira",
         "mainUrl": "https://youwillbesafe.neocities.org/sanctuary",
         "chUrl": "https://youwillbesafe.neocities.org/ocs",
         "button": "ywbs.gif",
-        "cw": "Slightly unsettling images on character page."
+        "cw": "Slightly unsettling images on character page. Partial artistic nudity.",
+        "desc": "A few horror-oriented fandom OCs, made to express my love for the genre! More vibes than backstory.",
+        "tags": [
+            "Horror"
+        ]
     },
     {
         "name": "jesterwave",
@@ -995,5 +999,20 @@
         "chUrl": "https://observed.neocities.org/character_pages",
         "desc": "I have some dearly beloved characters! Some are for month-long projects, some are for a comic I am developing, some are for DnD",
         "cw": "Sensitive topics; one part of site dedicated to graphic gore."
+    },
+    {
+        "name": "Suumelle",
+        "author": "Eggwin",
+        "mainUrl": "https://suumelle.nekoweb.org/home",
+        "chUrl": "https://suumelle.nekoweb.org/characters",
+        "icon": "suumelle.png",
+        "desc": "Suumelle is a place full of wonder and adventure. It's a place where you can traverse vast deserts, climb the tallest mountains, and discover the darkest depths of the oceans. In this directory, you will find entries I have written on the places and people of Suumelle, as well as other tidbits I have gathered along my travels. Suumelle has many directions for you to explore, and quite the array of characters for you to meet. (Even if some of them are a bit suspicious…) I hope to see you there someday!",
+        "button": "suumelle.png",
+        "featured": {
+            "name": "Grymm",
+            "url": "https://suumelle.nekoweb.org/grymm",
+            "desc": "While he is a Yuumboh (one of the pixie people), he maintains the size of a much larger race. This is especially helpful in his position as a bodyguard, but is unusual for his species.",
+            "img": "suumelle-grymm.jpeg"
+        }
     }
 ]
