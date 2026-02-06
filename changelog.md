@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2026-02-05
+
+- Added lunarnotfound's site;
+- Updated Web-Surfer;
+
 ## 2026-01-16
 
 - Updated You Will Be Safe;
