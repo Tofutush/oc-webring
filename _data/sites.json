@@ -571,23 +571,23 @@
         "name": "The Wondrous Web-Surfer!",
         "author": "Dynaknights",
         "mainUrl": "https://web-surfer.neocities.org/",
-        "chUrl": "https://web-surfer.neocities.org/Cast",
+        "chUrl": "https://web-surfer.neocities.org/cast/",
+        "mobile": "mostly",
         "otherUrls": {
             "World description": "https://web-surfer.neocities.org/Earth256B"
         },
-        "desc": "Within the secluded universe of Earth-256-B, humanity has (surprisingly) persisted, despite the odds, into the far-flung future of the late 2990s. However, not all is well. Ville-de-Nouvelle-Yorke has been experiencing a severe increase in superpowered crime and self-proclaimed superheroes supposed to protect the city only care if it increases their fame! A guy named Virgil Voltspun gets bitten by a spider as a preteen and gains superpowers, so he decides to step in. However, he gets a lot more than he bargained for.",
+        "desc": "It's Spider-Man but sad and gay.<br/>Isn't that just regular 616 Spider-Man?<br/>Shush.",
         "tags": [
             "Superhero",
-            "Science fiction",
-            "Science fantasy"
+            "Science fiction"
         ],
         "icon": "websurfer.png",
         "button": "websurfer.png",
-        "cw": "Extreme violence, sensitive topics, swearing, arthropods, etc. More are listed on the Index page.",
+        "cw": "Violence, crime, mental health, swearing, arachnophobia…",
         "featured": {
             "name": "Virgil Voltspun",
-            "url": "https://web-surfer.neocities.org/cast/VirgilVoltspun",
-            "desc": "A grouchy thirty-something that got bitten by a spider when he was twelve, gained superpowers from it, and immediately decided it would be a FANTASTIC idea to save people and beat up criminals for a living! He could finally put his extreme hyperfixations surrounding supers in general to good use and he could be like his role models: the Avengers!\n\nYears later, he's emotionally constipated and regretting his life decisions trying to balance school, work, bills, being a vigilante, mending his nonexistent social life, the list goes on and on.",
+            "url": "https://web-surfer.neocities.org/cast/vesuveovoltspun/",
+            "desc": "HE'S SPIDER-MAN BUT TRANS AND AUTISTIC AND SAD!!",
             "img": "websurfer-virgil.png"
         }
     },
@@ -1014,5 +1014,12 @@
             "desc": "While he is a Yuumboh (one of the pixie people), he maintains the size of a much larger race. This is especially helpful in his position as a bodyguard, but is unusual for his species.",
             "img": "suumelle-grymm.jpeg"
         }
+    },
+    {
+        "name": "lunarnotfound's site!!!1!",
+        "author": "lunarnotfound",
+        "mainUrl": "https://lunarnotfound.neocities.org/",
+        "chUrl": "https://lunarnotfound.neocities.org/pages/ocs",
+        "cw": "a bit flashy, sensitive topics, definitely at least 13+ for a bit of gore"
     }
 ]
