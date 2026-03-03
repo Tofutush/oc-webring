@@ -819,19 +819,13 @@
         "author": "Tori",
         "mainUrl": "https://fiercefreesia.neocities.org/",
         "chUrl": "https://fiercefreesia.neocities.org/Originalcharacters/ocsdirectory",
-        "desc": "For now, I have my characters for InnoSINt up. InnoSINt is a medieval fantasy story; some of the story's cast can use magic and swords, and some are of the fae race or demonic.",
+        "desc": "Characters I've made for my favorite franchises!",
         "tags": [
-            "Fantasy",
-            "Medieval fantasy"
+            "Fandom"
         ],
         "cw": "18+ for written and illustrated depictions of violence and mature themes; some artwork contains partial nudity.",
         "button": "ff.png",
-        "mobile": "mostly",
-        "featured": {
-            "name": "Cloe",
-            "url": "https://fiercefreesia.neocities.org/Originalcharacters/InnoSINtOCs/InnoSINtMainPage",
-            "img": "ff-cloe.jpg"
-        }
+        "mobile": "mostly"
     },
     {
         "name": "Gates of Heaven",
@@ -1021,5 +1015,34 @@
         "mainUrl": "https://lunarnotfound.neocities.org/",
         "chUrl": "https://lunarnotfound.neocities.org/pages/ocs",
         "cw": "a bit flashy, sensitive topics, definitely at least 13+ for a bit of gore"
+    },
+    {
+        "name": "velette",
+        "author": "Dia",
+        "mainUrl": "https://velette.neocities.org",
+        "chUrl": "https://velette.neocities.org/characters",
+        "icon": "velette.png",
+        "desc": "Just a bunch of personal OCs pertaining to my passion project.",
+        "tags": [
+            "Dark comedy",
+            "Post-apocalyptic",
+            "Psychological horror"
+        ],
+        "button": "velette.gif",
+        "cw": "mentions of adult topics, violence, and strong language",
+        "featured": {
+            "name": "Louis",
+            "url": "https://velette.neocities.org/characters/louis",
+            "desc": "The protagonist of my story. He's a hitman and a terrible person lowkey.",
+            "img": "velette-louis.png"
+        }
+    },
+    {
+        "name": "My Silly Little Website",
+        "author": "Madrian",
+        "mainUrl": "https://if-we-were-villains.nekoweb.org/not_found.html",
+        "chUrl": "https://if-we-were-villains.nekoweb.org/OCDirectory.html",
+        "cw": "18+ Mature website. Sensitive and dark topics; pagedoll with blood on front page",
+        "button": "madrian.png"
     }
 ]

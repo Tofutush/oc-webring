@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2026-03-03
+
+- Updated fiercefreesia;
+- Added velette, My Silly Little Website;
+
 ## 2026-02-05
 
 - Added lunarnotfound's site;
