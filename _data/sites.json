@@ -1044,5 +1044,21 @@
         "chUrl": "https://if-we-were-villains.nekoweb.org/OCDirectory.html",
         "cw": "18+ Mature website. Sensitive and dark topics; pagedoll with blood on front page",
         "button": "madrian.png"
+    },
+    {
+        "name": "JustPeachy's Site",
+        "author": "Mikayla Ryan",
+        "authorUrl": "https://linktr.ee/justpeachyarts2023",
+        "mainUrl": "https://justpeachy26.neocities.org",
+        "chUrl": "https://justpeachy26.neocities.org/OCs",
+        "icon": "justpeachy.gif",
+        "desc": "Some characters were created from my personal life experiences, others are personas.",
+        "tags": [
+            "Anime",
+            "Dark",
+            "Goth"
+        ],
+        "button": "justpeachy.png",
+        "cw": "Sensitive topics; very flashy background"
     }
 ]
