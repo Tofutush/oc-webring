@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2026-03-06
+
+- Added document - my - death;
+
 ## 2026-03-04
 
 - Added JustPeachy;
