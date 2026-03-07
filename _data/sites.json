@@ -1060,5 +1060,18 @@
         ],
         "button": "justpeachy.png",
         "cw": "Sensitive topics; very flashy background"
+    },
+    {
+        "name": "document - my - death",
+        "author": "juno",
+        "mainUrl": "https://documentmydeath.nekoweb.org",
+        "chUrl": "https://documentmydeath.nekoweb.org/shrines/micheal.html",
+        "cw": "few sensitive topics & some flashy lights but there will be appropriate warnings on the landing page!",
+        "desc": "my site is being updated so i will work out a proper section for my ocs! right now its just my micheal shrine.",
+        "featured": {
+            "name": "micheal",
+            "url": "https://documentmydeath.nekoweb.org/shrines/micheal.html",
+            "img": "dmd-michealle.png"
+        }
     }
 ]
