@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2026-03-12
+
+- Updated fiercefreesia;
+- Added Sterki Herz's Cafe, alice's alcove;
+
 ## 2026-03-06
 
 - Added document - my - death;
