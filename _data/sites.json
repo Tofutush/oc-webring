@@ -823,7 +823,7 @@
         "tags": [
             "Fandom"
         ],
-        "cw": "18+ for written and illustrated depictions of violence and mature themes; some artwork contains partial nudity.",
+        "cw": "16+ for written and illustrated depictions of violence and mature themes; some artwork contains partial nudity.",
         "button": "ff.png",
         "mobile": "mostly"
     },
@@ -1072,6 +1072,51 @@
             "name": "micheal",
             "url": "https://documentmydeath.nekoweb.org/shrines/micheal.html",
             "img": "dmd-michealle.png"
+        }
+    },
+    {
+        "name": "Sterki Herz's Cafe",
+        "author": "Sterki Herz",
+        "authorUrl": "https://linktr.ee/sterkiherz",
+        "mainUrl": "https://sterkiherz.netlify.app/",
+        "chUrl": "https://sterkiherz.netlify.app/pages/ochub",
+        "icon": "sterki.gif",
+        "desc": "The characters are mainly from my upcoming comic called Miraclewish: Whispers of Ylwenor. This is a fantasy/comedy project, somewhat inspired by Studio Ghibli vibes!",
+        "tags": [
+            "Fantasy",
+            "Cute",
+            "RPG",
+            "Cozy",
+            "Magic"
+        ],
+        "button": "sterki.png"
+    },
+    {
+        "name": "alice's alcove",
+        "author": "alice",
+        "mainUrl": "https://alicesdumbstuff.neocities.org/",
+        "chUrl": "https://alicesdumbstuff.neocities.org/main/ocs",
+        "otherUrls": {
+            "Writing": "https://alicesdumbstuff.neocities.org/main/writing"
+        },
+        "icon": "ac.png",
+        "desc": "i have. quite a lot of characters. and a lot of universes. but! maybe some of them are bound to catch your eye. i write stories about them too if you're interested in checking out some of my writings! plenty of info and more can be found on my website :]",
+        "tags": [
+            "Fantasy",
+            "Science fiction",
+            "Romance",
+            "Action",
+            "Post-apocalyptic",
+            "LGBTQ+",
+            "Queer"
+        ],
+        "button": "ac.gif",
+        "cw": "flashing images and gifs, sensitive topics",
+        "featured": {
+            "name": "Ell1s",
+            "url": "https://alicesdumbstuff.neocities.org/main/ocs/ell1s",
+            "desc": "a holographic AI that controls an entire underground bunker facility! he was built to protect humans within the bunker in the case of a nuclear war, but… nobody got there in time. he is lonely. :(",
+            "img": "ac-ell1s.png"
         }
     }
 ]
