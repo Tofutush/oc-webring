@@ -2,7 +2,7 @@
     {
         "name": "The Iron Ragdoll（铁打洋娃娃）",
         "author": "Tofutush",
-        "authorUrl": "https://toyhou.se/Tofutush",
+        "authorUrl": "https://tilde.town/~tofutush",
         "mainUrl": "https://tofutush.github.io/The-Iron-Ragdoll",
         "chUrl": "https://tofutush.github.io/The-Iron-Ragdoll/characters",
         "otherUrls": {
@@ -1118,5 +1118,115 @@
             "desc": "a holographic AI that controls an entire underground bunker facility! he was built to protect humans within the bunker in the case of a nuclear war, but… nobody got there in time. he is lonely. :(",
             "img": "ac-ell1s.png"
         }
+    },
+    {
+        "name": "Here from Hereafter",
+        "author": "Mira",
+        "authorUrl": "https://seaslug.party/",
+        "mainUrl": "https://seaslug.party/project/hfh/",
+        "chUrl": "https://seaslug.party/project/hfh/characters/",
+        "icon": "seaslug.jpg",
+        "desc": "Rhapsody, god of chaos, was slain by Tragedy, god of death against the wishes of the other gods. A hundred years later, a chimera named Aquila would ascend to godhood, deeming herself the second god of chaos. The stories of Here from Hereafter are a direct consequence of Aquila's actions. (and are also about fandom culture...)",
+        "mobile": "mostly",
+        "tags": [
+            "Surrealism",
+            "Dark comedy",
+            "Fantasy"
+        ],
+        "button": "seaslug.png",
+        "cw": "Death and grief, suicide, body horror, a lot of these characters kind of suck",
+        "featured": {
+            "name": "Aquila",
+            "url": "https://seaslug.party/project/hfh/characters/deities/aquila/",
+            "desc": "The second god of chaos, known for being a vain loser. Created a machine to make herself a god, and was taken into custody by the other gods shortly after her ascension.",
+            "img": "seaslug-aquila.png"
+        }
+    },
+    {
+        "name": "OutKrop",
+        "author": "Rocky Atomica",
+        "authorUrl": "https://geoledgy.neocities.org/",
+        "mainUrl": "https://outkrop.neocities.org/",
+        "chUrl": "https://outkrop.neocities.org/characters/",
+        "icon": "outkrop.png",
+        "desc": "OutKrop is the #1 rockin' online community for you to converge with your friends and meet new people! Here, you can find the profiles of characters from my headworld \"The Rock Records\". My two main stories are Nonconformity, a battle of the bands story, and Uranium Rush, a psychological horror that takes place in a dying desert town. Fun fact: All of my characters are based off of rocks and minerals.",
+        "tags": [
+            "Neo-western",
+            "Drama",
+            "Comedy",
+            "Geology"
+        ],
+        "cw": "Crude language and humor, cartoon violence, mature themes, moving/flashing gifs",
+        "featured": {
+            "name": "TB Nicholson",
+            "url": "https://outkrop.neocities.org/characters/urush/tb/",
+            "desc": "TB Nicholson is a PhD dropout with the demeanor of an old west outlaw. After moving back to his hometown of Sandstone Springs, he has been nothing but a nuisance to the townsfolk living there. TB once wanted to achieve great things, but nowadays struggles to find any ambition, choosing rather to get stoned and creating something awful (possibly radioactive) in his makeshift lab (his garage) to pass the time. Yes, his name stands for \"tuberculosis\"! ",
+            "img": "outkrop-tb.png"
+        }
+    },
+    {
+        "name": "the MARIONETWORK",
+        "author": "DARIIUS",
+        "authorUrl": "https://buttermilkbear.neocities.org/",
+        "mainUrl": "https://mechabiosis.nekoweb.org/",
+        "chUrl": "https://mechabiosis.nekoweb.org/characters/rps",
+        "otherUrls": {
+            "RSS feed": "https://mechabiosis.nekoweb.org/feed.xml"
+        },
+        "icon": "marionetwork.gif",
+        "desc": "MECHABIOSIS follows the protagonist, the Rouge Project Star robot, a robot reject trying to find purpose under his brother's guidance while making sense of his own feelings of self-hatred.",
+        "button": "marionetwork.png",
+        "tags": [
+            "Robots"
+        ],
+        "mobile": "mostly",
+        "cw": "suicidal ideation mentioned",
+        "featured": {
+            "name": "Rogue Project Star",
+            "url": "https://mechabiosis.nekoweb.org/characters/rps",
+            "desc": "The Rogue Project Star robot, otherwise known as RPS struggles to live up to his older brother's insistent requests of finding a purpose for himself, struggling at most tasks given to him that other's find easy. At times he can only wonder if maybe this is not something he'll ever be capable of. If maybe his existence would find more worth as spare parts rather than any purpose society and his brother wants of him.",
+            "img": "marionetwork-rps.png"
+        }
+    },
+    {
+        "name": "PROPHETESQUE",
+        "author": "silas / ziggy",
+        "mainUrl": "https://prophetesque.gay/",
+        "chUrl": "https://prophetesque.gay/ocdirectory",
+        "otherUrls": {
+            "Toyhouse": "https://toyhou.se/silas"
+        },
+        "icon": "prophetesque.gif",
+        "desc": "A variety of characters, furry and human/oid alike, in a variety of genres!",
+        "tags": [
+            "TTRPG",
+            "Cyberpunk",
+            "Slice of life",
+            "Furry",
+            "Queer"
+        ],
+        "button": "prophetesque.png",
+        "cw": "flashing graphix on various oc pages and sensitive topics including car crashes, self harm, etc",
+        "featured": {
+            "name": "prophet",
+            "url": "https://prophetesque.gay/prophet",
+            "desc": "dubbed <a href=\"https://clips.twitch.tv/SaltyEasyPangolinWutFace\">\"kinda alright\"</a> by wayneradiotv circa 2020. emerged from a cornfield one day and has been haranguing the midwest usa ever since.",
+            "img": "prophetesque-prophet.gif"
+        }
+    },
+    {
+        "name": "Wildcat's Cove",
+        "author": "Wildcat",
+        "mainUrl": "https://wildcatscove.neocities.org/",
+        "chUrl": "https://wildcatscove.neocities.org/ocs/",
+        "otherUrls": {
+            "World": "https://wildcatscove.neocities.org/world/"
+        },
+        "button": "wildcat.gif",
+        "tags": [
+            "Fantasy",
+            "Worldbuilding"
+        ],
+        "mobile": "mostly"
     }
 ]

@@ -5,6 +5,13 @@ title: Changelog
 
 # Changelog
 
+## 2026-04-01
+
+- Added support for NSFW sites;
+- Updated rules surrounding NSFW sites;
+- Added "where did you put the widget" question on the form because girl can I never find them I'm just blind;
+- Added Here from Hereafter, OutKrop, MARIONETWORK, PROPHETESQUE, Wildcat's Cove;
+
 ## 2026-03-12
 
 - Updated fiercefreesia;
