@@ -39,7 +39,7 @@
 }
 
 :root {
-    --font-size: clamp(16px, 0.75rem + 0.8vw, 24px);
+    --font-size: clamp(1rem, 0.8929rem + 0.5357vw, 1.375rem);
     --font-size-h1: calc(var(--font-size) * 1.5);
     --font-size-h2: calc(var(--font-size) * 1.35);
     --font-size-h3: calc(var(--font-size) * 1.2);
@@ -259,6 +259,7 @@ p.no-indent {
 }
 
 .bounce:hover {
+    z-index: 999;
     transform: scale(2);
 }
 

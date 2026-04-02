@@ -6,18 +6,22 @@ title: Home
 
 <h1>OC Webring</h1>
 <p>A webring for people who make OCs!</p>
-<div class="pagination-nav">
-    <a href="/about/">What are those?</a>
-    <a href="/listing/">Browse the sites!</a>
-    <a href="/tag/">Browse the sites by tag!</a>
-    <a href="/join/">I want to join!</a>
-</div>
+<ul>
+    <li><a href="/about/">What are those?</a></li>
+    <li><a href="/listing/">Browse the sites!</a>
+        <ul>
+            <li><a href="/listing/nsfw/">(18+) Browse NSFW sites!</a></li>
+        </ul>
+    </li>
+    <li><a href="/tag/">Browse the sites by tag!</a></li>
+    <li><a href="/join/">I want to join!</a></li>
+</ul>
 <p><strong>Warning:</strong> The member sites may contain disturbing content, or content not suitable for minors. Make sure to read each site's content warning section before proceeding.</p>
 <p>Wall of members with buttons!</p>
 <div class="button">
     {{ for site of sites }}
         {{ if site.button }}
-            <img class="bounce" alt="{{ site.name + ' button' }}" src="/img/buttons/{{ site.button }}"/>
+            <a href="{{ site.chUrl }}"><img class="bounce" alt="{{ site.name + ' button' }}" src="/img/buttons/{{ site.button }}"/></a>
         {{ /if }}
     {{ /for }}
 </div>

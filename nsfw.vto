@@ -1,0 +1,41 @@
+---
+layout: layout.vto
+pagination:
+  data: nsfwsites
+  size: 10
+  addAllPagesToCollections: true
+permalink: "/listing/nsfw/{{ pagination.pageNumber == 0 ? '' : pagination.pageNumber + 1 }}/"
+eleventyComputed:
+  title: "NSFW Listing - Page {{ pagination.pageNumber + 1 }}"
+---
+<div id="black-screen" style="position: fixed; top: 0; left: 0; z-index: 999; background-color: #000; width: 100vw; height: 100vh;"></div>
+<h1>Listing - Page {{ pagination.pageNumber + 1 }}!</h1>
+<p style="text-align: center;"><a id="repent" href="/">Sorry, I'm not supposed to be here, take me back!</a></p>
+<div class="pagination-nav">
+    {{ for index, p of pagination.pages }}
+        <a href="{{ pagination.hrefs[index] }}"{{ if page.url == pagination.hrefs[index] }} aria-current="page"{{ /if }}>{{ index + 1 }}</a>
+    {{ /for }}
+</div>
+<div id="listing">
+    {{ for site of pagination.items }}
+        {{ include "sitebox.vto" { site: site } }}
+    {{ /for }}
+</div>
+<div class="pagination-nav">
+    {{ for index, p of pagination.pages }}
+        <a href="{{ pagination.hrefs[index] }}"{{ if page.url == pagination.hrefs[index] }} aria-current="page"{{ /if }}>{{ index + 1 }}</a>
+    {{ /for }}
+</div>
+<script>
+document.getElementById('repent').onclick = () => localStorage.removeItem('checked');
+let checked = localStorage.getItem('checked');
+if (!checked) {
+	if(confirm('The sites listed here are marked 18+ for their explicit content. By proceeding, you affirm that you are of age.')) {
+		localStorage.setItem('checked', true);
+	} else {
+		localStorage.removeItem('checked');
+		window.location.href = 'https://' + window.location.host;
+	}
+}
+document.getElementById('black-screen').style.display = 'none';
+</script>
