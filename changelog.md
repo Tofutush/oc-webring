@@ -5,6 +5,10 @@ title: Changelog
 
 # Changelog
 
+## 2026-04-02
+
+- Added 1 NSFW site;
+
 ## 2026-04-01
 
 - Added support for NSFW sites;

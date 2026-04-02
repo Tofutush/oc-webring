@@ -26,7 +26,7 @@ I accept NSFW sites, and they are:
 
 - Listed separately. The page is accessible from the homepage, but requires JS to function.
 - Not included in the main linked ring. That means you don't have to add the widget to your site; a link to this site would suffice.
-- Not accessible from tag pages; nor are their tags clickable.
+- Not accessible from tag pages. This means that clicking on their tags might lead to 404 pages, but I don't really care about this problem enough to fix it.
 - If you're okay with that, the signup process is the same!
 
 ## How to join
