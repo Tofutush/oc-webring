@@ -11,7 +11,7 @@ function fakeRedirect(mode) {
                 }
             }
             if (index === undefined) {
-                window.location.assign('/oc-webring/no-such-site/');
+                window.location.assign('/oc-webring/');
                 return;
             }
             switch (mode) {
