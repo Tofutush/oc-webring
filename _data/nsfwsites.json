@@ -1,1 +1,22 @@
-[]
+[
+	{
+		"name": "Captain Pervert",
+		"author": "Schwarzeralptraum",
+		"mainUrl": "https://captain-pervert.neocities.org",
+		"chUrl": "https://captain-pervert.neocities.org/characters",
+		"icon": "cp.png",
+		"desc": "Captain Pervert is an art project that follows the naughty adventures of a pilot and his all-girls flight crew and first officer. May occasionally feature AU or crossover content from other creators.",
+		"tags": [
+			"Aviation",
+			"Art"
+		],
+		"mobile": "mostly",
+		"button": "cp.png",
+		"featured": {
+			"name": "S Gustaf Bergström",
+			"url": "https://captain-pervert.neocities.org/characters/gustaf",
+			"desc": "The captain himself. The pilot of a chartered private luxury jet company, he's goofier than he looks.",
+			"img": "cp-gustaf.jpg"
+		}
+	}
+]
