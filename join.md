@@ -3,6 +3,8 @@ layout: layout.vto
 title: Join!
 ---
 
+**Notice Summer 2026: I do not have Google access for the summer, and cannot process new form submissions. Incredibly sorry about that! I'll get to it in September!**
+
 # Join
 
 I'm so glad you wanna join! Please read the rules before doing so:
