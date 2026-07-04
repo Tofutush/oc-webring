@@ -738,10 +738,10 @@
         }
     },
     {
-        "name": "P A R A K I B A R A",
+        "name": "False Dawn.",
         "author": "Kiba",
-        "mainUrl": "https://parakibara.neocities.org/",
-        "chUrl": "https://parakibara.neocities.org/ocs",
+        "mainUrl": "https://falsedawn.neocities.org/home/",
+        "chUrl": "https://falsedawn.neocities.org/hobbies/ocs/",
         "button": "parakibara.png"
     },
     {
@@ -1062,19 +1062,6 @@
         "cw": "Sensitive topics; very flashy background"
     },
     {
-        "name": "document - my - death",
-        "author": "juno",
-        "mainUrl": "https://documentmydeath.nekoweb.org",
-        "chUrl": "https://documentmydeath.nekoweb.org/shrines/micheal.html",
-        "cw": "few sensitive topics & some flashy lights but there will be appropriate warnings on the landing page!",
-        "desc": "my site is being updated so i will work out a proper section for my ocs! right now its just my micheal shrine.",
-        "featured": {
-            "name": "micheal",
-            "url": "https://documentmydeath.nekoweb.org/shrines/micheal.html",
-            "img": "dmd-michealle.png"
-        }
-    },
-    {
         "name": "Sterki Herz's Cafe",
         "author": "Sterki Herz",
         "authorUrl": "https://linktr.ee/sterkiherz",
@@ -1227,6 +1214,89 @@
             "Fantasy",
             "Worldbuilding"
         ],
+        "mobile": "mostly"
+    },
+    {
+        "name": "maggy☆。*",
+        "author": "Maggy",
+        "mainUrl": "https://maggyoutthere.neocities.org/home",
+        "chUrl": "https://maggyoutthere.neocities.org/projects/original-characters",
+        "mobile": "mostly",
+        "icon": "maggy.gif",
+        "desc": "I have plenty of ocs, both in-fandom and standalones! The whole reason I joined Neocities was to make em all their own page and lore, so here we are :P",
+        "cw": "The oc pages themselves don't have any flashing or bright images, but my website as a whole has a lot of them",
+        "button": "maggy.gif"
+    },
+    {
+        "name": "The Astral Void",
+        "author": "Kaido",
+        "mainUrl": "https://astralvoidx.neocities.org/pages/home",
+        "chUrl": "https://astralvoidx.neocities.org/pages/art_home",
+        "mobile": "mostly",
+        "icon": "astralvoid.ico",
+        "button": "astralvoid.png",
+        "cw": "Sensitive topic warning for some characters."
+    },
+    {
+        "name": "Detective Azura's Bunker",
+        "author": "Detective Azura",
+        "mainUrl": "https://detectiveazurasbunker.nekoweb.org/",
+        "chUrl": "https://detectiveazurasbunker.nekoweb.org/characterdirectory",
+        "otherUrls": {
+            "Investigations": "https: //detectiveazurasbunker.nekoweb.org/myinvestigations"
+        },
+        "icon": "dab.png",
+        "mobile": "kinda",
+        "tags": [
+            "Science fantasy"
+        ],
+        "desc": "The Azural Multiverse is my original fictional multiverse where most of my main projects fall under, and feature various characters in various narratives that are interconnected. Each universe has its own slight variation on the general set of \"rules\" & singular magic system I'm using for the multiverse.",
+        "cw": "Site itself is 16+ with 18+ portions being hidden by a planned pop-up. My works as a whole contain violence, body horror, abuse, references to real-world politics, drugs, flashing light, and scary scenes.",
+        "featured": {
+            "name": "Emery Mayvu",
+            "url": "https://detectiveazurasbunker.nekoweb.org/emery",
+            "desc": "Overarching protagonist of the upcoming Destiny Isles series & the current representative of the Sun. Originates from the Tempestos Universe.",
+            "img": "dab-emery.png"
+        }
+    },
+    {
+        "name": "Blight",
+        "author": "Kami",
+        "mainUrl": "https://blight.neocities.org/",
+        "chUrl": "https://blight.neocities.org/oc/",
+        "mobile": "mostly"
+    },
+    {
+        "name": "e0nbreak",
+        "author": "Blanki",
+        "mainUrl": "https://e0nbreak.neocities.org/",
+        "chUrl": "https://e0nbreak.neocities.org/storyprojects/bewilthredcast",
+        "desc": "After falling through various rifts in the universe, seven teenagers are the universe's only fighting chance against a tyrannical organization set to bring back chaos and disorder to the universe.",
+        "tags": [
+            "Adventure",
+            "Magical fighter"
+        ],
+        "cw": "Mental Illness, Trauma, Abuse, War, Bright Colors",
+        "button": "e0nbreak.jpg"
+    },
+    {
+        "name": "The Blind Sun",
+        "author": "Silas",
+        "mainUrl": "https://theblindsun.neocities.org/",
+        "chUrl": "https://theblindsun.neocities.org/characters/characters",
+        "otherUrls": {
+            "World": "https://theblindsun.neocities.org/structure/worldstructure"
+        },
+        "desc": "The Blind Sun is about the world of Parousia created by the Heavens after humanity wiped itself out as a form of giving them a second chance.",
+        "cw": "Mentions/depictions of modern war and real historical events, overall violence",
+        "button": "tbs.png"
+    },
+    {
+        "name": "Woden Burison",
+        "author": "Woden Burison",
+        "mainUrl": "https://wodenburison.neocities.org/",
+        "chUrl": "https://wodenburison.neocities.org/oc",
+        "desc": "The character is Woden Burison who knows of the multiverse and can watch his other selves. In practice this is me playing solo ttrpgs and sharing via blog/wiki/podcast.",
         "mobile": "mostly"
     }
 ]

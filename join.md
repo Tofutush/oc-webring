@@ -3,8 +3,6 @@ layout: layout.vto
 title: Join!
 ---
 
-**Notice Summer 2026: I do not have Google access for the summer, and cannot process new form submissions. Incredibly sorry about that! I'll get to it in September!**
-
 # Join
 
 I'm so glad you wanna join! Please read the rules before doing so:
@@ -45,9 +43,9 @@ Fill out this form:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScoA00ADtbuLFsfY9MOCebgei40PBo3zckfIOVyzQyjCY3-GA/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-After you've submitted either the PR or the form, you can add the widget to your site.
-
 ## Widget
+
+Make sure to add the widget either before or right after submitting the form!
 
 ```html
 <div id="oc-webring-widget">
@@ -94,3 +92,5 @@ If you can't put the widget exactly like that, then including these three links 
 <a href="https://tofutush.github.io/oc-webring/rand/?site=YOUR_SITE_NAME">Random</a>
 <a href="https://tofutush.github.io/oc-webring/next/?site=YOUR_SITE_NAME">Next</a>
 ```
+
+If I take too long to add you, or you think I might've missed your submission, or I made an error on your entry, feel free to [give me a nudge](https://tofutush.leprd.space/guestbook/)!

@@ -5,6 +5,12 @@ title: Changelog
 
 # Changelog
 
+## 2026-07-04
+
+- Added maggy, The Astral Void, Detective Azura's Bunker, e0nbreak, The Blind Sun, Woden Burison, and 2 18+ sites;
+- Updated False Dawn;
+- Removed 1 site;
+
 ## 2026-04-02
 
 - Added 1 NSFW site;

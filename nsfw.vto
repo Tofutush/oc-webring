@@ -30,7 +30,7 @@ eleventyComputed:
 document.getElementById('repent').onclick = () => localStorage.removeItem('checked');
 let checked = localStorage.getItem('checked');
 if (!checked) {
-	if(confirm('The sites listed here are marked 18+ for their explicit content. By proceeding, you affirm that you are of age.')) {
+	if(confirm('The sites listed here are marked 18+ for their explicit content. This page right here includes gorey imagery. By proceeding, you affirm that you are of age.')) {
 		localStorage.setItem('checked', true);
 	} else {
 		localStorage.removeItem('checked');

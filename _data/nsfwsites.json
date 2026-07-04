@@ -18,5 +18,48 @@
 			"desc": "The captain himself. The pilot of a chartered private luxury jet company, he's goofier than he looks.",
 			"img": "cp-gustaf.jpg"
 		}
+	},
+	{
+		"name": "Smiles",
+		"author": "Mister Smiles",
+		"chUrl": "https://showmeyourteeth.neocities.org/OCVerse",
+		"mainUrl": "https://showmeyourteeth.neocities.org/",
+		"desc": "My OCVerse is a horror project with a focus on surgical horror.  It follows Rose, an amnesiac patient of a mad surgeon who is attempting to escape from his labyrinthine laboratory and save Amelia, a young girl set to be experimented on soon if nothing is done to stop the Surgeon.",
+		"button": "smiles.gif",
+		"icon": "smiles.gif",
+		"tags": [
+			"Horror",
+			"Surgical horror",
+			"Body horror",
+			"Psychological horror"
+		],
+		"cw": "18+, gore, torture, surgery, hospitals, children under peril",
+		"featured": {
+			"name": "Rose",
+			"url": "https://showmeyourteeth.neocities.org/OCVerse",
+			"desc": "The victim of a mad Surgeon. He is stripped of his skin, his hands, right forearm, and left leg have been replaced with prosthetics. The tissue on his face has been peeled away, exposing the skull beneath and forming the shape of five \"petals\" suspended around his head by a metal ring. A cavity on his chest reveals his heart. He is amnesiac, surgical torture and brainwashing has left him in a state of inconsistent lucidity, varying between animal ferocity, childlike curiosity, and normal humanity. He communicates through a speaker in his throat, which allows him to record and play audio clips. In spite of his terrifying appearance, he is kind and well meaning, though prone to episodes of violence and bloodthirst that leave him terrified and ashamed.",
+			"img": "smiles-rose.jpg"
+		}
+	},
+	{
+		"name": "dtptr",
+		"author": "victor",
+		"mainUrl": "https://dtptr.nekoweb.org",
+		"chUrl": "https://dtptr.nekoweb.org/characters",
+		"mobile": "mostly",
+		"desc": "A bunch of anthro animals living horrid lives!!",
+		"icon": "vic.png",
+		"button": "vic.gif",
+		"tags": [
+			"Slice of life",
+			"Furry",
+			"Anthro"
+		],
+		"featured": {
+			"name": "Narco",
+			"url": "https://dtptr.nekoweb.org/characters/narco.html",
+			"desc": "Just mean. Very mean",
+			"img": "vic-narc.png"
+		}
 	}
 ]
