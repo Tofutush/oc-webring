@@ -1298,5 +1298,27 @@
         "chUrl": "https://wodenburison.neocities.org/oc",
         "desc": "The character is Woden Burison who knows of the multiverse and can watch his other selves. In practice this is me playing solo ttrpgs and sharing via blog/wiki/podcast.",
         "mobile": "mostly"
+    },
+    {
+        "name": "Alex's Dumpster",
+        "author": "teslasp2",
+        "mainUrl": "https://teslasp2.com/",
+        "chUrl": "https://teslasp2.com/chars/",
+        "lang": "en|es",
+        "desc": "A bunch of furry adjacent gay creatures that I love dearly. I usually draw them in their day to day and general just vibes with not much story all around.",
+        "tags": [
+            "Furry",
+            "Queer",
+            "Slice of life"
+        ],
+        "icon": "https://files.teslasp2.com/assets/imgs/oc-bios/alis/alisThumb.webp",
+        "button": "https://files.teslasp2.com/assets/imgs/buttons/own/teslaButton.gif",
+        "cw": "Crass language and sensitive topics suitable for 14+",
+        "featured": {
+            "name": "Venus Fitzloup",
+            "url": "https://teslasp2.com/chars/venus",
+            "desc": "My first ever OC",
+            "img": "https://files.teslasp2.com/assets/imgs/oc-bios/venus/venusHeadshot.webp"
+        }
     }
 ]
