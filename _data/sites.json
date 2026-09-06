@@ -1298,5 +1298,144 @@
         "chUrl": "https://wodenburison.neocities.org/oc",
         "desc": "The character is Woden Burison who knows of the multiverse and can watch his other selves. In practice this is me playing solo ttrpgs and sharing via blog/wiki/podcast.",
         "mobile": "mostly"
+    },
+    {
+        "name": "RIDDLER",
+        "author": "Ethan",
+        "authorUrl": "https://riddler.straw.page",
+        "mainUrl": "https://riddler.nekoweb.org",
+        "chUrl": "https://riddler.nekoweb.org/mct/ocs",
+        "desc": "Parallax is a narrative-focused fanwork set within the WttG universe. While following the established structure of the series, it expands its narrative through an original cast of characters and a story centered on morality, personhood, and interpersonal relationships. Although connected to existing series lore, it is intended to be experienced as a standalone work.",
+        "tags": [
+            "Psychological horror",
+            "Philosophical fiction",
+            "Narrative horror"
+        ],
+        "button": "riddler.gif",
+        "cw": "Eyestrain",
+        "mobile": "mostly",
+        "featured": {
+            "name": "Coal Westwood",
+            "url": "https://riddler.nekoweb.org/ss/coal",
+            "desc": "Coal Westwood is the protagonist of Parallax. A disgraced former actor turned spokesperson for the Noir, Coal is a charismatic yet emotionally withdrawn man whose past crimes and ongoing loyalty to the organization place him at the center of the story's events.",
+            "img": "riddler-coal.png"
+        }
+    },
+    {
+        "name": "betapopsicle",
+        "author": "Beta",
+        "mainUrl": "https://betapopsicle.neocities.org/",
+        "chUrl": "https://betapopsicle.neocities.org/aislin",
+        "desc": "silly story about phantom thiefs, evil governments, and doomed gl",
+        "mobile": "kinda",
+        "tags": [
+            "Mystery",
+            "LGBTQ+",
+            "Drama"
+        ],
+        "button": "betapopsicle.gif",
+        "cw": "Flashing gifs, experimentation",
+        "featured": {
+            "name": "Aislin Diamant",
+            "url": "https://betapopsicle.neocities.org/aislin",
+            "img": "betapopsicle-aisilin.png"
+        }
+    },
+    {
+        "name": "sleepy shroom",
+        "author": "shroom",
+        "mainUrl": "https://sleepy-shroom.neocities.org/",
+        "chUrl": "https://sleepy-shroom.neocities.org/oc/",
+        "desc": "Couple of my oc projects- the main ones being a fantasy world and two supernatural ones. The one with the most info currently is a slice of life where my blorbos get to experience the found family trope and get thrown into liminal spaces sometimes",
+        "tags": [
+            "Slice of life",
+            "Paranormal",
+            "Fantasy"
+        ],
+        "button": "sleepyshroom.png",
+        "cw": "mentions of self-harm, suicide, child abuse and neglect",
+        "featured": {
+            "name": "Ather",
+            "url": "https://sleepy-shroom.neocities.org/oc/404/characters/ather/overview",
+            "desc": "hella chaotic and silly!!! really anxious, awkward, and wants to be the BEST at everything",
+            "img": "sleepyshroom-ather.gif"
+        }
+    },
+    {
+        "name": "Moni's Room",
+        "author": "Moni",
+        "mainUrl": "https://monisroom.neocities.org/",
+        "chUrl": "https://monisroom.neocities.org/myocs",
+        "otherUrls": {
+            "Sketchbook": "https://monisroom.neocities.org/sketchbook"
+        },
+        "icon": "moni.png",
+        "desc": "They're mostly personal projects right now but I hope to finish writing their stories and publish them in the future.",
+        "tags": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "mobile": "kinda",
+        "button": "moni.gif",
+        "cw": "Contains auto-playing music."
+    },
+    {
+        "name": "GlitchWolf47's Domain",
+        "author": "GlitchWolf47",
+        "mainUrl": "https://glitchwolf47.nekoweb.org/",
+        "chUrl": "https://glitchwolf47.nekoweb.org/Kidpix#oc-gallery",
+        "otherUrls": {
+            "2026 art": "https://glitchwolf47.nekoweb.org/gallery/2026-art/"
+        },
+        "icon": "glitchy.gif",
+        "desc": "I could not describe EVERY world and story I have for my characters because there are just so many XD Buuuuut I am planning to have world pages for them so if you want you can go read those to understand the world they live in!",
+        "button": "glitchy.gif",
+        "cw": "Flashing lights",
+        "featured": {
+            "name": "Jasper",
+            "url": "https://glitchwolf47.nekoweb.org/profiles/Jasper",
+            "desc": "Jasper is an alien who lives on earth and has a girlfriend and has to rescue her from evil aliens who wanna use her as a host for bad things :P",
+            "img": "glitchy-jasper.png"
+        }
+    },
+    {
+        "name": "amiga1200",
+        "author": "niels",
+        "mainUrl": "https://amiga1200.neocities.org/",
+        "chUrl": "https://amiga1200.neocities.org/shrines/ocs",
+        "cw": "sensitive topics: unethical experimentation, mental illness",
+        "mobile": "kinda"
+    },
+    {
+        "name": "Gika Ayumi",
+        "author": "Ayumi",
+        "mainUrl": "https://gikaayumi.nekoweb.org",
+        "chUrl": "https://gikaayumi.nekoweb.org/paginas/my-ocs.html",
+        "icon": "ayumi.png",
+        "desc": "My main magical world focused on Medieval Fantasy, where my OCs live (they can be in the same era or in different eras), I’m still writing about the world, the magic, and everything that inhabits it. I’m building it for a TTRPG campaign",
+        "tags": [
+            "Medieval",
+            "High fantasy",
+            "RPG",
+            "Adventure"
+        ],
+        "button": "ayumi.gif",
+        "cw": "Some characters may contain more mature content or have some triggers involving mental health",
+        "featured": {
+            "name": "Lysander",
+            "url": "https://gikaayumi.nekoweb.org/ocs/lysander.html",
+            "desc": "The guy who screws everything up, the guy who unleashes an ancient demon simply because he is addicted to gaining more knowledge and changing the world, which ends up killing the person he loves most, who happens to be the princess of the empire he serves as a diplomatic advisor",
+            "img": "ayami-lysander.png"
+        }
+    },
+    {
+        "name": "Crispin's Cafe",
+        "author": "Crispin",
+        "mainUrl": "https://crispins-cafe.neocities.org/",
+        "chUrl": "https://crispins-cafe.neocities.org/character-directory",
+        "icon": "crispin.png",
+        "desc": "Most of my OCs are real-life rollercoasters I took the general vibe and history of and turned into humans. Some of them are from my main project, Administrator.",
+        "mobile": "mostly",
+        "button": "crispin.png"
     }
 ]

@@ -61,5 +61,40 @@
 			"desc": "Just mean. Very mean",
 			"img": "vic-narc.png"
 		}
+	},
+	{
+		"name": "polly.moe",
+		"author": "Polly",
+		"mainUrl": "https://polly.moe/",
+		"chUrl": "https://polly.moe/ocs.html",
+		"icon": "pollymoe.png",
+		"desc": "Veldren is a world of magic ruled by seven deities. it's home to a bunch of different stories, each following someone as they find their way through life there.",
+		"button": "pollymoe.gif",
+		"featured": {
+			"name": "76",
+			"url": "https://polly.moe/ocs.html",
+			"desc": "In charge of a fixer agency in Caldris, 76 is an extremely eccentric individual. Even Aldric, who's worked with him the longest, can't fully read him.",
+			"img": "pollymoe-76.png"
+		}
+	},
+	{
+		"name": "Convergence",
+		"author": "Veronika",
+		"authorUrl": "https://horse.jp.net/",
+		"mainUrl": "https://convergence.nekoweb.org/",
+		"chUrl": "https://convergence.nekoweb.org/cast",
+		"otherUrls": {
+			"Literature": "https://horse.jp.net/literature"
+		},
+		"icon": "convergence.png",
+		"desc": "The main site for the \"Convergence\" Mass Effect AU. Contains lore and headcanons surrounding my characters and their lives.",
+		"mobile": "mostly",
+		"tags": [
+			"Science fiction",
+			"Video games",
+			"Drama"
+		],
+		"button": "convergence.gif",
+		"cw": "gore, deportation, xenophobia, adult themes, drug use, addiction, SA, CSA"
 	}
 ]
