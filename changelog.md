@@ -7,7 +7,7 @@ title: Changelog
 
 ## 2026-09-06
 
-- Added RIDDLER, betapopsicle, sleepy shroom, Moni's Room, GlitchWolf47, amiga1200, Gika Ayumi, Crispin's Cafe, and two 18+ sites;
+- Added RIDDLER, betapopsicle, sleepy shroom, Moni's Room, GlitchWolf47, amiga1200, Gika Ayumi, Crispin's Cafe, and two 18+ sites (index 109 (this is for me to remember where I left off));
 - Removed tag pages, site icons, mobile-friendliness, and featured characters for ease of maintenance. Which is to say, I think I may have put too many fields in this thing that it gives me too much info to input which led to me procrastinating on adding sites so I'm going for the root of the problem slowly but surely;
     - I mean like most webrings really have just one url going on, but like for an OC webring I still want at least a little bit of
 
