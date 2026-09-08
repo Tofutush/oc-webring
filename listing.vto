@@ -1,9 +1,9 @@
 ---
 layout: layout.vto
 pagination:
-data: sites
-size: 20
-addAllPagesToCollections: true
+  data: sites
+  size: 20
+  addAllPagesToCollections: true
 permalink: "/listing/{{ pagination.pageNumber == 0 ? '' : pagination.pageNumber + 1 }}/"
 eleventyComputed:
 title: "Listing - Page {{ pagination.pageNumber + 1 }}"
