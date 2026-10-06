@@ -96,5 +96,16 @@
 		],
 		"button": "convergence.gif",
 		"cw": "gore, deportation, xenophobia, adult themes, drug use, addiction, SA, CSA"
+	},
+	{
+		"name": "Pink Bowie's Corner",
+		"author": "Jesse",
+		"mainUrl": "https://pinkbowie.nekoweb.org/",
+		"chUrl": "https://pinkbowie.nekoweb.org/bisou/characters/index.html",
+		"otherUrls": {
+			"World info": "https://pinkbowie.nekoweb.org/bisou/"
+		},
+		"desc": "I have a lot of original universe, but BISOU is my current project. A psychological queer romantic drama set in Bouvale, a fictional city full of exquisite and unique characters. Language: (PT-BR), but I will publish the EN translations soon!",
+		"cw": "Very NSFW with heavy themes like traumatic relationship, sexual assault, BDSM practices and morally dubious characters"
 	}
 ]
