@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2026-10-06
+
+- Added Pseudocide, Reni likes you, mia's mansion, sodascribbles, and 1 18+ site; (index 116)
+- I will try to go through join requests at least once a month. Even have a recurring task reminder up. Trust;
+
 ## 2026-09-06
 
 - Added RIDDLER, betapopsicle, sleepy shroom, Moni's Room, GlitchWolf47, amiga1200, Gika Ayumi, Crispin's Cafe, and two 18+ sites (index 109 (this is for me to remember where I left off));

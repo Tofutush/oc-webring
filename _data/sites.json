@@ -1437,5 +1437,42 @@
         "desc": "Most of my OCs are real-life rollercoasters I took the general vibe and history of and turned into humans. Some of them are from my main project, Administrator.",
         "mobile": "mostly",
         "button": "crispin.png"
+    },
+    {
+        "name": "Pseudocide",
+        "author": "Umibozo",
+        "authorUrl": "https://umibozoomi.neocities.org/",
+        "mainUrl": "https://pseudocide.neocities.org/",
+        "chUrl": "https://pseudocide.neocities.org/characters",
+        "mobile": "kinda",
+        "otherUrls": {
+            "About": "https://pseudocide.neocities.org/about"
+        },
+        "desc": "Pseudocide encompasses the fantasy world Iaia, made up of thousands of species and magic! Desperate to escape her life, Tammy fakes her death for the chance to become a god.",
+        "cw": "Some homophobia and bigotry does exist within the story, but it is not glorified.",
+        "button": "pseudocide.gif"
+    },
+    {
+        "name": "Reni likes you!!",
+        "author": "Reni",
+        "mainUrl": "https://chooocat.neocities.org/",
+        "chUrl": "https://chooocat.neocities.org/characters",
+        "button": "reni.gif"
+    },
+    {
+        "name": "mia's mansion",
+        "author": "mia",
+        "mainUrl": "https://r0tten-lady.neocities.org/",
+        "chUrl": "https://r0tten-lady.neocities.org/ocwiki",
+        "button": "mia.png",
+        "cw": "Contains mentions of topics such as substance abuse, mental illness, domestic abuse, and murder."
+    },
+    {
+        "name": "sodascribbles",
+        "author": "sodascribbles",
+        "mainUrl": "https://sodascribbles.neocities.org/",
+        "chUrl": "https://sodascribbles.neocities.org/ocs",
+        "mobile": "kinda",
+        "button": "sodascribbles.gif"
     }
 ]
