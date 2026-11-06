@@ -1474,5 +1474,69 @@
         "chUrl": "https://sodascribbles.neocities.org/ocs",
         "mobile": "kinda",
         "button": "sodascribbles.gif"
+    },
+    {
+        "name": "Any.com",
+        "author": "Any",
+        "mainUrl": "https://anypup.neocities.org/Main",
+        "chUrl": "https://anypup.neocities.org/RefSheets",
+        "desc": "Any.com is a website made by Any for themselves. Expect moderate swearing, minor and major changes, and rambling about their OCs and hyperfixations.",
+        "button": "any.png",
+        "cw": "Flashing lights, (possible) moderate gore, mild swearing, sensitive topics."
+    },
+    {
+        "name": "Rei's Commissioned Notebook",
+        "author": "ssuchi",
+        "mainUrl": "https://kokorotsuki.com/",
+        "chUrl": "https://kokorotsuki.com/index.html#rei/profile",
+        "otherUrls": {
+            "失落的手帳": "https://kokorotsuki.com/index.html#rei/lost-notebook"
+        },
+        "desc": "Rei is a mysterious girl who woke up in the digital void. She found a soulless doll and became part of it. Later, she created a notebook to collect lost memories and began searching for their owner.",
+        "button": "reis-notebook.gif",
+        "mobile": "kinda"
+    },
+    {
+        "name": "Kaneko's Space",
+        "author": "Kanekos",
+        "mainUrl": "https://kanekos.neocities.org/",
+        "chUrl": "https://kanekos.neocities.org/oc-gallery/",
+        "desc": "A collection of OCs from different stories and worlds, mostly fantasy or sci-fi.",
+        "mobile": "mostly",
+        "button": "kaneko.png",
+        "cw": "Some sensitive/ dark topics like violence, murder, abuse or toxic relationships - individual character profiles have their own warnings"
+    },
+    {
+        "name": "Alice's OCs",
+        "author": "Alice",
+        "authorUrl": "https://bsky.app/profile/alicebutton.bsky.social",
+        "mainUrl": "https://alicesocs.neocities.org/",
+        "chUrl": "https://alicesocs.neocities.org/",
+        "button": "alicesocs.gif"
+    },
+    {
+        "name": "Be The Young | Supernatural Fanfiction",
+        "author": "Emily",
+        "mainUrl": "https://hahahahahangst.com",
+        "chUrl": "https://hahahahahangst.com/ocs",
+        "mobile": "kinda"
+    },
+    {
+        "name": "Zconsta's Site",
+        "author": "Zconsta",
+        "mainUrl": "https://zconsta.neocities.org/",
+        "chUrl": "https://zconsta.neocities.org/characters",
+        "desc": "Just four guys existing for fun and doing stupid stuff :D",
+        "button": "zconsta.gif",
+        "cw": "Occasional swearing."
+    },
+    {
+        "name": "Drako's Den",
+        "author": "Drako",
+        "mainUrl": "https://drakothedragon.neocities.org/",
+        "chUrl": "https://drakothedragon.neocities.org/drakoverse/characters",
+        "desc": "Featuring dimension travellers, dark gods, shapeshifters, the undead, and SO much more, my multiverse contains various intersecting stories!",
+        "button": "DrakosDenButton.gif",
+        "cw": "Body horror, death/reanimation, violence, murder, and other sensitive topics"
     }
 ]
