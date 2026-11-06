@@ -5,6 +5,11 @@ title: Changelog
 
 # Changelog
 
+## 2026-11-05
+
+- Added Any.com, Rei's Commissioned Notebook, Kaneko's Space, Alice's OCs, Be The Young | Supernatural Fanfiction, Zconsta's Site, Drako's Den; (index 124)
+    - By the way I've been trying to keep a consistent one-update-a-month schedule. If you applied right after an update, it may take me a while. Sorry!
+
 ## 2026-10-06
 
 - Added Pseudocide, Reni likes you, mia's mansion, sodascribbles, and 1 18+ site; (index 116)
