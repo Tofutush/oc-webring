@@ -17,6 +17,8 @@ jobs:
           node-version: current
 
       - name: Install dependencies & build
+        env:
+          npm_config_allow_remote: root
         run: |
           npm ci
           npm run build
